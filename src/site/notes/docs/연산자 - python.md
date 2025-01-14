@@ -1,0 +1,16 @@
+---
+{"description":null,"aliases":null,"tags":null,"created":"2023-05-01T13:06:53","updated":"2023-07-15T21:33:02","title":"연산자 - python","dg-publish":true,"permalink":"/docs/연산자 - python/","dgPassFrontmatter":true}
+---
+
+- 대입(할당)
+- 비교
+- 논리
+- 비트
+- 멤버?
+	- `in` : dict나 set이 저시기 안에 있으면 True, 아니면 False를 리턴한다.
+	- `not in`
+- 식별?
+	- `is` : 주소를 비교하는 연산임 ` == ` 과는 다르다.
+	- `is not`
+- 연산자 우선순위
+- `//` : 몫 연산자, 따라서 결과는 정수형임.
