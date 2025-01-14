@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Daily Notes","created":"2023-08-15T09:31:26","updated":"2023-10-09T19:23:49","dg-publish":true,"permalink":"/docs/daily-notes/daily-notes/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"description":null,"title":"Daily Notes","created":"2023-08-15T09:31:26","updated":"2023-10-09T19:23:49","dg-publish":true,"permalink":"/docs/Daily Notes/Daily Notes/","dgPassFrontmatter":true}
 ---
 
 

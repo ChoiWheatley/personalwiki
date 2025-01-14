@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-05-24T09:26:36","updated":"2025-01-14T18:26:59","title":"Obsidian으로 블로그 만들기","dg-publish":true,"permalink":"/docs/obsidian/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-05-24T09:26:36","updated":"2025-01-14T18:26:59","title":"Obsidian으로 블로그 만들기","dg-publish":true,"permalink":"/docs/Obsidian으로 블로그 만들기/","dgPassFrontmatter":true}
 ---
 
 - [[docs/index/0070 Obsidian 💎\|obsidian]]

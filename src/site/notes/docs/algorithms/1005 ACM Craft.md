@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"1005 ACM Craft","created":"2023-08-23T00:03:37","updated":"2025-01-01T22:15:07","dg-publish":true,"permalink":"/docs/algorithms/1005-acm-craft/","dgPassFrontmatter":true}
+{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"1005 ACM Craft","created":"2023-08-23T00:03:37","updated":"2025-01-01T22:15:07","dg-publish":true,"permalink":"/docs/algorithms/1005 ACM Craft/","dgPassFrontmatter":true}
 ---
 
 

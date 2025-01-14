@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"title":"0090 Bucket Lists 🪣","created":"2023-02-26T20:14:43","categories":[null],"aliases":["bucketlist","버킷리스트"],"tags":["index bucketlist"],"updated":"2025-01-14T18:57:57","dg-publish":true,"permalink":"/docs/index/0090-bucket-lists/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"title":"0090 Bucket Lists 🪣","created":"2023-02-26T20:14:43","categories":[null],"aliases":["bucketlist","버킷리스트"],"tags":["index bucketlist"],"updated":"2025-01-14T18:57:57","dg-publish":true,"permalink":"/docs/index/0090 Bucket Lists 🪣/","dgPassFrontmatter":true}
 ---
 
 parent link: 

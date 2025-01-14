@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:03:42","updated":"2025-01-07T16:01:54","title":"0014 Python 🐍","dg-publish":true,"permalink":"/docs/index/0014-python/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:03:42","updated":"2025-01-07T16:01:54","title":"0014 Python 🐍","dg-publish":true,"permalink":"/docs/index/0014 Python 🐍/","dgPassFrontmatter":true}
 ---
 
 - [[docs/venv activation and deactivation\|venv activation and deactivation]]

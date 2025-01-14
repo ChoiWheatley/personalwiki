@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"11279 최대 힙 {boj} {heap} {python class Heap}","created":"2023-08-19T13:11:03","updated":"2023-08-19T13:13:45","dg-publish":true,"permalink":"/docs/algorithms/11279-boj-heap-python-class-heap/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"description":null,"title":"11279 최대 힙 {boj} {heap} {python class Heap}","created":"2023-08-19T13:11:03","updated":"2023-08-19T13:13:45","dg-publish":true,"permalink":"/docs/algorithms/11279 최대 힙 {boj} {heap} {python class Heap}/","dgPassFrontmatter":true}
 ---
 
 <https://www.acmicpc.net/problem/11279>

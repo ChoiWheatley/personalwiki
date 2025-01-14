@@ -1,5 +1,5 @@
 ---
-{"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-05-26T17:25:57","updated":"2024-12-23T17:38:14","title":"cheapest flights within k stops","links":"https://leetcode.com/problems/cheapest-flights-within-k-stops/","dg-publish":true,"permalink":"/docs/algorithms/cheapest-flights-within-k-stops/","dgPassFrontmatter":true}
+{"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-05-26T17:25:57","updated":"2024-12-23T17:38:14","title":"cheapest flights within k stops","links":"https://leetcode.com/problems/cheapest-flights-within-k-stops/","dg-publish":true,"permalink":"/docs/algorithms/cheapest flights within k stops/","dgPassFrontmatter":true}
 ---
 
 - 테스트케이스가 책이 출판된 뒤에 변경이 되어 타임아웃이 발생해서 멘붕이 왔었다.

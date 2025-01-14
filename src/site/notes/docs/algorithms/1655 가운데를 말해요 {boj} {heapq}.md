@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"1655 가운데를 말해요 {boj} {heapq}","created":"2023-08-19T17:30:38","updated":"2023-08-19T17:36:48","dg-publish":true,"permalink":"/docs/algorithms/1655-boj-heapq/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"description":null,"title":"1655 가운데를 말해요 {boj} {heapq}","created":"2023-08-19T17:30:38","updated":"2023-08-19T17:36:48","dg-publish":true,"permalink":"/docs/algorithms/1655 가운데를 말해요 {boj} {heapq}/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"title":"Segment Tree 연습문제 2","created":"2023-02-14T23:46:49","categories":["problem","문제"],"aliases":null,"tags":["segment_tree"],"state":"Pass","date created":"Tuesday, February 14th 2023, 11:46:49 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-12-23T18:07:01","dg-publish":true,"permalink":"/docs/algorithms/segment-tree-2/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"title":"Segment Tree 연습문제 2","created":"2023-02-14T23:46:49","categories":["problem","문제"],"aliases":null,"tags":["segment_tree"],"state":"Pass","date created":"Tuesday, February 14th 2023, 11:46:49 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-12-23T18:07:01","dg-publish":true,"permalink":"/docs/algorithms/Segment Tree 연습문제 2/","dgPassFrontmatter":true}
 ---
 
 parent link: [[docs/Segment Tree\|Segment Tree]]

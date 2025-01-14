@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"tags":["english"],"created":"2023-03-09T16:55:06","updated":"2025-01-14T18:58:02","title":"0100 English 👻","dg-publish":true,"permalink":"/docs/index/0100-english/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"tags":["english"],"created":"2023-03-09T16:55:06","updated":"2025-01-14T18:58:02","title":"0100 English 👻","dg-publish":true,"permalink":"/docs/index/0100 English 👻/","dgPassFrontmatter":true}
 ---
 
 [[docs/index/waypoint\|waypoint]]

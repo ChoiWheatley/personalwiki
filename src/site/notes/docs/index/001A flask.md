@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"001A flask","created":"2024-03-11T13:50:09","updated":"2024-05-05T19:39:51","dg-publish":true,"permalink":"/docs/index/001-a-flask/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"description":null,"title":"001A flask","created":"2024-03-11T13:50:09","updated":"2024-05-05T19:39:51","dg-publish":true,"permalink":"/docs/index/001A flask/","dgPassFrontmatter":true}
 ---
 
 [[docs/application factory {flask}\|application factory {flask}]]  

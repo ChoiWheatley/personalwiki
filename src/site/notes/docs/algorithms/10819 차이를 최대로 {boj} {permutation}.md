@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":[],"description":null,"title":"10819 차이를 최대로 {boj} {permutation}","created":"2023-08-15T11:35:09","updated":"2024-12-23T17:22:33","dg-publish":true,"permalink":"/docs/algorithms/10819-boj-permutation/","dgPassFrontmatter":true}
+{"aliases":null,"tags":[],"description":null,"title":"10819 차이를 최대로 {boj} {permutation}","created":"2023-08-15T11:35:09","updated":"2024-12-23T17:22:33","dg-publish":true,"permalink":"/docs/algorithms/10819 차이를 최대로 {boj} {permutation}/","dgPassFrontmatter":true}
 ---
 
 - <https://www.acmicpc.net/problem/10819>

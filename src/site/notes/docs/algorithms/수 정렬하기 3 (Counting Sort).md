@@ -1,5 +1,5 @@
 ---
-{"links":["https://www.acmicpc.net/problem/10989"],"status":null,"aliases":null,"tags":["sort","counting_sort"],"description":null,"title":"수 정렬하기 3 (Counting Sort)","created":"2023-08-14T16:47:35","updated":"2024-12-23T18:17:15","dg-publish":true,"permalink":"/docs/algorithms/3-counting-sort/","dgPassFrontmatter":true}
+{"links":["https://www.acmicpc.net/problem/10989"],"status":null,"aliases":null,"tags":["sort","counting_sort"],"description":null,"title":"수 정렬하기 3 (Counting Sort)","created":"2023-08-14T16:47:35","updated":"2024-12-23T18:17:15","dg-publish":true,"permalink":"/docs/algorithms/수 정렬하기 3 (Counting Sort)/","dgPassFrontmatter":true}
 ---
 
 - [[docs/index/0011 Algorithms ♾️\|0011 Algorithms ♾️]]
