@@ -2,7 +2,7 @@
 {"description":null,"aliases":null,"tags":["english"],"created":"2023-03-09T16:55:06","updated":"2023-07-15T21:32:55","title":"0100 English 👻","dg-publish":true,"permalink":"/docs/index/0100-english/","dgPassFrontmatter":true}
 ---
 
-[[docs/index/index\|index]]
+[[docs/index/waypoint\|index]]
 ___
 
 [[docs/why were we making such a fuss\|why were we making such a fuss]]  

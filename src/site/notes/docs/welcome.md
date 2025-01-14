@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:40:05","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry","gardenEntry"],"updated":"2025-01-14T18:40:05","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
 ---
 
 
@@ -39,7 +39,6 @@ I'm highly interested in knowledge making process. I have a pipeline from castin
 - [[docs/index/0100 English 👻\|0100 English 👻]]
 - [[docs/index/0110 Utility 🔧\|0110 Utility 🔧]]
 - [[docs/index/0150 AWS 😄\|0150 AWS 😄]]
-- [[docs/index/index\|index]]
 
 { .block-language-dataview}
 

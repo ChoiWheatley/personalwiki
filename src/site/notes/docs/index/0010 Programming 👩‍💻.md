@@ -3,7 +3,7 @@
 ---
 
 
-parent link: [[docs/index/index\|index]]
+parent link: [[docs/index/waypoint\|index]]
 
 ---
 

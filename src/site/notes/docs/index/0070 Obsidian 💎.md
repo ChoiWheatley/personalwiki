@@ -2,7 +2,7 @@
 {"description":null,"title":"0070 Obsidian 💎","created":"2023-02-10T18:11:21","categories":["index"],"aliases":["obsidian","옵시디언"],"tags":[" index obsidian ","index","obsidian"],"date created":"Friday, February 10th 2023, 6:11:21 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-02-14T18:25:46","dg-publish":true,"permalink":"/docs/index/0070-obsidian/","dgPassFrontmatter":true}
 ---
 
-parent link: [[docs/index/index\|index]]
+parent link: [[docs/index/waypoint\|index]]
 
 ---
 

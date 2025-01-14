@@ -3,7 +3,7 @@
 ---
 
 
-parent link: [[docs/index/index\|index]] [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]] 
+parent link: [[docs/index/waypoint\|index]] [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]] 
 
 ## 관심있는 기업
 

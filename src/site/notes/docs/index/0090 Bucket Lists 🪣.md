@@ -3,7 +3,7 @@
 ---
 
 parent link: 
-- [[docs/index/index\|index]]
+- [[docs/index/waypoint\|index]]
 
 ## Computer & Programming
 
