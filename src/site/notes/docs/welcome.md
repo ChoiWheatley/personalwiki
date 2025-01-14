@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:36:33","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:40:05","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,15 +9,8 @@ Hi, my name is Choi Wheatley(최승현). I'm a junior backend developer looking 
 
 I'm highly interested in knowledge making process. I have a pipeline from casting idea to archiving for further retrieval. With [Obsidian](https://obsidian.md), I can create notes with hyperlinks!
 
-## Contact me
-
-- chltmdgus604@gmail.com
-- chltmdgus604@naver.com
-- +821087524037
-
 ## Index
 
-- [[docs/index/0005 Archieve 💾\|0005 Archieve 💾]]
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]
 - [[docs/index/0011 Algorithms ♾️\|0011 Algorithms ♾️]]
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]
@@ -65,6 +58,14 @@ I'm highly interested in knowledge making process. I have a pipeline from castin
 - [notion.site (deprecated)](https://choiwheatley.notion.site)
 - <https://github.com/ChoiWheatley>
 
+## Contact me
+
+- chltmdgus604@gmail.com
+- chltmdgus604@naver.com
+- +821087524037
+
 ---
 
 this site is made with [[docs/Obsidian Digital Garden\|Obsidian Digital Garden]] which uses the [eleventy](https://www.11ty.dev/) template engine and [[docs/index/0070 Obsidian 💎\|obsidian]], a knowledge making tool. 
+
+All rights reserved by ChoiWheatley
