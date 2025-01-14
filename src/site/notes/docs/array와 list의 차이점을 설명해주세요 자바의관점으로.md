@@ -1,0 +1,12 @@
+---
+{"aliases":null,"tags":null,"description":null,"title":"array와 list의 차이점을 설명해주세요 자바의관점으로","created":"2024-01-10T10:28:03","updated":"2024-01-10T10:55:39","dg-publish":true,"permalink":"/docs/array와 list의 차이점을 설명해주세요 자바의관점으로/","dgPassFrontmatter":true}
+---
+
+- [[docs/index/0012 Career 💼\|0012 Career 💼]]
+---
+
+## Answer
+
+개발언어에 따라 다르지만 대체로 다음과 같이 통용됩니다. array는 정적 크기를 갖는 자료구조로, 연속된 메모리 공간에 저장되어 랜덤 액세스가 가능합니다. 리스트는 동적으로 크기가 변할 수 있는 자료구조로, 링크드 리스트의 경우, 불연속적인 메모리 공간에 저장될 수도 있습니다.
+
+또한, 객체지향 도메인에서는 array는 primitive 타입이지만, list는 인터페이스로 정의되기도 합니다. 자바의 경우 list의 구현체를 생성하여 할당할 수 있습니다.

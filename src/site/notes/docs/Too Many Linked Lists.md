@@ -1,0 +1,27 @@
+---
+{"description":null,"aliases":null,"tags":null,"created":"2023-04-01T23:51:50","updated":"2023-07-15T21:33:03","title":"Too Many Linked Lists","dg-publish":true,"permalink":"/docs/Too Many Linked Lists/","dgPassFrontmatter":true}
+---
+
+- links
+	- [[docs/index/0013 Rust 🦀\|0013 Rust 🦀]]
+	- [[docs/0013.1 Scrapped 🦀\|0013.1 Scrapped 🦀]]
+- https://rust-unofficial.github.io/too-many-lists/
+- https://github.com/ChoiWheatley/my-first-rust/tree/master/too_many_linked_lists
+- 배운것들
+	- [[docs/rc try_unwrap\|rc try_unwrap]]
+	- [[docs/Persistent Data Structures - Hans Enlin\|Persistent Data Structures - Hans Enlin]] 
+	- [[docs/option and_then, map, or_else\|option and_then, map, or_else]]
+	- [[docs/values in a scope are dropped in the opposite order they are defined\|values in a scope are dropped in the opposite order they are defined]]
+	- [[docs/thread safety with Arc which violates interior mutability\|thread safety with Arc which violates interior mutability]]
+	- [[docs/Ref map can make new Ref for borrowed data\|Ref map can make new Ref for borrowed data]]
+	- [[docs/MIRI - Mid-level Intermediate Representaion Interpreter\|MIRI - Mid-level Intermediate Representaion Interpreter]]
+	- [[docs/Stacked Borrows in rust\|Stacked Borrows in rust]]
+	- [[docs/malloc like rust feature\|malloc like rust feature]]
+	- [[unbounded lifetime with ptr as_mut\|unbounded lifetime with ptr as_mut]]
+	- [[docs/exception safety with rust\|exception safety with rust]]
+	- [[NonNull can wrap raw pointers with COVARIANT property\|NonNull can wrap raw pointers with COVARIANT property]]
+	- [[docs/Extend trait\|Extend trait]]
+	- [[docs/Debug trait and DebugList builder and DebugStruct builder etc\|Debug trait and DebugList builder and DebugStruct builder etc]]
+	- [[docs/compare two iterators\|compare two iterators]]
+	- [[docs/Hasher에게 먹이 주기 feed Hasher\|Hasher에게 먹이 주기 feed Hasher]]
+	- [[docs/FromIterator를 구현하면 collect할 수 있다\|FromIterator를 구현하면 collect할 수 있다]]
