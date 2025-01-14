@@ -1,9 +1,9 @@
 ---
-{"description":null,"title":"0010 Programming 👩‍💻","created":"2023-02-09T11:01:42","categories":["프로그래밍","직업","알고리즘"],"aliases":["programming",null],"tags":[" index  ","index"],"date created":"Thursday, February 9th 2023, 11:01:42 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-11-19T17:41:45","dg-publish":true,"permalink":"/docs/index/0010-programming/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"title":"0010 Programming 👩‍💻","created":"2023-02-09T11:01:42","categories":["프로그래밍","직업","알고리즘"],"aliases":["programming"],"tags":["index"],"date created":"Thursday, February 9th 2023, 11:01:42 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2025-01-14T18:56:51","dg-publish":true,"permalink":"/docs/index/0010-programming/","dgPassFrontmatter":true}
 ---
 
 
-parent link: [[docs/index/waypoint\|index]]
+parent link: [[docs/index/waypoint\|waypoint]]
 
 ---
 
