@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:30:44","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:36:33","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
 ---
 
 
