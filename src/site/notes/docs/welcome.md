@@ -1,12 +1,9 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:22:26","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T18:30:44","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
 ---
 
 
 # Introduction
-
-| <br>![[내얼굴-cropped.jpg\|200]] | <br>![[최승현.png\|200]] |
-| ----------------------------- | --------------------- |
 
 Hi, my name is Choi Wheatley(최승현). I'm a junior backend developer looking for better understanding of programming paradigms, computer knowledgements, agile cultures.
 
