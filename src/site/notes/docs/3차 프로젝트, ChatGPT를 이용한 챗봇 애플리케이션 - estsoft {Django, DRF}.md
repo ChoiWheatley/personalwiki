@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}","created":"2023-07-26T09:38:10","updated":"2025-01-14T21:18:12","dg-publish":true,"permalink":"/docs/3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}/","dgPassFrontmatter":true}
+{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}","created":"2023-07-26T09:38:10","updated":"2025-01-14T21:22:20","dg-publish":true,"permalink":"/docs/3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}/","dgPassFrontmatter":true}
 ---
 
 - parent link: [[docs/index/0014.1 Django 🎈\|0014.1 Django 🎈]], [[docs/ESTsoft 백엔드 개발자 부트캠프 오르미 1기\|ESTsoft 백엔드 개발자 부트캠프 오르미 1기]]
@@ -98,17 +98,17 @@ flowchart LR
 
 ```mermaid
 classDiagram 
-	User <|-- Anonymous
-	User <|-- Member
+	Anonymous --|> User
+	Member --|> User
 	ChatBot "0..*" -- "1" Member
 	ChatBot "1" o-- "1..*" Prompt
 	ChatBot "1" o-- "1" Config
 	ChatBot "1" o-- "1..*" Reply
 	Reply "1" -- "1..*" Choice
 	
-	Prompt <|-- CurrentState
-	Prompt <|-- Goal
-	Prompt <|-- Misc
+	CurrentState --|> Prompt
+	Goal --|> Prompt
+	Misc --|> Prompt
 ```
 
 ChatBot은 데이터이다. 새 세션을 생성하거나 세션목록을 요청할 때 흩어져 있는 정보를 모아 실제 GPT와 대화가 이루어진 요청과 응답을 고스란히 재현하여야 한다. ChatBot은 컨트롤러이다. 따라서 이름이 적합하지는 않은 것 같다. 클래스 다이어그램에 들어갈 필요도 없을 것이고.
