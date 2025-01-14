@@ -1,9 +1,9 @@
 ---
-{"aliases":null,"tags":["giftogether"],"description":null,"links":["[[docs/FSM and FST\|FSM and FST]]"],"status":null,"title":"2025-01-03 Giftogether FSM 실제 코드를 짜보면서 느낀점과 타협점","created":"2025-01-03T22:28:30","updated":"2025-01-03T23:36:23","dg-publish":true,"permalink":"/docs/2025-01-03 Giftogether FSM 실제 코드를 짜보면서 느낀점과 타협점/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["giftogether"],"description":null,"links":null,"status":null,"title":"2025-01-03 Giftogether FSM 실제 코드를 짜보면서 느낀점과 타협점","created":"2025-01-03T22:28:30","updated":"2025-01-14T21:59:30","dg-publish":true,"permalink":"/docs/2025-01-03 Giftogether FSM 실제 코드를 짜보면서 느낀점과 타협점/","dgPassFrontmatter":true}
 ---
 
 
-# [[FSM and FST]]에서 실제 코드를 짜보면서 느낀점과 타협점
+# [[docs/FSM and FST\|FSM and FST]]에서 실제 코드를 짜보면서 느낀점과 타협점
 
 ## Event를 커맨드 대용으로 사용
 
