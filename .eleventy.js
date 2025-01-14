@@ -1,3 +1,4 @@
+const { injectSpeedInsights } = require("@vercel/speed-insights");
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
@@ -15,6 +16,13 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
+
+/**
+ * @author ChoiWheatley
+ * @notes https://vercel.com/docs/speed-insights/quickstart#add-the-speedinsights-component-to-your-app
+ */
+injectSpeedInsights();
+
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
