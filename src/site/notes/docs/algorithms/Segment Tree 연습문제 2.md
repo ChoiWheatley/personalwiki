@@ -58,7 +58,7 @@ parent link: [[docs/Segment Tree\|Segment Tree]]
 
 번갈아가며 더하고 뺀 결과를 트리에 넣고 쿼리가 들어오면 해당 구간에 있는 노드를 더하거나 빼서 리턴한다. 아래의 그림은 Seq = {1,2,3,4,5}일때의 세그먼트 트리이다.
 
-![[Pasted image 20230216150837.png\|Pasted image 20230216150837.png]]
+
 
 ```cpp
 
