@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}","created":"2023-07-26T09:38:10","updated":"2023-08-02T17:38:38","dg-publish":true,"permalink":"/docs/3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}/","dgPassFrontmatter":true}
+{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}","created":"2023-07-26T09:38:10","updated":"2025-01-14T21:18:12","dg-publish":true,"permalink":"/docs/3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}/","dgPassFrontmatter":true}
 ---
 
 - parent link: [[docs/index/0014.1 Django 🎈\|0014.1 Django 🎈]], [[docs/ESTsoft 백엔드 개발자 부트캠프 오르미 1기\|ESTsoft 백엔드 개발자 부트캠프 오르미 1기]]
@@ -45,8 +45,10 @@ flowchart LR
 	id1 -- 1 --> id2
 	id2 -- 2 --> id1
 	id1 -- 3 --> id3
-	id3 <-- 4 --> id4
-	id3 <-- 4 --> id5
+	id3 -- 4 --> id4
+	id4 -- 4 --> id3
+	id3 -- 4 --> id5
+	id5 -- 4 --> id3
 	id3 -- 5 --> id1
 ```
 
@@ -69,25 +71,25 @@ flowchart LR
 
 #### Main Flow
 
-- _User_
+- *User*
 	- Request Chat List
-		- _System_
+		- *System*
 			- Retrieve chat data.
 			- Create DOM elements for display
 	- Request Chat Session
-		- _System_
+		- *System*
 			- Check if the user is logged in. If not logged in, invoke **E-1**
 			- Create Request Prompts
-				- _ChatBot_
+				- *ChatBot*
 					- Ask user's current state
 					- Ask user's goal
 					- Ask user's other requirements
-			- Request _OpenAI_ with previous prompts
+			- Request *OpenAI* with previous prompts
 	- Sign out
 
 #### Error Flow, E-1
 
-- _System_
+- *System*
 	- redirect to login page
 	- if URL has `?next=` phrase, redirect to the provided page
 	- if not, redirect to main page
