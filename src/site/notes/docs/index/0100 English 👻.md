@@ -1,0 +1,38 @@
+---
+{"description":null,"aliases":null,"tags":["english"],"created":"2023-03-09T16:55:06","updated":"2023-07-15T21:32:55","title":"0100 English 👻","dg-publish":true,"permalink":"/docs/index/0100-english/","dgPassFrontmatter":true}
+---
+
+[[docs/index/index\|index]]
+___
+
+[[docs/why were we making such a fuss\|why were we making such a fuss]]  
+[[docs/opine\|opine]]  
+[[docs/bereft\|bereft]]  
+[[docs/admonition\|admonition]]  
+[[docs/impasse\|impasse]]  
+[[docs/invidious\|invidious]]  
+[[docs/enamored\|enamored]]  
+[[docs/whisk away\|whisk away]]  
+[[docs/sentiment\|sentiment]]  
+[[docs/setting sun\|setting sun]]  
+[[docs/in the wake of\|in the wake of]]  
+[[take your time\|take your time]]  
+[[docs/__ rocks\|__ rocks]]  
+[[docs/zeroing\|zeroing]]  
+[[docs/cop-out\|cop-out]]  
+[[docs/pervasive\|pervasive]]  
+[[docs/flux\|flux]]  
+[[docs/rule of thumb\|rule of thumb]]  
+[[docs/off the shelf\|off the shelf]]  
+[[docs/get schooled\|get schooled]]  
+[[docs/amortization\|amortization]]  
+[[docs/crux\|crux]]  
+[[docs/coherent\|coherent]]  
+[[docs/transient\|transient]]  
+[[docs/mosey\|mosey]]  
+[[docs/mingle\|mingle]]  
+[[docs/(right) under (one's) (very) nose\|(right) under (one's) (very) nose]]  
+[[docs/nosy\|nosy]]  
+[[docs/exhilarating\|exhilarating]]  
+[[docs/upkeep\|upkeep]]  
+[[docs/graft\|graft]]
