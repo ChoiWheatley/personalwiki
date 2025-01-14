@@ -1,11 +1,13 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"title":"index","created":"2023-02-10T11:14:45","modified":"2023-02-10 11:20","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"date created":"Friday, February 10th 2023, 11:14:45 am","date modified":"Monday, February 27th 2023, 6:19:34 pm","updated":"2025-01-14T16:51:29","dg-home":"true","dg-publish":true,"permalink":"/docs/index/","dgPassFrontmatter":true}
+{"links":null,"status":null,"description":null,"aliases":null,"title":"index","created":"2023-02-10T11:14:45","modified":"2023-02-10 11:20","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry","gardenEntry","gardenEntry"],"date created":"Friday, February 10th 2023, 11:14:45 am","date modified":"Monday, February 27th 2023, 6:19:34 pm","updated":"2025-01-14T17:45:23","dg-home":"true","dg-publish":true,"permalink":"/docs/index/","dgPassFrontmatter":true}
 ---
 
 
 # Introduction
 
-![내얼굴-cropped.jpg|200](/img/user/docs/assets/%EB%82%B4%EC%96%BC%EA%B5%B4-cropped.jpg)
+| ![[내얼굴-cropped.jpg\|200]] |     |
+| ------------------------- | --- |
+|                           |     |
 
 ![최승현.png|200](/img/user/docs/assets/%EC%B5%9C%EC%8A%B9%ED%98%84.png)
 
@@ -28,9 +30,6 @@ I'm native Korean, but I can understand English at reading, listening.
 - [[docs/Daily Notes/Daily Notes\|Daily Notes]] is for scribbing daily thoughts and plans, music recommendations, etc.
 - [[docs/index/0070 Obsidian 💎\|obsidian]] meta ideas improving my blog experience
 - [[docs/swjungle 🤖\|swjungle 🤖]] is currently working on studying CS knowledge with [[docs/pintos3 {pdf} {pintos}\|PintOS]] and algorithms and web projects. (2023-08-07 ~ 2023-12-20)
-- Career
-	- [[docs/최승현을 소개합니다\|최승현을 소개합니다]] is my self-introduction document
-	- [[docs/최승현_Backend_Web_Developer_이력서\|최승현_Backend_Web_Developer_이력서]] is my resumé
 
 ## Skills
 
@@ -46,4 +45,7 @@ I'm native Korean, but I can understand English at reading, listening.
 
 - [notion.site (deprecated)](https://choiwheatley.notion.site)
 - <https://github.com/ChoiWheatley>
-- this site is made with [[docs/mkdocs\|mkdocs]] material and [[docs/index/0070 Obsidian 💎\|obsidian]]
+
+---
+
+this site is made with [[docs/Obsidian Digital Garden\|Obsidian Digital Garden]] which uses the [eleventy](https://www.11ty.dev/) template engine and [[docs/index/0070 Obsidian 💎\|obsidian]], a knowledge making tool. 
