@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/welcome/","title":"welcome","tags":["readme","index","readme","index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/docs/welcome/","title":"welcome","tags":["readme","index","readme","index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
