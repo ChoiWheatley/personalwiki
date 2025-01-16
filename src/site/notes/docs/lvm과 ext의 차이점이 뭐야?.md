@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"lvm과 ext의 차이점이 뭐야?","created":"2024-09-16T16:27:36","updated":"2024-09-16T16:57:20","dg-publish":true,"permalink":"/docs/lvm과 ext의 차이점이 뭐야?/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/lvm과 ext의 차이점이 뭐야?/","title":"lvm과 ext의 차이점이 뭐야?"}
 ---
 
 [youtube / Linux Logical Volume Manager (LVM) Deep Dive Tutorial](https://www.youtube.com/watch?v=MeltFN-bXrQ)

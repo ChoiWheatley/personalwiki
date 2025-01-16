@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-02T17:58:39","updated":"2023-07-15T21:30:21","title":"20230702 book-project","dg-publish":true,"permalink":"/docs/20230702 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230702 book-project/","title":"20230702 book-project"}
 ---
 
 - 어제 하던거: 

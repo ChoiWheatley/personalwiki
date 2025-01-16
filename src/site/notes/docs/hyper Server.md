@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-18T18:03:55","updated":"2023-07-15T21:33:04","title":"hyper Server","dg-publish":true,"permalink":"/docs/hyper Server/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/hyper Server/","title":"hyper Server"}
 ---
 
 - https://docs.rs/hyper/0.14.25/hyper/server/struct.Server.html

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"call by object reference {python}","created":"2023-08-12T10:56:20","updated":"2023-08-12T11:00:34","dg-publish":true,"permalink":"/docs/call by object reference {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/call by object reference {python}/","title":"call by object reference {python}"}
 ---
 
 - [[docs/index/0014 Python 🐍\|0014 Python 🐍]]

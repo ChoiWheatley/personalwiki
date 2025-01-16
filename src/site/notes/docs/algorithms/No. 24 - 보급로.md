@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"title":"No. 24 - 보급로","created":"2023-02-10T21:37:08","categories":["heap","bfs","memoization"],"aliases":["보급로"],"tags":["heap"],"date created":"Friday, February 10th 2023, 9:37:08 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-12-23T17:58:36","dg-publish":true,"permalink":"/docs/algorithms/No. 24 - 보급로/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/algorithms/No. 24 - 보급로/","title":"No. 24 - 보급로","tags":["heap"]}
 ---
 
 {% raw %}

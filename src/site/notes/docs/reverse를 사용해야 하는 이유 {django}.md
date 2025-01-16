@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-25T12:13:41","updated":"2023-07-15T21:33:03","title":"reverse를 사용해야 하는 이유 {django}","dg-publish":true,"permalink":"/docs/reverse를 사용해야 하는 이유 {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/reverse를 사용해야 하는 이유 {django}/","title":"reverse를 사용해야 하는 이유 {django}"}
 ---
 
 - [Reverse resolution of URLs {docs.com}](https://docs.djangoproject.com/en/4.2/topics/http/urls/#reverse-resolution-of-urls)

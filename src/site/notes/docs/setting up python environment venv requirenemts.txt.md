@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-01T17:38:44","updated":"2023-07-15T21:33:03","title":"setting up python environment venv requirenemts.txt","dg-publish":true,"permalink":"/docs/setting up python environment venv requirenemts.txt/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/setting up python environment venv requirenemts.txt/","title":"setting up python environment venv requirenemts.txt"}
 ---
 
 - https://frankcorso.dev/setting-up-python-environment-venv-requirements.html

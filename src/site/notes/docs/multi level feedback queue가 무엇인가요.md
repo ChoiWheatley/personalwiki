@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"multi level feedback queue가 무엇인가요","created":"2024-01-09T01:30:04","updated":"2024-01-09T01:42:03","dg-publish":true,"permalink":"/docs/multi level feedback queue가 무엇인가요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/multi level feedback queue가 무엇인가요/","title":"multi level feedback queue가 무엇인가요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

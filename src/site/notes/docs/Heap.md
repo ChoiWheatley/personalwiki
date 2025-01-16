@@ -1,5 +1,5 @@
 ---
-{"description":null,"title":"Heap","created":"2023-02-10T11:39:15","categories":["알고리즘","힙정렬","최대힙","최소힙"],"aliases":["힙","heap"],"tags":[" algo/heap ","algo/heap"],"date created":"Friday, February 10th 2023, 11:39:15 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-01-11T00:48:11","dg-publish":true,"permalink":"/docs/Heap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Heap/","title":"Heap","tags":[" algo/heap ","algo/heap"]}
 ---
 
 parent link: [[docs/index/0011 Algorithms ♾️\|algorithms]] [[docs/SW Expert Academy\|swea]]

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-23T18:09:22","updated":"2023-07-15T21:33:04","title":"iankimdev - e-commerce - github","dg-publish":true,"permalink":"/docs/iankimdev - e-commerce - github/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/iankimdev - e-commerce - github/","title":"iankimdev - e-commerce - github"}
 ---
 
 https://github.com/iankimdev/e-commerce  

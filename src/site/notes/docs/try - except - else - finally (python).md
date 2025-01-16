@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T00:02:32","updated":"2023-08-21T00:47:11","title":"try - except - else - finally (python)","dg-publish":true,"permalink":"/docs/try - except - else - finally (python)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/try - except - else - finally (python)/","title":"try - except - else - finally (python)"}
 ---
 
 

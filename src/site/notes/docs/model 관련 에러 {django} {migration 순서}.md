@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"model 관련 에러 {django} {migration 순서}","created":"2023-07-19T13:49:49","updated":"2023-07-19T13:49:51","dg-publish":true,"permalink":"/docs/model 관련 에러 {django} {migration 순서}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/model 관련 에러 {django} {migration 순서}/","title":"model 관련 에러 {django} {migration 순서}"}
 ---
 
 

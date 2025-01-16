@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-31T22:32:36","updated":"2023-07-15T21:33:03","title":"walkdir","dg-publish":true,"permalink":"/docs/walkdir/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/walkdir/","title":"walkdir"}
 ---
 
 - https://docs.rs/walkdir/latest/walkdir/

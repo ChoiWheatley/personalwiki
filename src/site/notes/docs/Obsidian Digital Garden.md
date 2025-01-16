@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":["https://github.com/oleeskild/obsidian-digital-garden","https://dg-docs.ole.dev/"],"status":null,"title":"Obsidian Digital Garden","created":"2025-01-14T15:53:43","updated":"2025-01-14T15:59:23","dg-publish":true,"permalink":"/docs/Obsidian Digital Garden/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Obsidian Digital Garden/","title":"Obsidian Digital Garden"}
 ---
 
 

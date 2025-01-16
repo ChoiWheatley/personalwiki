@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2023-12-21 회의록 {postjungle}","created":"2023-12-22T22:12:52","updated":"2023-12-22T22:13:18","dg-publish":true,"permalink":"/docs/2023-12-21 회의록 {postjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023-12-21 회의록 {postjungle}/","title":"2023-12-21 회의록 {postjungle}"}
 ---
 
 

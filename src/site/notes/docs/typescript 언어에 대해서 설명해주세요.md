@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"typescript 언어에 대해서 설명해주세요","created":"2024-01-10T10:19:16","updated":"2024-01-10T10:21:01","dg-publish":true,"permalink":"/docs/typescript 언어에 대해서 설명해주세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/typescript 언어에 대해서 설명해주세요/","title":"typescript 언어에 대해서 설명해주세요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

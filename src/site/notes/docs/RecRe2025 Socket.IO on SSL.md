@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":null,"status":null,"title":"RecRe2025 Socket.IO on SSL","created":"2025-01-05T15:58:39","updated":"2025-01-06T16:44:43","dg-publish":true,"permalink":"/docs/RecRe2025 Socket.IO on SSL/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/RecRe2025 Socket.IO on SSL/","title":"RecRe2025 Socket.IO on SSL"}
 ---
 
 Socket.IO 연결을 SSL 인증서로 암호화하여 HTTPS, WSS 프로토콜로 통신하고자 한다. 하지만 아래와 같은 오류가 계속 발생한다:

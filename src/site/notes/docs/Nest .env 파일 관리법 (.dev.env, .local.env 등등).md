@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Nest .env 파일 관리법 (.dev.env, .local.env 등등)","created":"2024-03-10T00:14:33","updated":"2024-03-10T00:58:30","dg-publish":true,"permalink":"/docs/Nest .env 파일 관리법 (.dev.env, .local.env 등등)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Nest .env 파일 관리법 (.dev.env, .local.env 등등)/","title":"Nest .env 파일 관리법 (.dev.env, .local.env 등등)"}
 ---
 
 - [docs.nestjs.com / configuration](https://docs.nestjs.com/techniques/configuration#service)

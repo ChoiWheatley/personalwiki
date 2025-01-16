@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"stack {C}","created":"2023-09-20T14:42:53","updated":"2023-09-20T14:47:05","dg-publish":true,"permalink":"/docs/stack {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/stack {C}/","title":"stack {C}"}
 ---
 
 

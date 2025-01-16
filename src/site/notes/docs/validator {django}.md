@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-27T10:57:27","updated":"2023-07-15T21:33:03","title":"validator {django}","dg-publish":true,"permalink":"/docs/validator {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/validator {django}/","title":"validator {django}"}
 ---
 
 - [docs.com](https://docs.djangoproject.com/en/4.2/ref/forms/validation/)

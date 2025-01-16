@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"left rotate를 수행하는 간단한 수도코드를 작성해보세요 {red black tree}","created":"2024-01-08T15:12:46","updated":"2024-01-10T02:03:15","dg-publish":true,"permalink":"/docs/left rotate를 수행하는 간단한 수도코드를 작성해보세요 {red black tree}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/left rotate를 수행하는 간단한 수도코드를 작성해보세요 {red black tree}/","title":"left rotate를 수행하는 간단한 수도코드를 작성해보세요 {red black tree}"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

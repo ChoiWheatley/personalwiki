@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"UpdateView {django}","created":"2023-07-25T16:07:06","updated":"2023-07-25T18:03:09","dg-publish":true,"permalink":"/docs/UpdateView {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/UpdateView {django}/","title":"UpdateView {django}"}
 ---
 
 [[docs/CCBV, Classy Class Based View -- django\|CCBV, Classy Class Based View -- django]]에서 참고 많이했다. 글 수정을 위한 뷰 클래스 작성을 하는데 `get`, `post` 메서드를 만들지 않고도 가능하다니

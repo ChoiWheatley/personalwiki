@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"git rebase --interactive","created":"2024-01-01T16:13:26","updated":"2024-03-22T09:10:47","dg-publish":true,"permalink":"/docs/git rebase --interactive/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/git rebase --interactive/","title":"git rebase --interactive"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]

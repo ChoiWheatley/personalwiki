@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"virtual address, physical address, user pool, kernel pool {pintos}","created":"2023-10-13T17:43:57","updated":"2023-10-14T04:33:13","dg-publish":true,"permalink":"/docs/virtual address, physical address, user pool, kernel pool {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/virtual address, physical address, user pool, kernel pool {pintos}/","title":"virtual address, physical address, user pool, kernel pool {pintos}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

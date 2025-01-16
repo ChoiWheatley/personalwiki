@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"problemshooting - docker login error in linux","created":"2024-10-18T22:12:53","updated":"2024-10-18T22:41:08","dg-publish":true,"permalink":"/docs/problemshooting - docker login error in linux/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/problemshooting - docker login error in linux/","title":"problemshooting - docker login error in linux"}
 ---
 
 parent:

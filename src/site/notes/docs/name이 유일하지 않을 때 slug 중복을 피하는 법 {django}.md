@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-19T13:39:35","updated":"2023-07-15T21:33:04","title":"name이 유일하지 않을 때 slug 중복을 피하는 법 {django}","dg-publish":true,"permalink":"/docs/name이 유일하지 않을 때 slug 중복을 피하는 법 {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/name이 유일하지 않을 때 slug 중복을 피하는 법 {django}/","title":"name이 유일하지 않을 때 slug 중복을 피하는 법 {django}"}
 ---
 
 

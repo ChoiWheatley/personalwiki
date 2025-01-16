@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"system call에 대하여 설명해주세요","created":"2024-01-09T12:40:49","updated":"2024-01-22T09:33:24","dg-publish":true,"permalink":"/docs/system call에 대하여 설명해주세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/system call에 대하여 설명해주세요/","title":"system call에 대하여 설명해주세요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

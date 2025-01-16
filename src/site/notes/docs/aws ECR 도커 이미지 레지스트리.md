@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"aws ECR 도커 이미지 레지스트리","created":"2024-11-19T16:18:17","updated":"2024-12-30T00:50:03","dg-publish":true,"permalink":"/docs/aws ECR 도커 이미지 레지스트리/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/aws ECR 도커 이미지 레지스트리/","title":"aws ECR 도커 이미지 레지스트리"}
 ---
 
 

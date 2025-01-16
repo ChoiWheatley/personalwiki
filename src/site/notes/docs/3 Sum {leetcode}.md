@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"3 Sum {leetcode}","created":"2023-10-29T22:41:57","updated":"2023-10-29T23:46:09","dg-publish":true,"permalink":"/docs/3 Sum {leetcode}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/3 Sum {leetcode}/","title":"3 Sum {leetcode}"}
 ---
 
 - [[docs/week12 {swjungle}{ALGORITHMS}\|week12 {swjungle}{ALGORITHMS}]]

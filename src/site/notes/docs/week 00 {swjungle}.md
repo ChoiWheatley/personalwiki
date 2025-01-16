@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week 00 {swjungle}","created":"2023-08-10T09:32:05","updated":"2023-08-10T10:07:16","dg-publish":true,"permalink":"/docs/week 00 {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week 00 {swjungle}/","title":"week 00 {swjungle}"}
 ---
 
 

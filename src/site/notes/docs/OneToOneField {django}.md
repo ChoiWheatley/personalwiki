@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-20T11:15:22","updated":"2023-07-15T21:33:03","title":"OneToOneField {django}","dg-publish":true,"permalink":"/docs/OneToOneField {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/OneToOneField {django}/","title":"OneToOneField {django}"}
 ---
 
 - [doc](https://docs.djangoproject.com/en/4.2/topics/db/examples/one_to_one/)

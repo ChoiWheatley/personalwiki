@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"buses and hierarchical buses {os}","created":"2023-08-30T16:43:48","updated":"2023-08-30T16:50:47","dg-publish":true,"permalink":"/docs/buses and hierarchical buses {os}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/buses and hierarchical buses {os}/","title":"buses and hierarchical buses {os}"}
 ---
 
 - [[docs/index/0015 OS {ssu2021-2nd} 💻\|OS]]

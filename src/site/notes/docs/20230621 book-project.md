@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-21T09:21:06","updated":"2023-07-15T21:30:21","title":"20230621 book-project","dg-publish":true,"permalink":"/docs/20230621 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230621 book-project/","title":"20230621 book-project"}
 ---
 
 - [깃허브 이슈 커밋이나 PR로 자동으로 닫히게 하는 방법 {SOF}](https://stackoverflow.com/questions/60027222/github-how-can-i-close-the-two-issues-with-commit-message)

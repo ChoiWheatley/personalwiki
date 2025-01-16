@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-19T13:25:48","updated":"2023-07-15T21:30:21","title":"20230624 까지 진행할 구현사항 {book-project}","dg-publish":true,"permalink":"/docs/20230624 까지 진행할 구현사항 {book-project}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230624 까지 진행할 구현사항 {book-project}/","title":"20230624 까지 진행할 구현사항 {book-project}"}
 ---
 
 

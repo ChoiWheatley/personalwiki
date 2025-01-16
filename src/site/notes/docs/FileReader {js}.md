@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-21T15:41:46","updated":"2023-07-15T21:33:04","title":"FileReader {js}","dg-publish":true,"permalink":"/docs/FileReader {js}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/FileReader {js}/","title":"FileReader {js}"}
 ---
 
 - [mdn](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)

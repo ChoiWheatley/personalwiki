@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T23:49:37","updated":"2023-07-15T21:30:20","title":"dictionary - python","dg-publish":true,"permalink":"/docs/dictionary - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/dictionary - python/","title":"dictionary - python"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T13:39:56","updated":"2023-07-15T21:33:03","title":"Using the Newtype Pattern to Implement External Traits on External Types","dg-publish":true,"permalink":"/docs/Using the Newtype Pattern to Implement External Traits on External Types/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Using the Newtype Pattern to Implement External Traits on External Types/","title":"Using the Newtype Pattern to Implement External Traits on External Types"}
 ---
 
 - [the book](https://doc.rust-lang.org/book/ch19-03-advanced-traits.html#using-the-newtype-pattern-to-implement-external-traits-on-external-types)

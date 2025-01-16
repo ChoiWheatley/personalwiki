@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":null,"status":null,"title":"Object Methods","created":"2024-12-31T23:21:37","updated":"2024-12-31T23:21:38","dg-publish":true,"permalink":"/docs/Object Methods/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Object Methods/","title":"Object Methods"}
 ---
 
 

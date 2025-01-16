@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ViewSets and routers {drf}","created":"2023-07-30T22:49:59","updated":"2023-08-04T00:35:30","dg-publish":true,"permalink":"/docs/ViewSets and routers {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ViewSets and routers {drf}/","title":"ViewSets and routers {drf}"}
 ---
 
 

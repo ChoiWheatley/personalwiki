@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["giftogether"],"description":null,"title":"0140 wishfunding 티끌모아 펀딩 프로젝트 🎁","created":"2024-02-19T04:05:56","updated":"2024-11-22T22:39:01","dg-publish":true,"permalink":"/docs/wishfunding 티끌모아 펀딩 프로젝트 🎁/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/wishfunding 티끌모아 펀딩 프로젝트 🎁/","title":"0140 wishfunding 티끌모아 펀딩 프로젝트 🎁","tags":["giftogether"]}
 ---
 
 

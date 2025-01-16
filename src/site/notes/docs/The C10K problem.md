@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"The C10K problem","created":"2023-09-22T10:28:03","updated":"2023-09-22T10:31:27","dg-publish":true,"permalink":"/docs/The C10K problem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/The C10K problem/","title":"The C10K problem","tags":["scrap"]}
 ---
 
 <http://www.kegel.com/c10k.html>

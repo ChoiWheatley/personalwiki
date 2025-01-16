@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"online photoshop 모음","created":"2023-07-22T00:16:19","updated":"2023-07-22T00:17:21","dg-publish":true,"permalink":"/docs/online photoshop 모음/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/online photoshop 모음/","title":"online photoshop 모음"}
 ---
 
 - <https://www.photopea.com/>

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"make","created":"2023-09-15T13:44:24","updated":"2023-10-05T09:51:52","dg-publish":true,"permalink":"/docs/make/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/make/","title":"make"}
 ---
 
 - [[docs/index/0110 Utility 🔧\|0110 Utility 🔧]]

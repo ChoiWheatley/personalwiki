@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"generic View {drf}","created":"2024-11-22T23:00:43","updated":"2024-11-29T18:15:00","dg-publish":true,"permalink":"/docs/generic View {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/generic View {drf}/","title":"generic View {drf}"}
 ---
 
 - ref: <https://www.django-rest-framework.org/api-guide/generic-views/>

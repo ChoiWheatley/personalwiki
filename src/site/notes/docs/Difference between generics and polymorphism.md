@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Difference between generics and polymorphism","created":"2024-01-14T20:53:38","updated":"2024-01-14T20:53:48","dg-publish":true,"permalink":"/docs/Difference between generics and polymorphism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Difference between generics and polymorphism/","title":"Difference between generics and polymorphism"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|programming]]

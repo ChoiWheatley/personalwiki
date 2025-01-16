@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"1782 컵라면 {boj} {greedy}","created":"2023-08-28T22:41:13","updated":"2023-08-28T22:43:14","dg-publish":true,"permalink":"/docs/1782 컵라면 {boj} {greedy}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/1782 컵라면 {boj} {greedy}/","title":"1782 컵라면 {boj} {greedy}"}
 ---
 
 

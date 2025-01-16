@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-29T17:54:31","updated":"2023-07-20T07:25:30","title":"tinymce","dg-publish":true,"permalink":"/docs/tinymce/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/tinymce/","title":"tinymce"}
 ---
 
 [official link](https://www.tiny.cloud/tinymce/)  

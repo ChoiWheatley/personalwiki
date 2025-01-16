@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"VSCode Django Unit Tests","created":"2024-11-26T00:39:11","updated":"2024-11-26T00:56:33","dg-publish":true,"permalink":"/docs/VSCode Django Unit Tests/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/VSCode Django Unit Tests/","title":"VSCode Django Unit Tests"}
 ---
 
 - ref: <https://code.visualstudio.com/docs/python/testing#_django-unit-tests>

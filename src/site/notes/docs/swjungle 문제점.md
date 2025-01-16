@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"swjungle 문제점","created":"2023-12-17T22:21:49","updated":"2023-12-17T22:22:02","dg-publish":true,"permalink":"/docs/swjungle 문제점/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/swjungle 문제점/","title":"swjungle 문제점"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]

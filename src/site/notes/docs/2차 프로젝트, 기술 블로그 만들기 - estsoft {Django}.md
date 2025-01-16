@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2차 프로젝트, 기술 블로그 만들기 - estsoft {Django}","created":"2023-07-17T15:31:28","updated":"2023-07-24T13:18:08","dg-publish":true,"permalink":"/docs/2차 프로젝트, 기술 블로그 만들기 - estsoft {Django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2차 프로젝트, 기술 블로그 만들기 - estsoft {Django}/","title":"2차 프로젝트, 기술 블로그 만들기 - estsoft {Django}"}
 ---
 
 

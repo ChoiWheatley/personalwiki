@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-09T22:20:22","updated":"2023-07-15T21:33:03","title":"PhantomData to protect your pointers","dg-publish":true,"permalink":"/docs/PhantomData to protect your pointers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/PhantomData to protect your pointers/","title":"PhantomData to protect your pointers"}
 ---
 
 - https://rust-unofficial.github.io/too-many-lists/sixth-variance.html

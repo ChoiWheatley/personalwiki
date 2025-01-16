@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-01T23:42:30","updated":"2023-07-15T21:33:03","title":"Persistent Data Structures - Hans Enlin","dg-publish":true,"permalink":"/docs/Persistent Data Structures - Hans Enlin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Persistent Data Structures - Hans Enlin/","title":"Persistent Data Structures - Hans Enlin"}
 ---
 
 - https://blog.hansenlin.com/persistent-data-structures-part-i-the-persistent-list-156f20df3139

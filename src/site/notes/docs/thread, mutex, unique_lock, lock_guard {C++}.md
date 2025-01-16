@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":[],"description":null,"title":"thread, mutex, unique_lock, lock_guard {C++}","created":"2024-01-21T16:23:49","updated":"2024-01-22T18:55:27","dg-publish":true,"permalink":"/docs/thread, mutex, unique_lock, lock_guard {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/thread, mutex, unique_lock, lock_guard {C++}/","title":"thread, mutex, unique_lock, lock_guard {C++}"}
 ---
 
 - [[docs/C++\|C++]]

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T21:39:31","updated":"2023-07-15T21:33:03","title":"Stacked Borrows in rust","dg-publish":true,"permalink":"/docs/Stacked Borrows in rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Stacked Borrows in rust/","title":"Stacked Borrows in rust"}
 ---
 
 - https://rust-unofficial.github.io/too-many-lists/fifth-stacked-borrows.html

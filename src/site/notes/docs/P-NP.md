@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"P-NP","created":"2024-02-07T16:27:43","updated":"2024-02-07T20:35:40","dg-publish":true,"permalink":"/docs/P-NP/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/P-NP/","title":"P-NP"}
 ---
 
 - <https://gazelle-and-cs.tistory.com/64>

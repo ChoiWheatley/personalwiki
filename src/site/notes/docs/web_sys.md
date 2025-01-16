@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-28T13:01:49","updated":"2023-07-15T21:33:03","title":"web_sys","dg-publish":true,"permalink":"/docs/web_sys/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/web_sys/","title":"web_sys"}
 ---
 
 - https://rustwasm.github.io/wasm-bindgen/api/web_sys/

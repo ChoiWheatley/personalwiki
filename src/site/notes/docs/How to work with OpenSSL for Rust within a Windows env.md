@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-22T00:27:12","updated":"2023-07-15T21:33:04","title":"How to work with OpenSSL for Rust within a Windows env","dg-publish":true,"permalink":"/docs/How to work with OpenSSL for Rust within a Windows env/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/How to work with OpenSSL for Rust within a Windows env/","title":"How to work with OpenSSL for Rust within a Windows env"}
 ---
 
 - https://stackoverflow.com/questions/55912871/how-to-work-with-openssl-for-rust-within-a-windows-development-environment#61921362

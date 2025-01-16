@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"map insert, set insert 잘못 쓰면 인생 망함","created":"2024-01-11T17:02:26","updated":"2024-01-11T17:03:09","dg-publish":true,"permalink":"/docs/map insert, set insert 잘못 쓰면 인생 망함/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/map insert, set insert 잘못 쓰면 인생 망함/","title":"map insert, set insert 잘못 쓰면 인생 망함"}
 ---
 
 - [[docs/C++\|C++]]  

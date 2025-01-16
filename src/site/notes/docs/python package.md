@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-02T13:03:34","updated":"2023-07-15T21:33:03","title":"python package","dg-publish":true,"permalink":"/docs/python package/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python package/","title":"python package"}
 ---
 
 - https://docs.python.org/3/reference/import.html#regular-packages

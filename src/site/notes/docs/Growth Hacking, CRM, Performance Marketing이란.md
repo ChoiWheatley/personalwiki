@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Growth Hacking, CRM, Performance Marketing이란","created":"2024-01-20T18:17:35","updated":"2024-01-20T18:26:10","dg-publish":true,"permalink":"/docs/Growth Hacking, CRM, Performance Marketing이란/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Growth Hacking, CRM, Performance Marketing이란/","title":"Growth Hacking, CRM, Performance Marketing이란"}
 ---
 
 - [CRM](https://www.salesforce.com/kr/hub/crm/what-is-crm/) : Customer Relational Marketing의 약자로, 소비자와 기업 간에 소통, 구매내역, 일자, 지불금액 등을 기반으로 진행하는 마케팅을 의미. 한 마디로 소비자 패턴을 파악하여 추천목록에 띄울 물건을 정렬하는거.

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"priority-donate-multiple {swjungle} {pintos}","created":"2023-09-29T22:08:20","updated":"2024-01-09T01:27:30","dg-publish":true,"permalink":"/docs/priority-donate-multiple {swjungle} {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/priority-donate-multiple {swjungle} {pintos}/","title":"priority-donate-multiple {swjungle} {pintos}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

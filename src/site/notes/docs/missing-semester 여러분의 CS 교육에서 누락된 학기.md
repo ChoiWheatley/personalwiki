@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"missing-semester 여러분의 CS 교육에서 누락된 학기","created":"2024-01-05T00:18:18","updated":"2024-01-05T00:24:40","dg-publish":true,"permalink":"/docs/missing-semester 여러분의 CS 교육에서 누락된 학기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/missing-semester 여러분의 CS 교육에서 누락된 학기/","title":"missing-semester 여러분의 CS 교육에서 누락된 학기"}
 ---
 
 - <https://missing-semester-kr.github.io/>

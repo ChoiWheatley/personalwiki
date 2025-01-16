@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["programming/rust"],"created":"2023-03-08T18:37:38","updated":"2023-07-15T21:33:03","title":"Returning a Reference to the Stack","dg-publish":true,"permalink":"/docs/Returning a Reference to the Stack/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Returning a Reference to the Stack/","title":"Returning a Reference to the Stack","tags":["programming/rust"]}
 ---
 
 [Fixing Ownership Errors](https://rust-book.cs.brown.edu/ch04-03-fixing-ownership-errors.html)

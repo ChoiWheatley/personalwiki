@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-31T15:21:25","updated":"2023-07-15T21:30:20","title":"django path(route, view, name)","dg-publish":true,"permalink":"/docs/django path(route, view, name)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django path(route, view, name)/","title":"django path(route, view, name)"}
 ---
 
 - https://docs.djangoproject.com/en/4.2/ref/urls/

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"save both relations {typeorm}","created":"2024-04-14T22:58:05","updated":"2024-12-18T18:25:37","dg-publish":true,"permalink":"/docs/save both relations {typeorm}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/save both relations {typeorm}/","title":"save both relations {typeorm}"}
 ---
 
 

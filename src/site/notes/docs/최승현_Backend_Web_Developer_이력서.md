@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"최승현_Backend_Web_Developer_이력서","created":"2023-12-19T16:43:54","updated":"2024-01-30T21:33:02","dg-publish":true,"permalink":"/docs/최승현_Backend_Web_Developer_이력서/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/최승현_Backend_Web_Developer_이력서/","title":"최승현_Backend_Web_Developer_이력서"}
 ---
 
 

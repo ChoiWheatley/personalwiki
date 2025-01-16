@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T14:40:19","updated":"2023-07-15T21:33:04","title":"Negative bounds","dg-publish":true,"permalink":"/docs/Negative bounds/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Negative bounds/","title":"Negative bounds"}
 ---
 
 - https://github.com/kennytm/rfcs/blob/neg-bounds/text/0000-negative-bounds.md

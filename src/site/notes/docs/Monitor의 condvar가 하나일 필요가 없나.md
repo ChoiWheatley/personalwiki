@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Monitor의 condvar가 하나일 필요가 없나?","created":"2023-10-04T21:28:35","updated":"2023-10-04T21:28:49","dg-publish":true,"permalink":"/docs/Monitor의 condvar가 하나일 필요가 없나/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Monitor의 condvar가 하나일 필요가 없나/","title":"Monitor의 condvar가 하나일 필요가 없나?"}
 ---
 
 

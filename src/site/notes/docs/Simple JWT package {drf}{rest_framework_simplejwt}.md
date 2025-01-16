@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"JSON Web Token plugin for the Django REST Framework","title":"Simple JWT package {drf}{rest_framework_simplejwt}","created":"2023-08-02T14:01:47","updated":"2023-08-04T00:47:36","dg-publish":true,"permalink":"/docs/Simple JWT package {drf}{rest_framework_simplejwt}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Simple JWT package {drf}{rest_framework_simplejwt}/","title":"Simple JWT package {drf}{rest_framework_simplejwt}"}
 ---
 
 - [doc](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-04T09:20:30","updated":"2023-07-15T21:33:04","title":"gunicorn","dg-publish":true,"permalink":"/docs/gunicorn/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/gunicorn/","title":"gunicorn"}
 ---
 
 - https://leffept.tistory.com/345

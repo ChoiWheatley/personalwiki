@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-10T09:17:12","updated":"2023-07-15T21:30:22","title":"2023-05-10 estsoft - python - class, class attr and instance attr, magic methods, UserInfo and BookInfo 실습, inheritance","dg-publish":true,"permalink":"/docs/2023-05-10 estsoft - python - class, class attr and instance attr, magic methods, UserInfo and BookInfo 실습, inheritance/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023-05-10 estsoft - python - class, class attr and instance attr, magic methods, UserInfo and BookInfo 실습, inheritance/","title":"2023-05-10 estsoft - python - class, class attr and instance attr, magic methods, UserInfo and BookInfo 실습, inheritance"}
 ---
 
 {% raw %}

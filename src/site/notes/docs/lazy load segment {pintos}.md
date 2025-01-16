@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"lazy load segment {pintos}","created":"2023-10-13T16:45:13","updated":"2023-10-13T16:59:29","dg-publish":true,"permalink":"/docs/lazy load segment {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/lazy load segment {pintos}/","title":"lazy load segment {pintos}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

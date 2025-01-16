@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-14T23:46:24","updated":"2023-07-15T21:33:03","title":"wasm with rust","dg-publish":true,"permalink":"/docs/wasm with rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/wasm with rust/","title":"wasm with rust"}
 ---
 
 references:

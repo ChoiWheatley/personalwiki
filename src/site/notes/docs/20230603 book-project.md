@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"created":"2023-06-03T09:56:54","updated":"2023-07-15T21:30:22","description":"git, python settings","title":"20230603 book-project","dg-publish":true,"permalink":"/docs/20230603 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230603 book-project/","title":"20230603 book-project"}
 ---
 
 - [[docs/index/0014.1 Django 🎈\|0014.1 Django 🎈]]

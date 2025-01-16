@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"git reflog를 사용하여 reset hard 로 사라진 커밋을 복구할 수 있다고","created":"2024-04-11T10:52:05","updated":"2024-04-11T10:58:01","dg-publish":true,"permalink":"/docs/git reflog를 사용하여 reset hard 로 사라진 커밋을 복구할 수 있다고/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/git reflog를 사용하여 reset hard 로 사라진 커밋을 복구할 수 있다고/","title":"git reflog를 사용하여 reset hard 로 사라진 커밋을 복구할 수 있다고"}
 ---
 
 reference와 log의 합성어로, HEAD의 참조 이력을 로그 형태로 출력해 주는 명령어이다.

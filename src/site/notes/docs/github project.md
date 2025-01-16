@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"github project","created":"2024-08-12T10:52:44","updated":"2024-08-12T11:09:36","dg-publish":true,"permalink":"/docs/github project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/github project/","title":"github project"}
 ---
 
 

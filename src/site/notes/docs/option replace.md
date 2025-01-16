@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-31T20:35:57","updated":"2023-07-15T21:33:03","title":"option replace","dg-publish":true,"permalink":"/docs/option replace/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/option replace/","title":"option replace"}
 ---
 
 - https://doc.rust-lang.org/std/option/enum.Option.html#method.replace

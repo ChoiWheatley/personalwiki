@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"aws s3 버킷 사용법","created":"2024-05-06T16:30:44","updated":"2024-07-15T11:58:38","dg-publish":true,"permalink":"/docs/aws s3 버킷 사용법/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/aws s3 버킷 사용법/","title":"aws s3 버킷 사용법"}
 ---
 
 - [inpa / aws s3 버킷 생성 사용법 실전](https://inpa.tistory.com/entry/AWS-📚-S3-버킷-생성-사용법-실전-구축#)

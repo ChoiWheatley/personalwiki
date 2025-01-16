@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"docker --filter flag","created":"2024-11-21T00:11:14","updated":"2024-11-21T00:11:55","dg-publish":true,"permalink":"/docs/docker --filter flag/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/docker --filter flag/","title":"docker --filter flag"}
 ---
 
 

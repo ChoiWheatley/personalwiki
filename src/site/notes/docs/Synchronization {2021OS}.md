@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Synchronization {2021OS}","created":"2023-09-22T22:22:12","updated":"2023-09-22T22:27:36","dg-publish":true,"permalink":"/docs/Synchronization {2021OS}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Synchronization {2021OS}/","title":"Synchronization {2021OS}"}
 ---
 
 - 두 가지 문제를 해결해야 동기화를 성공적으로 할 수 있다

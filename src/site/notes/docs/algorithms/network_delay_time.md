@@ -1,5 +1,5 @@
 ---
-{"links":"https://leetcode.com/problems/network-delay-time/","status":"풀이완료","description":null,"aliases":null,"tags":["graph","heap","dijkstra"],"created":"2023-05-25T15:19:23","updated":"2024-12-23T17:38:00","title":"network_delay_time","dg-publish":true,"permalink":"/docs/algorithms/network_delay_time/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/algorithms/network_delay_time/","title":"network_delay_time","tags":["graph","heap","dijkstra"]}
 ---
 
 - <https://leetcode.com/problems/network-delay-time/>

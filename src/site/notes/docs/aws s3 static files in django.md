@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-01T23:40:57","updated":"2024-04-30T09:10:28","title":"aws s3 static files in django","dg-publish":true,"permalink":"/docs/aws s3 static files in django/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/aws s3 static files in django/","title":"aws s3 static files in django"}
 ---
 
 - [testdriven.io {tutorial}](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3/)

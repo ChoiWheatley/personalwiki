@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-08T10:49:23","updated":"2023-07-15T21:33:04","title":"get fetch --prune","dg-publish":true,"permalink":"/docs/get fetch --prune/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/get fetch --prune/","title":"get fetch --prune"}
 ---
 
 [SOF](https://stackoverflow.com/questions/38512124/visual-studio-code-remove-branches-deleted-on-github-that-still-show-in-vs-cod)

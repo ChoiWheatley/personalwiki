@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-31T21:16:34","updated":"2023-07-15T21:33:03","title":"option as_ref","dg-publish":true,"permalink":"/docs/option as_ref/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/option as_ref/","title":"option as_ref"}
 ---
 
 - https://doc.rust-lang.org/std/option/enum.Option.html#method.as_ref

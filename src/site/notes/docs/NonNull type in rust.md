@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-09T21:46:25","updated":"2023-07-15T21:33:04","title":"NonNull type in rust","dg-publish":true,"permalink":"/docs/NonNull type in rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/NonNull type in rust/","title":"NonNull type in rust"}
 ---
 
 - https://rust-unofficial.github.io/too-many-lists/sixth-variance.html

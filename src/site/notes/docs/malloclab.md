@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"malloclab","created":"2023-09-10T19:01:28","updated":"2023-09-13T20:58:06","dg-publish":true,"permalink":"/docs/malloclab/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/malloclab/","title":"malloclab"}
 ---
 
 - [[docs/week 05 {swjungle} {malloc-lab}\|week 05 {swjungle} {malloc-lab}]]

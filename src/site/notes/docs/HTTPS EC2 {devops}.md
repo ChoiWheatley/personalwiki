@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"HTTPS EC2 {devops}","created":"2023-11-17T14:45:08","updated":"2024-08-21T10:49:19","dg-publish":true,"permalink":"/docs/HTTPS EC2 {devops}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/HTTPS EC2 {devops}/","title":"HTTPS EC2 {devops}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

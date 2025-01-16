@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"created":"2023-02-13T17:07:36","tags":[" algo  ","algo"],"source":"https://swexpertacademy.com/main/talk/solvingClub/boardCommuView.do?solveclubId=AYWjN5DaiAsDFAQK&searchClsftn=AYWjN5DqiA0DFAQK&schClsName=Notice&searchCondition=COMMU_DETAIL-COMMU_TITLE-NICK_NAME_TAG&commuId=AYYunxMKEjMDFARc&orderBy=&searchKeyword=&sortingType=DATE_DESC&pageSize=10&pageIndex=1&&&&&&&&&&","author":null,"alias":["swea"],"date created":"Monday, February 13th 2023, 5:07:36 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:33:03","title":"SW Expert Academy","dg-publish":true,"permalink":"/docs/SW Expert Academy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/SW Expert Academy/","title":"SW Expert Academy","tags":[" algo  ","algo"]}
 ---
 
 

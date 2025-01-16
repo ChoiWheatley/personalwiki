@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T13:05:40","updated":"2023-08-11T20:50:50","title":"20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices","dg-publish":true,"permalink":"/docs/20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices/","title":"20230517 estsoft - python - linked list - dataclass - typing Self cast type union - __getitem__ - slice.indices"}
 ---
 
 - [[docs/self reference a class with typing.Self (python)\|self reference a class with typing.Self (python)]]

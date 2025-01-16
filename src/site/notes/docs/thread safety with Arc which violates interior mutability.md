@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-02T17:29:23","updated":"2023-07-15T21:33:03","title":"thread safety with Arc which violates interior mutability","dg-publish":true,"permalink":"/docs/thread safety with Arc which violates interior mutability/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/thread safety with Arc which violates interior mutability/","title":"thread safety with Arc which violates interior mutability"}
 ---
 
 - https://rust-unofficial.github.io/too-many-lists/third-arc.html

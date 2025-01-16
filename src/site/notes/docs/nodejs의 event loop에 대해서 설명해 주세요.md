@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":["https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate","https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick"],"status":null,"title":"nodejs의 event loop에 대해서 설명해 주세요","created":"2024-11-08T21:42:42","updated":"2025-01-10T22:25:02","dg-publish":true,"permalink":"/docs/nodejs의 event loop에 대해서 설명해 주세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/nodejs의 event loop에 대해서 설명해 주세요/","title":"nodejs의 event loop에 대해서 설명해 주세요"}
 ---
 
 

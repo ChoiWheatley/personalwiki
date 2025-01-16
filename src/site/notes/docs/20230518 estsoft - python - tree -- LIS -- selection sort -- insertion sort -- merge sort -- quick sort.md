@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T09:33:14","updated":"2023-08-13T23:01:18","title":"20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort","dg-publish":true,"permalink":"/docs/20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort/","title":"20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort"}
 ---
 
 

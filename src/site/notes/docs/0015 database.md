@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"0015 database","created":"2024-03-11T16:41:30","updated":"2024-04-03T20:41:43","dg-publish":true,"permalink":"/docs/0015 database/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/0015 database/","title":"0015 database"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]

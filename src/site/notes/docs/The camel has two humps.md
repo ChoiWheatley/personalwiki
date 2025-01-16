@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-09T21:45:43","updated":"2023-07-15T21:33:03","annotation-target":"The camel has two humps.pdf","title":"The camel has two humps","dg-publish":true,"permalink":"/docs/The camel has two humps/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/The camel has two humps/","title":"The camel has two humps"}
 ---
 
 

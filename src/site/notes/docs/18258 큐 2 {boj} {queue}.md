@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"18258 큐 2 {boj} {queue}","created":"2023-08-18T16:34:45","updated":"2023-08-18T16:36:52","dg-publish":true,"permalink":"/docs/18258 큐 2 {boj} {queue}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/18258 큐 2 {boj} {queue}/","title":"18258 큐 2 {boj} {queue}"}
 ---
 
 <https://www.acmicpc.net/problem/18258>

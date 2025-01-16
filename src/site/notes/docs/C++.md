@@ -1,5 +1,5 @@
 ---
-{"description":null,"title":"C++","created":"2023-02-10T16:34:48","categories":["scrapping","스크래핑","스크랩","programming language"],"aliases":["c++","cpp"],"tags":[" programming ","programming"],"date created":"Friday, February 10th 2023, 4:34:48 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-01-20T18:47:27","dg-publish":true,"permalink":"/docs/C++/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/C++/","title":"C++","tags":[" programming ","programming"]}
 ---
 
 - parent link: [[docs/index/0010 Programming 👩‍💻\|programming]]

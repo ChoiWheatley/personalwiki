@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"mkdocs","created":"2023-07-14T10:20:59","updated":"2023-09-16T22:05:30","dg-publish":true,"permalink":"/docs/mkdocs/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/mkdocs/","title":"mkdocs"}
 ---
 
 

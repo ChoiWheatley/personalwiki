@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T14:52:16","updated":"2023-08-12T11:12:04","title":"__getitem__ index and slice iteration in python","dg-publish":true,"permalink":"/docs/__getitem__ index and slice iteration in python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/__getitem__ index and slice iteration in python/","title":"__getitem__ index and slice iteration in python"}
 ---
 
 - [GFG](https://www.geeksforgeeks.org/__getitem__-in-python/)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"N-Queen {boj}","created":"2023-08-12T22:19:59","updated":"2023-08-14T11:18:57","dg-publish":true,"permalink":"/docs/algorithms/N-Queen {boj}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/algorithms/N-Queen {boj}/","title":"N-Queen {boj}"}
 ---
 
 - [boj link](https://www.acmicpc.net/problem/9663)

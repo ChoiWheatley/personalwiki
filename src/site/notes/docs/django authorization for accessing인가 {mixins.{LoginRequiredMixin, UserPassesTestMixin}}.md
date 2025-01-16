@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-01T17:01:51","updated":"2023-07-25T11:22:05","title":"django authorization for accessing인가 {mixins.{LoginRequiredMixin, UserPassesTestMixin}}","dg-publish":true,"permalink":"/docs/django authorization for accessing인가 {mixins.{LoginRequiredMixin, UserPassesTestMixin}}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django authorization for accessing인가 {mixins.{LoginRequiredMixin, UserPassesTestMixin}}/","title":"django authorization for accessing인가 {mixins.{LoginRequiredMixin, UserPassesTestMixin}}"}
 ---
 
 - [User authentication in django {doc}](https://docs.djangoproject.com/en/4.2/topics/auth/)

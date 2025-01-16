@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-23T20:41:10","updated":"2023-07-15T21:33:04","title":"Login Auth-Token Cookies","dg-publish":true,"permalink":"/docs/Login Auth-Token Cookies/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Login Auth-Token Cookies/","title":"Login Auth-Token Cookies"}
 ---
 
 

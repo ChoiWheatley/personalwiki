@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"DTO Validation using class-validator {NestJS}","created":"2024-03-10T15:51:47","updated":"2024-03-10T17:33:11","dg-publish":true,"permalink":"/docs/DTO Validation using class-validator {NestJS}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/DTO Validation using class-validator {NestJS}/","title":"DTO Validation using class-validator {NestJS}"}
 ---
 
 - <https://docs.nestjs.com/techniques/validation>

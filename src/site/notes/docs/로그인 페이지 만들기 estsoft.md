@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-28T21:24:47","updated":"2023-07-15T21:33:03","title":"로그인 페이지 만들기 estsoft","dg-publish":true,"permalink":"/docs/로그인 페이지 만들기 estsoft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/로그인 페이지 만들기 estsoft/","title":"로그인 페이지 만들기 estsoft"}
 ---
 
 - 결과물

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Reverse Relation {drf}","created":"2024-11-16T09:37:23","updated":"2024-11-16T10:02:21","dg-publish":true,"permalink":"/docs/Reverse Relation {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Reverse Relation {drf}/","title":"Reverse Relation {drf}"}
 ---
 
 - ref: <https://www.django-rest-framework.org/api-guide/relations/#reverse-relations>

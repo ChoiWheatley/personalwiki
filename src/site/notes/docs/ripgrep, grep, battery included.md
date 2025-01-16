@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ripgrep, grep, battery included","created":"2023-09-12T10:32:37","updated":"2023-09-12T10:34:09","dg-publish":true,"permalink":"/docs/ripgrep, grep, battery included/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ripgrep, grep, battery included/","title":"ripgrep, grep, battery included"}
 ---
 
 <https://github.com/BurntSushi/ripgrep>

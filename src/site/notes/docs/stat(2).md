@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"stat(2)","created":"2023-09-20T15:44:27","updated":"2023-09-20T15:46:34","dg-publish":true,"permalink":"/docs/stat(2)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/stat(2)/","title":"stat(2)"}
 ---
 
 - <https://www.man7.org/linux/man-pages/man2/stat.2.html>

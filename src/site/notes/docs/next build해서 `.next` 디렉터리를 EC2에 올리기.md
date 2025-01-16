@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"next build해서 `.next` 디렉터리를 EC2에 올리기","created":"2023-12-02T17:10:34","updated":"2023-12-02T17:26:14","dg-publish":true,"permalink":"/docs/next build해서 `.next` 디렉터리를 EC2에 올리기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/next build해서 `.next` 디렉터리를 EC2에 올리기/","title":"next build해서 `.next` 디렉터리를 EC2에 올리기"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

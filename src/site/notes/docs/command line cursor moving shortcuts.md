@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"command line cursor moving shortcuts","created":"2023-10-05T09:34:45","updated":"2023-10-05T09:35:56","dg-publish":true,"permalink":"/docs/command line cursor moving shortcuts/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/command line cursor moving shortcuts/","title":"command line cursor moving shortcuts"}
 ---
 
 - [solution answer from {SO}](https://stackoverflow.com/a/5542996/21369350)

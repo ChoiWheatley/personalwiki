@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-31T14:39:00","updated":"2023-07-15T21:30:20","title":"django template {context}","dg-publish":true,"permalink":"/docs/django template {context}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django template {context}/","title":"django template {context}"}
 ---
 
 - [What is a context in django {SOF}](https://stackoverflow.com/questions/20957388/what-is-a-context-in-django#:~:text=A%20context%20is%20a%20variable%20name%20-%3E%20variable,specify%20the%20variables%20in%20each%20render%20%28%29%20call.)

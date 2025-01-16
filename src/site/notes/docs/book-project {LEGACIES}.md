@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-11T17:35:30","updated":"2023-07-15T21:30:21","title":"book-project {LEGACIES}","dg-publish":true,"permalink":"/docs/book-project {LEGACIES}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/book-project {LEGACIES}/","title":"book-project {LEGACIES}"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-10T15:08:23","updated":"2023-07-15T21:33:04","title":"github issue, pull request 활용하기","dg-publish":true,"permalink":"/docs/github issue, pull request 활용하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/github issue, pull request 활용하기/","title":"github issue, pull request 활용하기"}
 ---
 
 - 

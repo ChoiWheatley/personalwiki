@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"monitors {synchronization}","created":"2023-09-25T19:55:45","updated":"2023-09-25T20:26:09","dg-publish":true,"permalink":"/docs/monitors {synchronization}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/monitors {synchronization}/","title":"monitors {synchronization}","tags":["scrap"]}
 ---
 
 - <<https://en.wikipedia.org/wiki/Monitor_(synchronization>)>  

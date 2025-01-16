@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"overload operator new {C++}","created":"2024-01-13T16:58:45","updated":"2024-01-13T17:00:58","dg-publish":true,"permalink":"/docs/overload operator new {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/overload operator new {C++}/","title":"overload operator new {C++}"}
 ---
 
 - [[docs/string {C++}\|string {C++}]]

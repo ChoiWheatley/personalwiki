@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T20:23:37","updated":"2023-07-15T21:33:04","title":"MIRI - Mid-level Intermediate Representaion Interpreter","dg-publish":true,"permalink":"/docs/MIRI - Mid-level Intermediate Representaion Interpreter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/MIRI - Mid-level Intermediate Representaion Interpreter/","title":"MIRI - Mid-level Intermediate Representaion Interpreter"}
 ---
 
 - https://github.com/rust-lang/miri

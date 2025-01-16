@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"rds postgresql ssl 인증서 발급하여 접속하기","created":"2024-03-10T23:19:32","updated":"2024-03-10T23:22:27","dg-publish":true,"permalink":"/docs/rds postgresql ssl 인증서 발급하여 접속하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/rds postgresql ssl 인증서 발급하여 접속하기/","title":"rds postgresql ssl 인증서 발급하여 접속하기"}
 ---
 
 

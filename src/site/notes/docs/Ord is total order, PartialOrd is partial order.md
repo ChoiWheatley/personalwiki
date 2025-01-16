@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-29T20:40:17","updated":"2023-07-15T21:33:03","title":"Ord is total order, PartialOrd is partial order","dg-publish":true,"permalink":"/docs/Ord is total order, PartialOrd is partial order/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Ord is total order, PartialOrd is partial order/","title":"Ord is total order, PartialOrd is partial order"}
 ---
 
 - [실험을 진행한 코드](https://github.com/ChoiWheatley/my-first-rust/blob/c55e7e848ccc2eefb0838b4ba44a3d7e86922f07/self_ref/src/step_006_self_ref_cmp.rs)

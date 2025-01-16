@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"swjungle 🤖","created":"2023-08-10T09:29:31","updated":"2024-11-22T22:38:49","dg-publish":true,"permalink":"/docs/swjungle 🤖/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/swjungle 🤖/","title":"swjungle 🤖"}
 ---
 
 

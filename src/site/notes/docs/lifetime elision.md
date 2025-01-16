@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-31T23:38:33","updated":"2023-07-15T21:33:04","title":"lifetime elision","dg-publish":true,"permalink":"/docs/lifetime elision/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/lifetime elision/","title":"lifetime elision"}
 ---
 
 - https://rust-unofficial.github.io/too-many-lists/second-iter.html

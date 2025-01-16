@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-07T11:53:33","updated":"2023-07-15T21:33:03","title":"VPC (Virtual Private Cloud)","dg-publish":true,"permalink":"/docs/VPC (Virtual Private Cloud)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/VPC (Virtual Private Cloud)/","title":"VPC (Virtual Private Cloud)"}
 ---
 
 VPC (Virtual Private Cloud)  

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-31T17:12:41","updated":"2023-07-15T21:33:03","title":"redirect { django }","dg-publish":true,"permalink":"/docs/redirect { django }/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/redirect { django }/","title":"redirect { django }"}
 ---
 
 - [The Ultimate Guide to Django Redirects {Real Python}](https://realpython.com/django-redirects/)

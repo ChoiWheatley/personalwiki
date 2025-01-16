@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:36:54","updated":"2023-07-15T21:33:03","title":"terraria","dg-publish":true,"permalink":"/docs/terraria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/terraria/","title":"terraria"}
 ---
 
 https://tshock.readme.io/docs/permissions  

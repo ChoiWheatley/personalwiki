@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Monday, February 27th 2023, 1:43:07 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-27T01:43:07","updated":"2023-07-15T21:33:04","title":"let 변수 선언만 해도 되나요","dg-publish":true,"permalink":"/docs/let 변수 선언만 해도 되나요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/let 변수 선언만 해도 되나요/","title":"let 변수 선언만 해도 되나요"}
 ---
 
 가능합니다. 다음 문장을 보면

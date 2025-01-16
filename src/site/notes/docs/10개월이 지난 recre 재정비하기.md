@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"10개월이 지난 recre 재정비하기","created":"2024-10-17T23:03:56","updated":"2024-10-17T23:19:00","dg-publish":true,"permalink":"/docs/10개월이 지난 recre 재정비하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/10개월이 지난 recre 재정비하기/","title":"10개월이 지난 recre 재정비하기"}
 ---
 
 parent: [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"질문 개많으니까 도움 많이 된다","title":"2023-09-26 권영진 교수님의 OS 강의 (1차) {swjungle}","created":"2023-09-25T20:32:05","updated":"2023-09-26T10:53:37","dg-publish":true,"permalink":"/docs/2023-09-26 권영진 교수님의 OS 강의 (1차) {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023-09-26 권영진 교수님의 OS 강의 (1차) {swjungle}/","title":"2023-09-26 권영진 교수님의 OS 강의 (1차) {swjungle}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

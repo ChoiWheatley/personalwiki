@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"각종 QNA 정리 {swjungle}{pintos}{project3}","created":"2023-10-11T16:38:53","updated":"2023-10-11T16:39:03","dg-publish":true,"permalink":"/docs/각종 QNA 정리 {swjungle}{pintos}{project3}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/각종 QNA 정리 {swjungle}{pintos}{project3}/","title":"각종 QNA 정리 {swjungle}{pintos}{project3}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

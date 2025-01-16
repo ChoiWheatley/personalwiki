@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"docker 교과서 Chapter 11","created":"2024-11-20T15:59:12","updated":"2024-11-20T17:16:59","dg-publish":true,"permalink":"/docs/docker 교과서 Chapter 11/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/docker 교과서 Chapter 11/","title":"docker 교과서 Chapter 11"}
 ---
 
 이 장은 Continuous Integration, 지속적 통합에 관한 내용을 다룬다. 통합이란, 빌드와 테스팅을 정기적으로 수행하는 절차를 의미한다. 통합은 빌드, 테스트, 배포 단계와 같이 일련의 파이프라인으로 이루어져 있는데, CI를 통과한 이미지는 코드 상태가 정상이고 패키징이 끝나 릴리즈 후보로 적합한 상태임을 의미한다. 그러면 이 통합과정을 도맡아서 할 서버와 서비스가 필요한데, 이 작업또한 컨테이너 이미지의 형태로 제공된다. CI 서버를 따로 구축하면 프로젝트 구현과 테스팅, 배포 작업을 분리할 수 있어 생산성이 높아진다.

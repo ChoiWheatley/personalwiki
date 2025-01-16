@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"aliases":null,"tags":["string","two_pointers"],"description":null,"title":"leet 5 longest-palindrome-substring","created":"2024-01-02T17:43:53","updated":"2024-12-23T18:00:13","dg-publish":true,"permalink":"/docs/algorithms/leet 5 longest-palindrome-substring/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/algorithms/leet 5 longest-palindrome-substring/","title":"leet 5 longest-palindrome-substring","tags":["string","two_pointers"]}
 ---
 
 - [[docs/index/0011 Algorithms ♾️\|algorithms]]

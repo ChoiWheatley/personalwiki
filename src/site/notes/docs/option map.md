@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-31T20:58:47","updated":"2023-07-15T21:33:03","title":"option map","dg-publish":true,"permalink":"/docs/option map/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/option map/","title":"option map"}
 ---
 
 - https://doc.rust-lang.org/std/option/enum.Option.html#method.map

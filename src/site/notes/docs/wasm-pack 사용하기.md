@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-16T18:40:57","updated":"2023-07-15T21:33:03","title":"wasm-pack 사용하기","dg-publish":true,"permalink":"/docs/wasm-pack 사용하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/wasm-pack 사용하기/","title":"wasm-pack 사용하기"}
 ---
 
 parent:

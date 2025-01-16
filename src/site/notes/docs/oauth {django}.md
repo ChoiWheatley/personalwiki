@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-21T20:39:04","updated":"2024-07-18T16:33:48","title":"oauth {django}","dg-publish":true,"permalink":"/docs/oauth {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/oauth {django}/","title":"oauth {django}"}
 ---
 
 - [YT](https://www.youtube.com/watch?v=Gk9tsLHMMsM&list=WL&index=1&t=812s)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"Boyd's Law of Iteration","created":"2023-03-30T17:36:07","updated":"2023-09-02T23:44:16","dg-publish":true,"permalink":"/docs/Boyd's Law of Iteration/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Boyd's Law of Iteration/","title":"Boyd's Law of Iteration","tags":["scrap"]}
 ---
 
 - <https://blog.codinghorror.com/boyds-law-of-iteration/>

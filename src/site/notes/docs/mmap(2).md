@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"mmap(2)","created":"2023-09-18T19:22:29","updated":"2023-09-18T21:27:11","dg-publish":true,"permalink":"/docs/mmap(2)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/mmap(2)/","title":"mmap(2)"}
 ---
 
 - <https://www.man7.org/linux/man-pages/man2/mmap.2.html>

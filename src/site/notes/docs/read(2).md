@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"read(2)","created":"2023-09-18T14:02:42","updated":"2023-09-18T14:10:54","dg-publish":true,"permalink":"/docs/read(2)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/read(2)/","title":"read(2)"}
 ---
 
 [read(2)](https://man7.org/linux/man-pages/man2/read.2.html)

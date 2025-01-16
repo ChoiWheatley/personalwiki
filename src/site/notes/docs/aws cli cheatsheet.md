@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"aws cli cheatsheet","created":"2024-11-19T16:18:42","updated":"2024-11-19T16:20:52","dg-publish":true,"permalink":"/docs/aws cli cheatsheet/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/aws cli cheatsheet/","title":"aws cli cheatsheet"}
 ---
 
 

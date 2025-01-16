@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-18T22:36:59","updated":"2023-07-15T21:33:04","title":"letting specific path as unknown with colon","dg-publish":true,"permalink":"/docs/letting specific path as unknown with colon/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/letting specific path as unknown with colon/","title":"letting specific path as unknown with colon"}
 ---
 
 - [Route paths](https://expressjs.com/en/guide/routing.html#route-paths)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"(주)마티니 아이오 Growth Engineer","created":"2024-01-20T18:27:03","updated":"2024-01-20T18:34:18","dg-publish":true,"permalink":"/docs/(주)마티니 아이오 Growth Engineer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/(주)마티니 아이오 Growth Engineer/","title":"(주)마티니 아이오 Growth Engineer"}
 ---
 
 - [마티니 Growth 팀의 리더 이재철 인터뷰](https://delicious-palm-d5c.notion.site/f4573988582e4229a0dcd69630050617)

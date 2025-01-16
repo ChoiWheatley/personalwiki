@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Thursday, February 23rd 2023, 11:43:31 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-23T23:43:31","updated":"2023-07-15T21:33:03","title":"unit type","dg-publish":true,"permalink":"/docs/unit type/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/unit type/","title":"unit type"}
 ---
 
 https://rust-book.cs.brown.edu/ch03-02-data-types.html 

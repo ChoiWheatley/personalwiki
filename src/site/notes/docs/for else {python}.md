@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"for else {python}","created":"2023-08-15T20:17:53","updated":"2023-08-15T20:18:27","dg-publish":true,"permalink":"/docs/for else {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/for else {python}/","title":"for else {python}"}
 ---
 
 break 구문을 만나면 실행되지 않는 코드조각

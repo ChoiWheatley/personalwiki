@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"linux에서 Capslock 버튼을 한영키로 사용하기","created":"2024-03-16T16:56:36","updated":"2024-03-16T18:07:32","dg-publish":true,"permalink":"/docs/linux에서 Capslock 버튼을 한영키로 사용하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/linux에서 Capslock 버튼을 한영키로 사용하기/","title":"linux에서 Capslock 버튼을 한영키로 사용하기"}
 ---
 
 - [[docs/index/001B linux 🐧\|001B linux 🐧]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"upage vs kpage vs physical memory {pintos} {swjungle} {qna archieve}","created":"2023-10-15T19:23:41","updated":"2023-10-15T19:24:19","dg-publish":true,"permalink":"/docs/upage vs kpage vs physical memory {pintos} {swjungle} {qna archieve}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/upage vs kpage vs physical memory {pintos} {swjungle} {qna archieve}/","title":"upage vs kpage vs physical memory {pintos} {swjungle} {qna archieve}"}
 ---
 
 - [[docs/week09 - Virtual Memory {pintos} {swjungle}\|week09 - Virtual Memory {pintos} {swjungle}]]

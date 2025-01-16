@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-25T15:41:00","updated":"2023-07-15T21:33:04","title":"git submodule 개념 잡기","dg-publish":true,"permalink":"/docs/git submodule 개념 잡기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/git submodule 개념 잡기/","title":"git submodule 개념 잡기"}
 ---
 
 - 지금까지 알게된 것들 일단 싸지르기

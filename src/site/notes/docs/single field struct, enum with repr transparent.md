@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-29T21:27:39","updated":"2023-07-15T21:33:03","title":"single field struct, enum with repr transparent","dg-publish":true,"permalink":"/docs/single field struct, enum with repr transparent/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/single field struct, enum with repr transparent/","title":"single field struct, enum with repr transparent"}
 ---
 
 - https://doc.rust-lang.org/nomicon/other-reprs.html#reprtransparent

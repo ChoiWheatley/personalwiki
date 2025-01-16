@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-02T11:25:11","updated":"2023-07-15T21:30:20","title":"django model.ForeignKey.on_delete","dg-publish":true,"permalink":"/docs/django model.ForeignKey.on_delete/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django model.ForeignKey.on_delete/","title":"django model.ForeignKey.on_delete"}
 ---
 
 https://docs.djangoproject.com/en/4.2/ref/models/fields/#django.db.models.ForeignKey.on_delete

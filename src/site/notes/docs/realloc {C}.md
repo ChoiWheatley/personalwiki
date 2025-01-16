@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"realloc {C}","created":"2023-09-02T13:43:35","updated":"2023-09-02T13:43:59","dg-publish":true,"permalink":"/docs/realloc {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/realloc {C}/","title":"realloc {C}"}
 ---
 
 

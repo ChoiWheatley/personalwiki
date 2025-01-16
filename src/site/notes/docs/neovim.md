@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"neovim","created":"2023-08-14T09:26:58","updated":"2024-12-05T20:44:45","dg-publish":true,"permalink":"/docs/neovim/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/neovim/","title":"neovim"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|programming]]

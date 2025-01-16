@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-17T16:46:11","updated":"2023-07-15T21:33:03","title":"Option의 unwrap 메서드는 소유권을 가져간다","dg-publish":true,"permalink":"/docs/Option의 unwrap 메서드는 소유권을 가져간다/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Option의 unwrap 메서드는 소유권을 가져간다/","title":"Option의 unwrap 메서드는 소유권을 가져간다"}
 ---
 
 [unwrap](https://doc.rust-lang.org/std/option/enum.Option.html#method.unwrap) 메서드의 함수 시그니처로 `&self` 가 아닌, `self`를 받는다. 그래서 다음 코드는 컴파일 에러를 발생시킨다.

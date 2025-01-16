@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"created":"2023-02-16T20:39:00","tags":["hash","string"],"source":"https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIfv7qBCYDFAXC","author":null,"date created":"Thursday, February 16th 2023, 8:39:00 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-12-23T18:45:03","title":"은기의 아주 큰 그림 {라빈카프} {Rabin Karp}","dg-publish":true,"permalink":"/docs/algorithms/은기의 아주 큰 그림 {라빈카프} {Rabin Karp}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/algorithms/은기의 아주 큰 그림 {라빈카프} {Rabin Karp}/","title":"은기의 아주 큰 그림 {라빈카프} {Rabin Karp}","tags":["hash","string"]}
 ---
 
 parent link: [[docs/Hash\|Hash]]

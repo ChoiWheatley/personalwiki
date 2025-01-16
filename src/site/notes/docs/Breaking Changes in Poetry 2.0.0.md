@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":null,"status":null,"title":"Breaking Changes in Poetry 2.0.0","created":"2025-01-07T21:13:09","updated":"2025-01-07T21:31:42","dg-publish":true,"permalink":"/docs/Breaking Changes in Poetry 2.0.0/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Breaking Changes in Poetry 2.0.0/","title":"Breaking Changes in Poetry 2.0.0"}
 ---
 
 

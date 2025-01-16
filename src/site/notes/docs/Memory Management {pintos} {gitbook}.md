@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Memory Management {pintos} {gitbook}","created":"2023-10-15T19:51:57","updated":"2023-10-15T20:05:14","dg-publish":true,"permalink":"/docs/Memory Management {pintos} {gitbook}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Memory Management {pintos} {gitbook}/","title":"Memory Management {pintos} {gitbook}"}
 ---
 
 - [[docs/week09 - Virtual Memory {pintos} {swjungle}\|week09 - Virtual Memory {pintos} {swjungle}]]

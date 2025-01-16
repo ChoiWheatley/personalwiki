@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"10 best practices to containerize Node.js web application with Docker","created":"2024-10-27T18:46:19","updated":"2024-10-27T18:46:54","dg-publish":true,"permalink":"/docs/10 best practices to containerize Node.js web application with Docker/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/10 best practices to containerize Node.js web application with Docker/","title":"10 best practices to containerize Node.js web application with Docker"}
 ---
 
 - ref: <https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/>

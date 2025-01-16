@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["programming/rust"],"created":"2023-03-08T15:05:42","updated":"2023-07-15T21:33:03","title":"Permission Handling","dg-publish":true,"permalink":"/docs/Permission Handling/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Permission Handling/","title":"Permission Handling","tags":["programming/rust"]}
 ---
 
 https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html

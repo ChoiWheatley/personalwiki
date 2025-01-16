@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-20T23:57:37","updated":"2023-07-15T21:33:04","title":"layer and middleware in axum","dg-publish":true,"permalink":"/docs/layer and middleware in axum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/layer and middleware in axum/","title":"layer and middleware in axum"}
 ---
 
 - https://docs.rs/axum/0.6.16/axum/middleware/index.html

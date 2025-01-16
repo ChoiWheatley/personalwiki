@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"object literal to class object using Object.assign {js}","created":"2024-06-16T17:45:48","updated":"2024-06-16T17:46:15","dg-publish":true,"permalink":"/docs/object literal to class object using Object.assign {js}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/object literal to class object using Object.assign {js}/","title":"object literal to class object using Object.assign {js}"}
 ---
 
 예제:

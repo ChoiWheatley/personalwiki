@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-01T13:33:19","updated":"2023-07-20T08:42:09","title":"django forms","dg-publish":true,"permalink":"/docs/django forms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django forms/","title":"django forms"}
 ---
 
 - [Working with forms {doc}](https://docs.djangoproject.com/en/4.2/topics/forms/)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-25T12:13:32","updated":"2023-07-15T21:30:21","title":"20230625 book-project","dg-publish":true,"permalink":"/docs/20230625 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230625 book-project/","title":"20230625 book-project"}
 ---
 
 - [[docs/reverse를 사용해야 하는 이유 {django}\|reverse를 사용해야 하는 이유 {django}]]

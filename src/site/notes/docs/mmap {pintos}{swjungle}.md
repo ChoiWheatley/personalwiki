@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"mmap {pintos}{swjungle}","created":"2023-10-17T22:45:32","updated":"2023-10-17T23:23:10","dg-publish":true,"permalink":"/docs/mmap {pintos}{swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/mmap {pintos}{swjungle}/","title":"mmap {pintos}{swjungle}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

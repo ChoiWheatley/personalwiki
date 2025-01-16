@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-19T09:15:58","updated":"2023-07-15T21:30:22","title":"20230519 estsoft - python","dg-publish":true,"permalink":"/docs/20230519 estsoft - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230519 estsoft - python/","title":"20230519 estsoft - python"}
 ---
 
 

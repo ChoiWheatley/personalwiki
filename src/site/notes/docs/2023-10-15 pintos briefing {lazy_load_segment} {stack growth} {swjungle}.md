@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"본 문서는 lazy load segment 구현 완료로 인해 테스트 코드를 실행해 볼 수 있게 되어 큰 산 넘었다고 판단하여 진행한 브리핑의 내용을 요약했습니다.","title":"2023-10-15 pintos briefing {lazy_load_segment} {stack growth} {swjungle}","created":"2023-10-15T02:32:23","updated":"2023-10-15T04:39:29","dg-publish":true,"permalink":"/docs/2023-10-15 pintos briefing {lazy_load_segment} {stack growth} {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023-10-15 pintos briefing {lazy_load_segment} {stack growth} {swjungle}/","title":"2023-10-15 pintos briefing {lazy_load_segment} {stack growth} {swjungle}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

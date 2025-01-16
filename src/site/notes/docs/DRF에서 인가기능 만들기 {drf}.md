@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["drf/permissions drf/authorization"],"description":"사용자에게 적절한 권한 부여하기","title":"DRF에서 인가기능 만들기 {drf}","created":"2023-08-02T09:42:38","updated":"2023-08-04T00:35:18","dg-publish":true,"permalink":"/docs/DRF에서 인가기능 만들기 {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/DRF에서 인가기능 만들기 {drf}/","title":"DRF에서 인가기능 만들기 {drf}","tags":["drf/permissions drf/authorization"]}
 ---
 
 - links:

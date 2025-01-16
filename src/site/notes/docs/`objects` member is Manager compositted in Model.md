@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"`get_queryset`을 구현한 Manager 객체를 Model에 composite 할 수 있다.","title":"`objects` member is Manager compositted in Model","created":"2023-07-28T09:44:28","updated":"2023-07-28T10:02:48","dg-publish":true,"permalink":"/docs/`objects` member is Manager compositted in Model/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/`objects` member is Manager compositted in Model/","title":"`objects` member is Manager compositted in Model"}
 ---
 
 - link:

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"mongoose, a mongodb ODM for javascript","created":"2023-11-03T19:25:18","updated":"2023-11-03T19:46:07","dg-publish":true,"permalink":"/docs/mongoose, a mongodb ODM for javascript/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/mongoose, a mongodb ODM for javascript/","title":"mongoose, a mongodb ODM for javascript"}
 ---
 
 - [mongoose docs](https://mongoosejs.com/docs/)

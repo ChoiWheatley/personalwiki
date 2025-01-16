@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":["http://legacy.python.org/dev/peps/pep-3134/","[[0014 Python 🐍]]"],"status":null,"title":"python raise ... from statement","created":"2025-01-07T14:25:07","updated":"2025-01-07T14:32:06","dg-publish":true,"permalink":"/docs/python raise ... from statement/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python raise ... from statement/","title":"python raise ... from statement"}
 ---
 
 

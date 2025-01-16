@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"`scanf`는 리턴값으로 성공적으로 입력받은 인자의 개수를 리턴한다.","created":"2023-09-01T22:49:10","updated":"2023-09-01T22:49:20","dg-publish":true,"permalink":"/docs/`scanf`는 리턴값으로 성공적으로 입력받은 인자의 개수를 리턴한다./","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/`scanf`는 리턴값으로 성공적으로 입력받은 인자의 개수를 리턴한다./","title":"`scanf`는 리턴값으로 성공적으로 입력받은 인자의 개수를 리턴한다."}
 ---
 
 <https://cplusplus.com/reference/cstdio/scanf/>

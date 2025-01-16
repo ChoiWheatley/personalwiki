@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-11T00:30:26","updated":"2023-07-15T21:30:22","title":"(right) under (one's) (very) nose","dg-publish":true,"permalink":"/docs/(right) under (one's) (very) nose/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/(right) under (one's) (very) nose/","title":"(right) under (one's) (very) nose"}
 ---
 
 - In a place easy to see or find

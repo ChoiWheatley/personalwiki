@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-11T00:42:02","updated":"2023-07-15T21:33:03","title":"upkeep","dg-publish":true,"permalink":"/docs/upkeep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/upkeep/","title":"upkeep"}
 ---
 
 - to process of keeping of something in a good condition

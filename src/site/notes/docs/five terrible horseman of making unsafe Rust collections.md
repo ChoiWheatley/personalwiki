@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-09T21:21:42","updated":"2023-07-15T21:33:04","title":"five terrible horseman of making unsafe Rust collections","dg-publish":true,"permalink":"/docs/five terrible horseman of making unsafe Rust collections/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/five terrible horseman of making unsafe Rust collections/","title":"five terrible horseman of making unsafe Rust collections"}
 ---
 
 - [[docs/0013.1 Scrapped 🦀\|0013.1 Scrapped 🦀]]

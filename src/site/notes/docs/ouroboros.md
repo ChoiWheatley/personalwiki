@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-29T23:11:47","updated":"2023-07-15T21:33:03","title":"ouroboros","dg-publish":true,"permalink":"/docs/ouroboros/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ouroboros/","title":"ouroboros"}
 ---
 
 - https://crates.io/crates/ouroboros

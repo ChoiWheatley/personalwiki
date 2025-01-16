@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"OS 유노코딩 {ozcoding}","created":"2024-07-04T10:37:21","updated":"2024-07-04T11:48:02","dg-publish":true,"permalink":"/docs/OS 유노코딩 {ozcoding}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/OS 유노코딩 {ozcoding}/","title":"OS 유노코딩 {ozcoding}"}
 ---
 
 

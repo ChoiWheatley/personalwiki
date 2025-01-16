@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2024-03-10 wishfunding","created":"2024-03-10T13:34:36","updated":"2024-03-10T23:23:34","dg-publish":true,"permalink":"/docs/2024-03-10 wishfunding/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-03-10 wishfunding/","title":"2024-03-10 wishfunding"}
 ---
 
 

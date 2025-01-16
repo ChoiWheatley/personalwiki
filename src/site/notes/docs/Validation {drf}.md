@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Validation {drf}","created":"2024-11-26T01:14:15","updated":"2024-11-26T01:16:14","dg-publish":true,"permalink":"/docs/Validation {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Validation {drf}/","title":"Validation {drf}"}
 ---
 
 

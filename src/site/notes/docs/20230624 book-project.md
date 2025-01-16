@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-24T09:43:22","updated":"2023-07-15T21:30:21","title":"20230624 book-project","dg-publish":true,"permalink":"/docs/20230624 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230624 book-project/","title":"20230624 book-project"}
 ---
 
 - 책

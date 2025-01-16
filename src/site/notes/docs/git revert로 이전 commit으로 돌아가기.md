@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"git revert로 이전 commit으로 돌아가기","created":"2024-04-11T13:31:04","updated":"2024-04-11T13:33:33","dg-publish":true,"permalink":"/docs/git revert로 이전 commit으로 돌아가기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/git revert로 이전 commit으로 돌아가기/","title":"git revert로 이전 commit으로 돌아가기"}
 ---
 
 

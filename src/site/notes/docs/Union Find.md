@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Union Find","created":"2023-08-20T23:40:36","updated":"2023-08-24T12:25:23","dg-publish":true,"permalink":"/docs/Union Find/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Union Find/","title":"Union Find"}
 ---
 
 [[docs/algorithms/1197 최소 스패닝 트리 {boj}\|1197 최소 스패닝 트리 {boj}]]  

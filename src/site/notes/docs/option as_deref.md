@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-01T00:37:59","updated":"2023-07-15T21:33:03","title":"option as_deref","dg-publish":true,"permalink":"/docs/option as_deref/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/option as_deref/","title":"option as_deref"}
 ---
 
 - https://doc.rust-lang.org/std/option/enum.Option.html#method.as_deref

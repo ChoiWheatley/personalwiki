@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Sunday, February 12th 2023, 12:31:26 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-12T12:31:26","updated":"2023-07-15T21:33:04","title":"FL4K은신잠행 스킬트리","dg-publish":true,"permalink":"/docs/FL4K은신잠행 스킬트리/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/FL4K은신잠행 스킬트리/","title":"FL4K은신잠행 스킬트리"}
 ---
 
 links: [[docs/Borderlands3\|Borderlands3]], [[docs/index/0020 Games 🎮\|game]]

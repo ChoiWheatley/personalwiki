@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T00:17:36","updated":"2023-07-15T21:33:04","title":"module and package (python)","dg-publish":true,"permalink":"/docs/module and package (python)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/module and package (python)/","title":"module and package (python)"}
 ---
 
 

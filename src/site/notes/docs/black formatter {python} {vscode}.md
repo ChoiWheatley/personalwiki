@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-08T10:28:56","updated":"2023-07-15T21:30:21","title":"black formatter {python} {vscode}","dg-publish":true,"permalink":"/docs/black formatter {python} {vscode}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/black formatter {python} {vscode}/","title":"black formatter {python} {vscode}"}
 ---
 
 포매터에는 여러 종류가 있습니다. autopep8, yapf, black이 있습니다. 개인적으로 black을 가장 선호합니다. 별다른 과정 없이 잘 돌아가거든요. [doc](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter#usage)

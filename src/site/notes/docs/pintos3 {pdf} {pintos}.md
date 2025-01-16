@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"pintos3 {pdf} {pintos}","created":"2023-10-14T04:57:15","updated":"2023-10-14T05:29:06","dg-publish":true,"permalink":"/docs/pintos3 {pdf} {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/pintos3 {pdf} {pintos}/","title":"pintos3 {pdf} {pintos}"}
 ---
 
 - [[Pintos_3.pdf]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"inline {C++}","created":"2024-01-14T01:43:47","updated":"2024-01-14T12:43:11","dg-publish":true,"permalink":"/docs/inline {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/inline {C++}/","title":"inline {C++}"}
 ---
 
 - [[docs/C++\|C++]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"trimwhitespace {C}","created":"2023-09-20T14:14:59","updated":"2023-09-20T14:421287:17","dg-publish":true,"permalink":"/docs/trimwhitespace {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/trimwhitespace {C}/","title":"trimwhitespace {C}"}
 ---
 
 - <https://stackoverflow.com/a/122721/21369350> 참고함.

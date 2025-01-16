@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Wednesday, February 15th 2023, 1:49:54 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-15T13:49:54","updated":"2023-07-15T21:33:03","title":"sw사관학교 정글 7기 준비","dg-publish":true,"permalink":"/docs/sw사관학교 정글 7기 준비/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/sw사관학교 정글 7기 준비/","title":"sw사관학교 정글 7기 준비"}
 ---
 
 https://swjungle.net/

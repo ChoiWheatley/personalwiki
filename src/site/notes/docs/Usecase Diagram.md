@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Usecase Diagram","created":"2024-09-08T18:51:00","updated":"2024-09-08T18:53:41","dg-publish":true,"permalink":"/docs/Usecase Diagram/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Usecase Diagram/","title":"Usecase Diagram"}
 ---
 
 Use case Diagram(이하 유스케이스 다이어그램)는 시스템 요구사항을 시각적으로 표현하고 이해 관계자들간 커뮤니케이션을 원활하게 하기 위해서 사용되는 도구입니다. 사용자 요구사항으로부터 기능을 식별하고 API 엔드포인트로 매핑하는데 활용될 수 있습니다.

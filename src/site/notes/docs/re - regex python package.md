@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-15T15:06:09","updated":"2023-07-15T21:33:03","title":"re - regex python package","dg-publish":true,"permalink":"/docs/re - regex python package/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/re - regex python package/","title":"re - regex python package"}
 ---
 
 

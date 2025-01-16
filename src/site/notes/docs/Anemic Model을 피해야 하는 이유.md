@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Anemic Model을 피해야 하는 이유","created":"2024-12-20T14:30:28","updated":"2024-12-20T14:30:29","dg-publish":true,"permalink":"/docs/Anemic Model을 피해야 하는 이유/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Anemic Model을 피해야 하는 이유/","title":"Anemic Model을 피해야 하는 이유"}
 ---
 
 

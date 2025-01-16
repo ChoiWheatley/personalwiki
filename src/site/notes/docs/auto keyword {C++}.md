@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"auto keyword {C++}","created":"2024-01-14T20:13:56","updated":"2024-01-15T20:35:56","dg-publish":true,"permalink":"/docs/auto keyword {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/auto keyword {C++}/","title":"auto keyword {C++}"}
 ---
 
 - [[docs/C++\|C++]]

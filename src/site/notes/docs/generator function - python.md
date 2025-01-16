@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T17:37:42","updated":"2023-07-15T21:33:04","title":"generator function - python","dg-publish":true,"permalink":"/docs/generator function - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/generator function - python/","title":"generator function - python"}
 ---
 
 [[docs/2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel\|2023-05-11 estsoft - python - inheritance, linked-list, method-overriding, MRO, private-member, iterator, generator, module, file-io, excel]]

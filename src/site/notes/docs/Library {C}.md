@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Library {C}","created":"2023-09-02T13:44:48","updated":"2023-09-10T11:02:16","dg-publish":true,"permalink":"/docs/Library {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Library {C}/","title":"Library {C}"}
 ---
 
 - parent: [[docs/index/0017 C 🍎\|0017 C 🍎]]

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-03T18:42:07","updated":"2023-07-15T21:30:22","title":"2023 Summer Coding - 스타트업 인턴 프로그램","dg-publish":true,"permalink":"/docs/2023 Summer Coding - 스타트업 인턴 프로그램/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023 Summer Coding - 스타트업 인턴 프로그램/","title":"2023 Summer Coding - 스타트업 인턴 프로그램"}
 ---
 
 - https://career.programmers.co.kr/competitions/3287?utm_source=kakaotalk&utm_medium=social&utm_campaign=career_cmp3287_noti&utm_content=3287_img01

@@ -1,5 +1,5 @@
 ---
-{"description":null,"created":"2023-08-10T09:24:38","categories":["독서","책","book"],"aliases":["독서","책","book","스크랩","읽기목록"],"tags":["book scrap"],"updated":"2023-10-31T14:05:33","title":"0080 Scraps 📚","dg-publish":true,"permalink":"/docs/index/0080 Scraps 📚/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/0080 Scraps 📚/","title":"0080 Scraps 📚","tags":["book scrap"]}
 ---
 
 - parent link: [[docs/index/waypoint\|waypoint]]

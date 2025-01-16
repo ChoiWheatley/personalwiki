@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["todo","scrap"],"description":null,"title":"Many-To-Many relationships {sequelize} {todo}","created":"2023-11-05T23:46:23","updated":"2023-11-05T23:47:10","dg-publish":true,"permalink":"/docs/Many-To-Many relationships {sequelize} {todo}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Many-To-Many relationships {sequelize} {todo}/","title":"Many-To-Many relationships {sequelize} {todo}","tags":["todo","scrap"]}
 ---
 
 - [[docs/sequelize, a MySQL ORM for javascript\|sequelize, a MySQL ORM for javascript]]

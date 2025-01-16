@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Friday, February 10th 2023, 7:18:52 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-10T19:18:52","updated":"2023-07-15T21:33:03","title":"기초 partial sort 연습","dg-publish":true,"permalink":"/docs/기초 partial sort 연습/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/기초 partial sort 연습/","title":"기초 partial sort 연습"}
 ---
 
 문제  

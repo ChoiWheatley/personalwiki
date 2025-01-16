@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"try handle fault + page claiming {pintos}","created":"2023-10-13T16:59:50","updated":"2023-10-13T17:43:10","dg-publish":true,"permalink":"/docs/try handle fault + page claiming {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/try handle fault + page claiming {pintos}/","title":"try handle fault + page claiming {pintos}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

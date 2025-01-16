@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"소셜 로그인을 redirect + Set-Cookie 없이 할 수 있는 방법","created":"2024-07-31T21:47:51","updated":"2024-07-31T21:50:43","dg-publish":true,"permalink":"/docs/소셜 로그인을 redirect + Set-Cookie 없이 할 수 있는 방법/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/소셜 로그인을 redirect + Set-Cookie 없이 할 수 있는 방법/","title":"소셜 로그인을 redirect + Set-Cookie 없이 할 수 있는 방법"}
 ---
 
 - 소셜 로그인을 redirect + Set-Cookie 없이 할 수 있게 하는 방법을 알아냄.

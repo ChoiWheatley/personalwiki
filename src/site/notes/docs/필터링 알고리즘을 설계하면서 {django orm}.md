@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"필터링 알고리즘을 설계하면서 {django orm}","created":"2024-12-05T16:37:51","updated":"2024-12-05T17:23:10","dg-publish":true,"permalink":"/docs/필터링 알고리즘을 설계하면서 {django orm}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/필터링 알고리즘을 설계하면서 {django orm}/","title":"필터링 알고리즘을 설계하면서 {django orm}"}
 ---
 
 이 문서는 PlanA ("플라나" 라고 읽음) 프로젝트를 진행하며 만난 필터링 알고리즘에 대해서 작성한 글이다.

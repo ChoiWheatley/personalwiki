@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"새로운 lock holder가 반드시 lock waiters의 max priority임을 보장할 수 없다.","title":"priority inversion on lock release {swjungle}{pintos}","created":"2023-10-03T13:52:30","updated":"2023-10-03T14:09:26","dg-publish":true,"permalink":"/docs/priority inversion on lock release {swjungle}{pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/priority inversion on lock release {swjungle}{pintos}/","title":"priority inversion on lock release {swjungle}{pintos}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

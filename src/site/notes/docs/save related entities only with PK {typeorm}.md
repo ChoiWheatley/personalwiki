@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"save related entities only with PK {typeorm}","created":"2024-12-18T18:26:03","updated":"2024-12-18T18:27:46","dg-publish":true,"permalink":"/docs/save related entities only with PK {typeorm}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/save related entities only with PK {typeorm}/","title":"save related entities only with PK {typeorm}"}
 ---
 
 

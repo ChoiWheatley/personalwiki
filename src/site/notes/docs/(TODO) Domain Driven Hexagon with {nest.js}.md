@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"(TODO) Domain Driven Hexagon with {nest.js}","created":"2024-12-06T18:11:29","updated":"2024-12-20T14:47:47","dg-publish":true,"permalink":"/docs/(TODO) Domain Driven Hexagon with {nest.js}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/(TODO) Domain Driven Hexagon with {nest.js}/","title":"(TODO) Domain Driven Hexagon with {nest.js}"}
 ---
 
 - ref: <https://github.com/Sairyss/domain-driven-hexagon>

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"본인을 가장 잘 나타낼 수 있는 자기소개를 해 주십시오 {career}","created":"2023-12-18T19:14:33","updated":"2024-01-04T21:04:55","dg-publish":true,"permalink":"/docs/본인을 가장 잘 나타낼 수 있는 자기소개를 해 주십시오 {career}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/본인을 가장 잘 나타낼 수 있는 자기소개를 해 주십시오 {career}/","title":"본인을 가장 잘 나타낼 수 있는 자기소개를 해 주십시오 {career}"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

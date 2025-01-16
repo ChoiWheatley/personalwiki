@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-20T16:03:07","updated":"2023-07-15T21:30:21","title":"20230620 book-project","dg-publish":true,"permalink":"/docs/20230620 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230620 book-project/","title":"20230620 book-project"}
 ---
 
 - [[docs/inventory modeling {book-project}{재고, 장바구니, 구매링크}\|inventory modeling {book-project}{재고, 장바구니, 구매링크}]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"커스텀 타입을 string으로 변환하는 방법 {C++}","created":"2024-01-11T17:01:44","updated":"2024-01-11T17:01:49","dg-publish":true,"permalink":"/docs/커스텀 타입을 string으로 변환하는 방법 {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/커스텀 타입을 string으로 변환하는 방법 {C++}/","title":"커스텀 타입을 string으로 변환하는 방법 {C++}"}
 ---
 
 - [[docs/C++\|C++]]

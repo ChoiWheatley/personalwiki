@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["scrap/in_progress"],"created":"2023-06-08T12:51:41","updated":"2023-08-03T15:53:54","title":"Sit around the fire {Jon Hopkins}","dg-publish":true,"permalink":"/docs/Sit around the fire {Jon Hopkins}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Sit around the fire {Jon Hopkins}/","title":"Sit around the fire {Jon Hopkins}","tags":["scrap/in_progress"]}
 ---
 
 

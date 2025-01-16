@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"oauth2 {nest.js} {passport}","created":"2023-11-13T20:38:32","updated":"2023-11-14T15:15:25","dg-publish":true,"permalink":"/docs/oauth2 {nest.js} {passport}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/oauth2 {nest.js} {passport}/","title":"oauth2 {nest.js} {passport}"}
 ---
 
 - [[docs/index/0018.1 Nest.js 🐱\|0018.1 Nest.js 🐱]]

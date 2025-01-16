@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-26T15:05:22","updated":"2023-07-17T14:22:55","title":"1차 프로젝트 - estsoft {HTML-CSS-JS}","dg-publish":true,"permalink":"/docs/1차 프로젝트 - estsoft {HTML-CSS-JS}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/1차 프로젝트 - estsoft {HTML-CSS-JS}/","title":"1차 프로젝트 - estsoft {HTML-CSS-JS}"}
 ---
 
 - 일정: 

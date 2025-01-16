@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-05T14:07:38","updated":"2024-01-22T14:51:00","title":"URI vs URL","dg-publish":true,"permalink":"/docs/URI vs URL/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/URI vs URL/","title":"URI vs URL"}
 ---
 
 

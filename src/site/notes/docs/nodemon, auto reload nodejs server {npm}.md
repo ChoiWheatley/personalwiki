@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"nodemon, auto reload nodejs server {npm}","created":"2023-11-03T21:25:56","updated":"2023-11-03T21:27:47","dg-publish":true,"permalink":"/docs/nodemon, auto reload nodejs server {npm}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/nodemon, auto reload nodejs server {npm}/","title":"nodemon, auto reload nodejs server {npm}"}
 ---
 
 - <https://www.npmjs.com/package/nodemon>

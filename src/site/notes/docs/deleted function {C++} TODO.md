@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["todo"],"description":null,"title":"deleted function {C++} TODO","created":"2024-01-14T21:45:24","updated":"2024-01-15T20:39:204","dg-publish":true,"permalink":"/docs/deleted function {C++} TODO/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/deleted function {C++} TODO/","title":"deleted function {C++} TODO","tags":["todo"]}
 ---
 
 - [[docs/C++\|C++]]

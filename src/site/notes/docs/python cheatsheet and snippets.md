@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T15:10:40","updated":"2023-07-15T21:33:03","title":"python cheatsheet and snippets","dg-publish":true,"permalink":"/docs/python cheatsheet and snippets/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python cheatsheet and snippets/","title":"python cheatsheet and snippets"}
 ---
 
 

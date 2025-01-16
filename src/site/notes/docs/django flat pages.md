@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"django flat pages","created":"2023-07-19T23:53:41","updated":"2023-07-20T01:50:06","dg-publish":true,"permalink":"/docs/django flat pages/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django flat pages/","title":"django flat pages"}
 ---
 
 [the flatpages app {doc}](https://docs.djangoproject.com/en/4.2/ref/contrib/flatpages/)

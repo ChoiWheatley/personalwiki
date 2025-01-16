@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Stack Growth {pintos} {gitbook}","created":"2023-10-15T20:53:56","updated":"2023-10-15T22:16:41","dg-publish":true,"permalink":"/docs/Stack Growth {pintos} {gitbook}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Stack Growth {pintos} {gitbook}/","title":"Stack Growth {pintos} {gitbook}"}
 ---
 
 - [[docs/week09 - Virtual Memory {pintos} {swjungle}\|week09 - Virtual Memory {pintos} {swjungle}]]

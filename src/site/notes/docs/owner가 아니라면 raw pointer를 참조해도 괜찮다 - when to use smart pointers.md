@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:21:27","updated":"2024-01-11T17:06:11","title":"owner가 아니라면 raw pointer를 참조해도 괜찮다 - when to use smart pointers","dg-publish":true,"permalink":"/docs/owner가 아니라면 raw pointer를 참조해도 괜찮다 - when to use smart pointers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/owner가 아니라면 raw pointer를 참조해도 괜찮다 - when to use smart pointers/","title":"owner가 아니라면 raw pointer를 참조해도 괜찮다 - when to use smart pointers"}
 ---
 
 - <https://stackoverflow.com/questions/64443556/modern-c-approach-for-providing-optional-arguments>

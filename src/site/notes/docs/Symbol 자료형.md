@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":null,"status":null,"title":"Symbol 자료형","created":"2024-12-31T23:22:11","updated":"2024-12-31T23:22:13","dg-publish":true,"permalink":"/docs/Symbol 자료형/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Symbol 자료형/","title":"Symbol 자료형"}
 ---
 
 

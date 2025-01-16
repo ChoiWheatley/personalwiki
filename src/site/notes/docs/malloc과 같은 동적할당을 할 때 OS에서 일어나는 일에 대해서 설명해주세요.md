@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"malloc과 같은 동적할당을 할 때 OS에서 일어나는 일에 대해서 설명해주세요","created":"2024-01-11T00:15:54","updated":"2024-01-11T10:14:41","dg-publish":true,"permalink":"/docs/malloc과 같은 동적할당을 할 때 OS에서 일어나는 일에 대해서 설명해주세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/malloc과 같은 동적할당을 할 때 OS에서 일어나는 일에 대해서 설명해주세요/","title":"malloc과 같은 동적할당을 할 때 OS에서 일어나는 일에 대해서 설명해주세요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T00:01:12","updated":"2024-11-23T11:55:03","title":"list comprehension - python","dg-publish":true,"permalink":"/docs/list comprehension - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/list comprehension - python/","title":"list comprehension - python"}
 ---
 
 

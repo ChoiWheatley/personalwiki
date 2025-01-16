@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"linux 커널 rbtree 코드 {안쓰는 비트를 활용한 최적화}","created":"2023-09-07T13:55:57","updated":"2023-09-07T21:21:20","dg-publish":true,"permalink":"/docs/linux 커널 rbtree 코드 {안쓰는 비트를 활용한 최적화}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/linux 커널 rbtree 코드 {안쓰는 비트를 활용한 최적화}/","title":"linux 커널 rbtree 코드 {안쓰는 비트를 활용한 최적화}"}
 ---
 
 - parent: [[docs/이진검색트리 red black tree\|RBTree]]

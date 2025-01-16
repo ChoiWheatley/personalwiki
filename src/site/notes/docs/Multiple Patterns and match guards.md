@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-27T23:25:45","updated":"2023-07-15T21:33:04","title":"Multiple Patterns and match guards","dg-publish":true,"permalink":"/docs/Multiple Patterns and match guards/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Multiple Patterns and match guards/","title":"Multiple Patterns and match guards"}
 ---
 
 - https://rust-book.cs.brown.edu/ch18-03-pattern-syntax.html#multiple-patterns

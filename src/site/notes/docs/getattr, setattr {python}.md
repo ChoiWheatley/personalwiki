@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-29T10:26:57","updated":"2024-11-23T10:58:25","title":"getattr, setattr {python}","dg-publish":true,"permalink":"/docs/getattr, setattr {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/getattr, setattr {python}/","title":"getattr, setattr {python}"}
 ---
 
 - [docs.org](https://docs.python.org/3/library/functions.html#setattr)

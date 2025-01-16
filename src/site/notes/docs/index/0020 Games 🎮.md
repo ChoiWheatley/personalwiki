@@ -1,5 +1,5 @@
 ---
-{"description":null,"title":"0020 Games 🎮","created":"2023-02-26T20:14:43","aliases":["게임","game"],"tags":["game"],"date created":"Sunday, February 26th 2023, 8:14:43 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:32:55","dg-publish":true,"permalink":"/docs/index/0020 Games 🎮/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/0020 Games 🎮/","title":"0020 Games 🎮","tags":["game"]}
 ---
 
 parent link: [[docs/index/waypoint\|waypoint]]

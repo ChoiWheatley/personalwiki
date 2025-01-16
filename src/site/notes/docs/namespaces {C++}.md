@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"namespaces {C++} TODO","created":"2024-01-16T22:29:02","updated":"2024-01-18T18:59:41","dg-publish":true,"permalink":"/docs/namespaces {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/namespaces {C++}/","title":"namespaces {C++} TODO"}
 ---
 
  - [[docs/C++\|C++]]

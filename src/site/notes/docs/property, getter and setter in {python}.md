@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"property, getter and setter in {python}","created":"2023-08-23T15:35:19","updated":"2023-08-23T15:35:20","dg-publish":true,"permalink":"/docs/property, getter and setter in {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/property, getter and setter in {python}/","title":"property, getter and setter in {python}"}
 ---
 
 <https://realpython.com/python-property/>

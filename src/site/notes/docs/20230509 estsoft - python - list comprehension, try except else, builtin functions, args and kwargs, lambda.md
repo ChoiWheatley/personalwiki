@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-09T16:37:46","updated":"2023-07-15T21:30:22","title":"20230509 estsoft - python - list comprehension, try except else, builtin functions, args and kwargs, lambda","dg-publish":true,"permalink":"/docs/20230509 estsoft - python - list comprehension, try except else, builtin functions, args and kwargs, lambda/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230509 estsoft - python - list comprehension, try except else, builtin functions, args and kwargs, lambda/","title":"20230509 estsoft - python - list comprehension, try except else, builtin functions, args and kwargs, lambda"}
 ---
 
 {% raw %}

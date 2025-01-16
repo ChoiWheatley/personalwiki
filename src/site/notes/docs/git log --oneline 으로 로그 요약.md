@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"git log --oneline 으로 로그 요약","created":"2024-04-11T10:47:36","updated":"2024-04-11T10:49:24","dg-publish":true,"permalink":"/docs/git log --oneline 으로 로그 요약/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/git log --oneline 으로 로그 요약/","title":"git log --oneline 으로 로그 요약"}
 ---
 
 

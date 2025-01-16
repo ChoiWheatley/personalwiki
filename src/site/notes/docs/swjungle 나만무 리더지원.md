@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"swjungle 나만무 리더지원","created":"2023-11-04T12:58:19","updated":"2023-11-04T12:59:58","dg-publish":true,"permalink":"/docs/swjungle 나만무 리더지원/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/swjungle 나만무 리더지원/","title":"swjungle 나만무 리더지원"}
 ---
 
 - [[docs/week13 {swjugle}{team creation} {expressjs}\|week13 {swjugle}{team creation} {expressjs}]]

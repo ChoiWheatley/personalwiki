@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-06T10:22:03","updated":"2024-11-29T22:04:32","title":"N+1 problem with select_related, prefetch_related {django query}","dg-publish":true,"permalink":"/docs/N+1 problem with select_related, prefetch_related {django query}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/N+1 problem with select_related, prefetch_related {django query}/","title":"N+1 problem with select_related, prefetch_related {django query}"}
 ---
 
 `JOIN` 고도화에 사용되는 함수들. 단일 쿼리에서 계속 `JOIN`을 수행하면 비효율적이므로 미리 조인을 시켜놓은 결과를 객체로 반환한다.

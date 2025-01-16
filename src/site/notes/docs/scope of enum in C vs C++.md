@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"scope of enum in C vs C++","created":"2024-01-18T22:14:23","updated":"2024-01-18T22:14:59","dg-publish":true,"permalink":"/docs/scope of enum in C vs C++/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/scope of enum in C vs C++/","title":"scope of enum in C vs C++","tags":["scrap"]}
 ---
 
 - [stackoverflow / Scope of enum in C VS C++](https://stackoverflow.com/questions/30047021/scope-of-enum-in-c-vs-c)

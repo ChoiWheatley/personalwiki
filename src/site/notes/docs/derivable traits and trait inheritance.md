@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-01T11:03:08","updated":"2023-07-15T21:30:20","title":"derivable traits and trait inheritance","dg-publish":true,"permalink":"/docs/derivable traits and trait inheritance/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/derivable traits and trait inheritance/","title":"derivable traits and trait inheritance"}
 ---
 
 - [Rust book - Appendix C: Derivable Traits](https://doc.rust-lang.org/book/appendix-03-derivable-traits.html)

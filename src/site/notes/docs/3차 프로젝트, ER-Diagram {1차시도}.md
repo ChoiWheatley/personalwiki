@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"3차 프로젝트, ER-Diagram {1차시도}","created":"2023-08-02T15:27:46","updated":"2023-08-02T15:28:08","dg-publish":true,"permalink":"/docs/3차 프로젝트, ER-Diagram {1차시도}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/3차 프로젝트, ER-Diagram {1차시도}/","title":"3차 프로젝트, ER-Diagram {1차시도}"}
 ---
 
 openai request, response는 JSON 형식을 갖고있고, JSON은 반정형 데이터이기 때문에 정형 데이터를 저장하는 SQL에 있어서 커다란 장애물이 된다. 이 문제를 해소하고 확장성을 높이기 위해 WordPress의 스타일을 차용하였다. `key`, `value` 쌍을 저장하는 것이다. 쿼리 속도는 늦어질지 몰라도 적어도 1단계 깊이의 객체를 표현할 수 있다. 

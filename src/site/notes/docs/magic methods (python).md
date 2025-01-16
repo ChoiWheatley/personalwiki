@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T00:07:16","updated":"2023-07-15T21:33:04","title":"magic methods (python)","dg-publish":true,"permalink":"/docs/magic methods (python)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/magic methods (python)/","title":"magic methods (python)"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"title":"The case of the golden idol","created":"2023-02-23T20:47:19","categories":["추리게임","포인트 앤 클릭"],"aliases":[null],"tags":[" game  ","game"],"date created":"Thursday, February 23rd 2023, 8:47:19 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:33:03","dg-publish":true,"permalink":"/docs/The case of the golden idol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/The case of the golden idol/","title":"The case of the golden idol","tags":[" game  ","game"]}
 ---
 
 parent link: 

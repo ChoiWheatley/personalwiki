@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"open_listenfd {socket}{bind}{listen}","created":"2023-09-21T00:57:58","updated":"2023-09-21T01:01:28","dg-publish":true,"permalink":"/docs/open_listenfd {socket}{bind}{listen}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/open_listenfd {socket}{bind}{listen}/","title":"open_listenfd {socket}{bind}{listen}"}
 ---
 
 - [[docs/index/0017 C 🍎\|0017 C 🍎]]

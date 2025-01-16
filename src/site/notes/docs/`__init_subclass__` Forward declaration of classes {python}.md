@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"`__init_subclass__` Forward declaration of classes {python}","created":"2023-07-19T11:33:11","updated":"2023-07-19T11:37:35","dg-publish":true,"permalink":"/docs/`__init_subclass__` Forward declaration of classes {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/`__init_subclass__` Forward declaration of classes {python}/","title":"`__init_subclass__` Forward declaration of classes {python}"}
 ---
 
 [sof conversation](https://stackoverflow.com/questions/4162456/forward-declaration-of-classes)  

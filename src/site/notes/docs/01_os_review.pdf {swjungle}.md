@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"01_os_review.pdf {swjungle}","created":"2023-09-25T23:23:13","updated":"2023-10-10T12:30:36","dg-publish":true,"permalink":"/docs/01_os_review.pdf {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/01_os_review.pdf {swjungle}/","title":"01_os_review.pdf {swjungle}"}
 ---
 
 - [01_os_review.pdf](https://drive.google.com/file/d/1v7ZT0uCqnSFQQY3jQsnXnCh9WHPpgQxZ/view)

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-11T13:37:19","updated":"2023-07-15T21:30:21","title":"Building a Rust service with Nix","dg-publish":true,"permalink":"/docs/Building a Rust service with Nix/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Building a Rust service with Nix/","title":"Building a Rust service with Nix"}
 ---
 
 - https://fasterthanli.me/series/building-a-rust-service-with-nix
