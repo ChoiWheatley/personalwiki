@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"(TODO) Model-View-Controller 를 사용한 풀스택 서버 만들기 {nest.js}","created":"2024-12-06T18:08:21","updated":"2024-12-06T18:09:15","dg-publish":true,"permalink":"/docs/(TODO) Model-View-Controller 를 사용한 풀스택 서버 만들기 {nest.js}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/(TODO) Model-View-Controller 를 사용한 풀스택 서버 만들기 {nest.js}/","title":"(TODO) Model-View-Controller 를 사용한 풀스택 서버 만들기 {nest.js}"}
 ---
 
 

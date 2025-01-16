@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-09T16:51:13","updated":"2023-07-15T21:33:04","title":"json-generator","dg-publish":true,"permalink":"/docs/json-generator/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/json-generator/","title":"json-generator"}
 ---
 
 

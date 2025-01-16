@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"web socket ec2 {devops}","created":"2023-11-25T09:55:44","updated":"2023-11-25T13:34:54","dg-publish":true,"permalink":"/docs/web socket ec2 {devops}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/web socket ec2 {devops}/","title":"web socket ec2 {devops}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

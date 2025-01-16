@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"fstab 파일이 필요한 이유","created":"2024-09-16T22:04:49","updated":"2024-09-16T22:08:25","dg-publish":true,"permalink":"/docs/fstab 파일이 필요한 이유/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/fstab 파일이 필요한 이유/","title":"fstab 파일이 필요한 이유"}
 ---
 
 `genfstab -U -p /mnt >> /mnt/etc/fstab` 명령어는 리눅스 시스템에서 **`fstab` 파일**을 자동으로 생성해주는 명령어입니다. 이 명령어는 시스템의 마운트 포인트 정보를 `/mnt/etc/fstab` 파일에 추가하여, 시스템이 부팅될 때 각 파티션과 논리 볼륨이 자동으로 마운트되도록 설정하는 작업을 수행합니다. 하나씩 그 의미를 설명해드릴게요.

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"virtual memory {SP}","created":"2023-08-30T17:19:55","updated":"2023-08-30T17:21:44","dg-publish":true,"permalink":"/docs/virtual memory {SP}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/virtual memory {SP}/","title":"virtual memory {SP}"}
 ---
 
 

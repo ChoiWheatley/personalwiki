@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-08T06:56:01","updated":"2024-11-25T17:49:00","title":"Easymotion Vim cheatsheat","dg-publish":true,"permalink":"/docs/Easymotion Vim cheatsheat/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Easymotion Vim cheatsheat/","title":"Easymotion Vim cheatsheat"}
 ---
 
 - ref:

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-28T21:03:38","updated":"2023-07-15T21:30:21","title":"chat page 작성하기 estsoft","dg-publish":true,"permalink":"/docs/chat page 작성하기 estsoft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/chat page 작성하기 estsoft/","title":"chat page 작성하기 estsoft"}
 ---
 
 - 결과물

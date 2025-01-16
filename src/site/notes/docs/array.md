@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Thursday, February 23rd 2023, 11:51:41 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-23T23:51:41","updated":"2023-07-15T21:30:21","title":"array","dg-publish":true,"permalink":"/docs/array/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/array/","title":"array"}
 ---
 
 

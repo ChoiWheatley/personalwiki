@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ascii gui editor","created":"2023-12-30T15:00:49","updated":"2023-12-30T15:05:26","dg-publish":true,"permalink":"/docs/ascii gui editor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ascii gui editor/","title":"ascii gui editor"}
 ---
 
 - [[docs/index/0090 Bucket Lists 🪣#Computer & Programming\|0090 Bucket Lists 🪣#Computer & Programming]]

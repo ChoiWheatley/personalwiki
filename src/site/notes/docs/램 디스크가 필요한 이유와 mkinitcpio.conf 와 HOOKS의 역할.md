@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"램 디스크가 필요한 이유와 mkinitcpio.conf 와 HOOKS의 역할","created":"2024-09-17T22:39:14","updated":"2024-09-17T22:39:45","dg-publish":true,"permalink":"/docs/램 디스크가 필요한 이유와 mkinitcpio.conf 와 HOOKS의 역할/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/램 디스크가 필요한 이유와 mkinitcpio.conf 와 HOOKS의 역할/","title":"램 디스크가 필요한 이유와 mkinitcpio.conf 와 HOOKS의 역할"}
 ---
 
 

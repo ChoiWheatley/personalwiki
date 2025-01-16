@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-04T13:02:46","updated":"2023-07-15T21:30:22","title":"20230504 estsoft - python - sort, deep copy and shallow copy, tuple, dictionary, set, match case","dg-publish":true,"permalink":"/docs/20230504 estsoft - python - sort, deep copy and shallow copy, tuple, dictionary, set, match case/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230504 estsoft - python - sort, deep copy and shallow copy, tuple, dictionary, set, match case/","title":"20230504 estsoft - python - sort, deep copy and shallow copy, tuple, dictionary, set, match case"}
 ---
 
 

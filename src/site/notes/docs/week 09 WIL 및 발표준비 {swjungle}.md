@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week 09 WIL 및 발표준비 {swjungle}","created":"2023-10-23T21:55:23","updated":"2023-10-28T17:19:19","dg-publish":true,"permalink":"/docs/week 09 WIL 및 발표준비 {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week 09 WIL 및 발표준비 {swjungle}/","title":"week 09 WIL 및 발표준비 {swjungle}"}
 ---
 
 - [[docs/week09 - Virtual Memory {pintos} {swjungle}\|week09 - Virtual Memory {pintos} {swjungle}]]

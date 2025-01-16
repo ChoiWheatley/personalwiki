@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-08T13:29:42","updated":"2023-07-15T21:33:05","title":"django with ajax","dg-publish":true,"permalink":"/docs/django with ajax/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django with ajax/","title":"django with ajax"}
 ---
 
 - [Django + Ajax Full Tutorial Cource (46min) {YT}](https://youtu.be/h1fKWxs7A2c)

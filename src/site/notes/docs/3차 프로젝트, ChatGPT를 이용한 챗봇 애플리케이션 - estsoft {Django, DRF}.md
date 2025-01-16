@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"aliases":null,"tags":null,"description":null,"title":"3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}","created":"2023-07-26T09:38:10","updated":"2025-01-14T21:22:20","dg-publish":true,"permalink":"/docs/3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}/","title":"3차 프로젝트, ChatGPT를 이용한 챗봇 애플리케이션 - estsoft {Django, DRF}"}
 ---
 
 - parent link: [[docs/index/0014.1 Django 🎈\|0014.1 Django 🎈]], [[docs/ESTsoft 백엔드 개발자 부트캠프 오르미 1기\|ESTsoft 백엔드 개발자 부트캠프 오르미 1기]]

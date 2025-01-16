@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"aliases":null,"tags":["scrap"],"description":null,"title":"tasks, microtasks, queues and schedules {js} {TODO}","created":"2023-11-10T20:56:30","updated":"2024-12-31T23:19:43","dg-publish":true,"permalink":"/docs/tasks, microtasks, queues and schedules {js} {TODO}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/tasks, microtasks, queues and schedules {js} {TODO}/","title":"tasks, microtasks, queues and schedules {js} {TODO}","tags":["scrap"]}
 ---
 
 - <https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/>

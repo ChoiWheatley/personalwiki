@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-29T07:13:37","updated":"2023-07-15T21:30:21","title":"20230629 book-project","dg-publish":true,"permalink":"/docs/20230629 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230629 book-project/","title":"20230629 book-project"}
 ---
 
 - [[docs/index/0014.1.1 drf {django rest framework} 😴\|0014.1.1 drf {django rest framework} 😴]] Serializer에 대하여 먼저 공부.

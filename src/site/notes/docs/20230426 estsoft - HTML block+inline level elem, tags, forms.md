@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-26T09:06:47","updated":"2023-07-15T21:30:22","title":"20230426 estsoft - HTML block+inline level elem, tags, forms","dg-publish":true,"permalink":"/docs/20230426 estsoft - HTML block+inline level elem, tags, forms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230426 estsoft - HTML block+inline level elem, tags, forms/","title":"20230426 estsoft - HTML block+inline level elem, tags, forms"}
 ---
 
 - [notion site in main site](https://paullabworkspace.notion.site/HTML-CSS-91665f909bd44cb2ad8e6720b9da400e)

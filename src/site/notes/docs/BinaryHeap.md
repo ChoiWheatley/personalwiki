@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-06T23:42:21","updated":"2023-07-15T21:30:21","title":"BinaryHeap","dg-publish":true,"permalink":"/docs/BinaryHeap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/BinaryHeap/","title":"BinaryHeap"}
 ---
 
 - [doc](https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html)

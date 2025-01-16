@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-01T09:22:04","updated":"2023-07-15T21:33:04","title":"jQuery","dg-publish":true,"permalink":"/docs/jQuery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/jQuery/","title":"jQuery"}
 ---
 
 [jQuery & Ajax {Notion}](https://www.notion.so/jQuery-Ajax-22-5-60ddc1d3731542baa9e888bd5a03dcff)

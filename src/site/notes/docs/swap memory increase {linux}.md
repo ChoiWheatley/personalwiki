@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"swap memory increase {linux}","created":"2023-09-28T17:38:01","updated":"2024-09-19T00:51:52","dg-publish":true,"permalink":"/docs/swap memory increase {linux}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/swap memory increase {linux}/","title":"swap memory increase {linux}"}
 ---
 
 

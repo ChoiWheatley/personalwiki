@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"BFS","created":"2023-12-30T15:06:12","updated":"2023-12-30T15:11:26","dg-publish":true,"permalink":"/docs/BFS/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/BFS/","title":"BFS"}
 ---
 
 - [[docs/index/0011 Algorithms ♾️\|algorithms]]

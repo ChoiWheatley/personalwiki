@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-03T15:21:11","updated":"2023-07-15T21:33:04","title":"function과 method 간의 차이점","dg-publish":true,"permalink":"/docs/function과 method 간의 차이점/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/function과 method 간의 차이점/","title":"function과 method 간의 차이점"}
 ---
 
 function(instance) 와 instance.method() 간의 차이점...? 파이썬에서 이런걸 많이 본 것 같다.

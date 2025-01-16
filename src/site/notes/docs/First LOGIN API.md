@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-20T22:21:09","updated":"2023-07-15T21:33:04","title":"First LOGIN API","dg-publish":true,"permalink":"/docs/First LOGIN API/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/First LOGIN API/","title":"First LOGIN API"}
 ---
 
 

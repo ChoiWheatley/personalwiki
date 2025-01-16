@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-08T08:54:04","updated":"2023-07-15T21:33:03","title":"ubuntu 20.04 etc apt sources.list","dg-publish":true,"permalink":"/docs/ubuntu 20.04 etc apt sources.list/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ubuntu 20.04 etc apt sources.list/","title":"ubuntu 20.04 etc apt sources.list"}
 ---
 
 - https://gist.github.com/ishad0w/788555191c7037e249a439542c53e170

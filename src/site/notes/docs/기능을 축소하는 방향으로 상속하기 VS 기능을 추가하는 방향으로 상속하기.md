@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-03T15:21:39","updated":"2023-07-15T21:33:03","title":"기능을 축소하는 방향으로 상속하기 VS 기능을 추가하는 방향으로 상속하기","dg-publish":true,"permalink":"/docs/기능을 축소하는 방향으로 상속하기 VS 기능을 추가하는 방향으로 상속하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/기능을 축소하는 방향으로 상속하기 VS 기능을 추가하는 방향으로 상속하기/","title":"기능을 축소하는 방향으로 상속하기 VS 기능을 추가하는 방향으로 상속하기"}
 ---
 
 기능을 축소하는 방향으로 상속하기 VS 기능을 추가하는 방향으로 상속하기  

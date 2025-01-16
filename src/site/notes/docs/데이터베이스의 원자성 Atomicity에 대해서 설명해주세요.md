@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"데이터베이스의 원자성 Atomicity에 대해서 설명해주세요","created":"2024-09-11T14:49:32","updated":"2024-09-11T14:58:48","dg-publish":true,"permalink":"/docs/데이터베이스의 원자성 Atomicity에 대해서 설명해주세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/데이터베이스의 원자성 Atomicity에 대해서 설명해주세요/","title":"데이터베이스의 원자성 Atomicity에 대해서 설명해주세요"}
 ---
 
 

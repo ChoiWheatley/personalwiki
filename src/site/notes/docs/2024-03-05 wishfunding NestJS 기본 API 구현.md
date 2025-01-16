@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2024-03-05 wishfunding NestJS 기본 API 구현","created":"2024-03-05T16:45:45","updated":"2024-03-105T3126:09:57:48","dg-publish":true,"permalink":"/docs/2024-03-05 wishfunding NestJS 기본 API 구현/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-03-05 wishfunding NestJS 기본 API 구현/","title":"2024-03-05 wishfunding NestJS 기본 API 구현"}
 ---
 
 - [[docs/index/0018.1 Nest.js 🐱\|0018.1 Nest.js 🐱]]

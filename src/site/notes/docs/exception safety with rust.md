@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-10T15:12:58","updated":"2023-07-15T21:33:05","title":"exception safety with rust","dg-publish":true,"permalink":"/docs/exception safety with rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/exception safety with rust/","title":"exception safety with rust"}
 ---
 
 - https://doc.rust-lang.org/nightly/nomicon/exception-safety.html

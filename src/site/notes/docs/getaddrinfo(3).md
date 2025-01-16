@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"getaddrinfo(3)","created":"2023-09-18T14:32:25","updated":"2023-09-21T00:30:13","dg-publish":true,"permalink":"/docs/getaddrinfo(3)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/getaddrinfo(3)/","title":"getaddrinfo(3)"}
 ---
 
 - <https://man7.org/linux/man-pages/man3/getaddrinfo.3.html>

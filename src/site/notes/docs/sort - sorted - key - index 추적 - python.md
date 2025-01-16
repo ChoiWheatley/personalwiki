@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T23:44:09","updated":"2023-07-15T21:33:03","title":"sort - sorted - key - index 추적 - python","dg-publish":true,"permalink":"/docs/sort - sorted - key - index 추적 - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/sort - sorted - key - index 추적 - python/","title":"sort - sorted - key - index 추적 - python"}
 ---
 
 

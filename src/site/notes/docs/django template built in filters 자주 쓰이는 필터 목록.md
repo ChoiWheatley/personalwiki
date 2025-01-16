@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"django template built in filters 자주 쓰이는 필터 목록","created":"2023-07-19T15:28:39","updated":"2023-07-19T16:20:16","dg-publish":true,"permalink":"/docs/django template built in filters 자주 쓰이는 필터 목록/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django template built in filters 자주 쓰이는 필터 목록/","title":"django template built in filters 자주 쓰이는 필터 목록"}
 ---
 
 [doc](https://docs.djangoproject.com/en/4.2/ref/templates/builtins/#ref-templates-builtins-filters)

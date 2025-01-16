@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"created":"2023-05-20T10:14:11","updated":"2023-07-21T21:57:12","description":"book-project의 시작","title":"공동집필 프로젝트 - estsoft 📕(deprecated)","dg-publish":true,"permalink":"/docs/공동집필 프로젝트 - estsoft 📕(deprecated)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/공동집필 프로젝트 - estsoft 📕(deprecated)/","title":"공동집필 프로젝트 - estsoft 📕(deprecated)"}
 ---
 
 

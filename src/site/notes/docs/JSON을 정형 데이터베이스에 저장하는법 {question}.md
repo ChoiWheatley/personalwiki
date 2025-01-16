@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"JSON을 정형 데이터베이스에 저장하는법 {question}","created":"2023-07-27T11:10:50","updated":"2023-07-27T15:07:06","dg-publish":true,"permalink":"/docs/JSON을 정형 데이터베이스에 저장하는법 {question}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JSON을 정형 데이터베이스에 저장하는법 {question}/","title":"JSON을 정형 데이터베이스에 저장하는법 {question}"}
 ---
 
 

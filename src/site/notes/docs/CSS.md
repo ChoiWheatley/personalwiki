@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-26T21:43:08","updated":"2023-07-15T21:30:21","title":"CSS","dg-publish":true,"permalink":"/docs/CSS/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/CSS/","title":"CSS"}
 ---
 
 - [CSS 기본 notion src](https://paullabworkspace.notion.site/CSS-bce6b95b464d4c978b3de1e60eb32d6e)

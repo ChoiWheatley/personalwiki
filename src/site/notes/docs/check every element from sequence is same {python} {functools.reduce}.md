@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"check every element from sequence is same {python} {functools.reduce}","created":"2023-08-13T16:36:38","updated":"2023-08-15T21:02:47","dg-publish":true,"permalink":"/docs/check every element from sequence is same {python} {functools.reduce}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/check every element from sequence is same {python} {functools.reduce}/","title":"check every element from sequence is same {python} {functools.reduce}"}
 ---
 
 

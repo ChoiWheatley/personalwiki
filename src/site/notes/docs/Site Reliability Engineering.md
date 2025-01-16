@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"Site Reliability Engineering","created":"2024-11-05T00:03:54","updated":"2024-11-05T00:04:17","dg-publish":true,"permalink":"/docs/Site Reliability Engineering/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Site Reliability Engineering/","title":"Site Reliability Engineering","tags":["scrap"]}
 ---
 
 resource: <https://sre.google/sre-book/preface/>

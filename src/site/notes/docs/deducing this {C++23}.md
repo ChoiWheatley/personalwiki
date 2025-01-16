@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"deducing this {C++23}","created":"2024-01-10T17:13:44","updated":"2024-01-10T17:15:52","dg-publish":true,"permalink":"/docs/deducing this {C++23}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/deducing this {C++23}/","title":"deducing this {C++23}"}
 ---
 
 - [[docs/C++\|C++]]

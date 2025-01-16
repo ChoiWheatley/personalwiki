@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"GDB 디버거 공부하기","created":"2023-09-10T13:01:48","updated":"2023-09-23T23:33:04","dg-publish":true,"permalink":"/docs/GDB 디버거 공부하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/GDB 디버거 공부하기/","title":"GDB 디버거 공부하기"}
 ---
 
 - 참조 사이트들

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"16500 문자열 판별 {boj} {dp, hash}","created":"2023-08-27T15:08:35","updated":"2023-08-27T15:17:01","dg-publish":true,"permalink":"/docs/16500 문자열 판별 {boj} {dp, hash}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/16500 문자열 판별 {boj} {dp, hash}/","title":"16500 문자열 판별 {boj} {dp, hash}"}
 ---
 
 문자열 판별 알고리즘은 [[docs/Hash#djb2\|Hash#djb2]]를 사용했으며, 초기에는 투 포인터로 풀다가 반례를 만나 [블로그](https://dana-study-log.tistory.com/entry/Baekjoon-%EB%B0%B1%EC%A4%80-16500%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8C%90%EB%B3%84) 검색 후 DP를 사용하여 풀었다.

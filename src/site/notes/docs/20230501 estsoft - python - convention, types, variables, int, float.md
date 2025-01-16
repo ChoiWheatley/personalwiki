@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-01T09:31:22","updated":"2023-08-11T10:37:56","title":"20230501 estsoft - python - convention, types, variables, int, float","dg-publish":true,"permalink":"/docs/20230501 estsoft - python - convention, types, variables, int, float/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230501 estsoft - python - convention, types, variables, int, float/","title":"20230501 estsoft - python - convention, types, variables, int, float"}
 ---
 
 - [오늘자 google colab 주소](https://colab.research.google.com/drive/1gxoD01mjta80MkTOlrei1BHSUI0_k9-R?usp=sharing)

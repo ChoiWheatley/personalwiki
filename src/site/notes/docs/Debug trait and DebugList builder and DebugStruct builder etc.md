@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-10T22:01:54","updated":"2023-07-15T21:30:20","title":"Debug trait and DebugList builder and DebugStruct builder etc","dg-publish":true,"permalink":"/docs/Debug trait and DebugList builder and DebugStruct builder etc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Debug trait and DebugList builder and DebugStruct builder etc/","title":"Debug trait and DebugList builder and DebugStruct builder etc"}
 ---
 
 - [TMLL](https://rust-unofficial.github.io/too-many-lists/sixth-random-bits.html) 막바지에 들어가면서 얻어갈 것이 많아 기쁘다.

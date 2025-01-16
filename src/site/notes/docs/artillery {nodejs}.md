@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"artillery {nodejs}","created":"2023-12-03T15:16:02","updated":"2023-12-04T01:54:29","dg-publish":true,"permalink":"/docs/artillery {nodejs}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/artillery {nodejs}/","title":"artillery {nodejs}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

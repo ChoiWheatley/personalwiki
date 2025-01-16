@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"kaist pintos assignment specification {casys-kaist.github.io}","created":"2023-09-22T10:42:50","updated":"2023-09-22T23:03:59","dg-publish":true,"permalink":"/docs/kaist pintos assignment specification {casys-kaist.github.io}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/kaist pintos assignment specification {casys-kaist.github.io}/","title":"kaist pintos assignment specification {casys-kaist.github.io}"}
 ---
 
 - <https://casys-kaist.github.io/pintos-kaist/>

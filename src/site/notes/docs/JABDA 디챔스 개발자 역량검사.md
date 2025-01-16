@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":[],"created":"2023-04-03T15:04:54","updated":"2023-07-15T21:33:04","title":"JABDA 디챔스 개발자 역량검사","dg-publish":true,"permalink":"/docs/JABDA 디챔스 개발자 역량검사/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JABDA 디챔스 개발자 역량검사/","title":"JABDA 디챔스 개발자 역량검사"}
 ---
 
 - https://m.jobda.im/info/346?utm_source=okky&utm_medium=edm&utm_campaign=dchamps

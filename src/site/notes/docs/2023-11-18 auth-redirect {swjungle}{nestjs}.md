@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2023-11-18 auth-redirect {swjungle}{nestjs}","created":"2023-11-18T22:32:08","updated":"2023-11-18T22:42:21","dg-publish":true,"permalink":"/docs/2023-11-18 auth-redirect {swjungle}{nestjs}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023-11-18 auth-redirect {swjungle}{nestjs}/","title":"2023-11-18 auth-redirect {swjungle}{nestjs}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

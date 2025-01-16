@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Docker API를 활용하여 도커 관리 시스템 구축","created":"2024-10-07T15:08:33","updated":"2024-10-07T15:11:37","dg-publish":true,"permalink":"/docs/Docker API를 활용하여 도커 관리 시스템 구축/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Docker API를 활용하여 도커 관리 시스템 구축/","title":"Docker API를 활용하여 도커 관리 시스템 구축"}
 ---
 
 - parent: [[docs/index/0010 Programming 👩‍💻\|programming]] 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week 05 {swjungle} {malloc-lab}","created":"2023-09-07T22:10:12","updated":"2024-01-08T17:39:21","dg-publish":true,"permalink":"/docs/week 05 {swjungle} {malloc-lab}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week 05 {swjungle} {malloc-lab}/","title":"week 05 {swjungle} {malloc-lab}"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]

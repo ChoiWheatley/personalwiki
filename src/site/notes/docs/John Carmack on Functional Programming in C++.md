@@ -1,5 +1,5 @@
 ---
-{"description":null,"title":"John Carmack on Functional Programming in C++","created":"2023-02-26T20:14:43","categories":["scrap"],"aliases":["functional"],"tags":[" programming/c++ ","programming/c"],"source":"http://sevangelatos.com/john-carmack-on/","date created":"Sunday, February 26th 2023, 8:14:43 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:33:04","dg-publish":true,"permalink":"/docs/John Carmack on Functional Programming in C++/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/John Carmack on Functional Programming in C++/","title":"John Carmack on Functional Programming in C++","tags":[" programming/c++ ","programming/c"]}
 ---
 
 parent link: 

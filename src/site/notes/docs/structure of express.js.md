@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"structure of express.js","created":"2023-11-03T19:24:40","updated":"2023-11-03T19:24:44","dg-publish":true,"permalink":"/docs/structure of express.js/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/structure of express.js/","title":"structure of express.js"}
 ---
 
 

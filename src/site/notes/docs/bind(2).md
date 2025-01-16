@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"bind(2)","created":"2023-09-19T16:49:57","updated":"2023-09-19T17:25:33","dg-publish":true,"permalink":"/docs/bind(2)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/bind(2)/","title":"bind(2)"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Keyboard hooking","created":"2024-02-04T16:15:39","updated":"2024-02-04T16:17:24","dg-publish":true,"permalink":"/docs/Keyboard hooking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Keyboard hooking/","title":"Keyboard hooking"}
 ---
 
 - [stackoverflow.com](https://stackoverflow.com/questions/22749444/listening-to-keyboard-events-without-consuming-them-in-x11-keyboard-hooking)

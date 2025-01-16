@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"13334 철로 {boj} {priorityqueue}","created":"2023-08-24T09:30:03","updated":"2023-08-24T09:50:10","dg-publish":true,"permalink":"/docs/13334 철로 {boj} {priorityqueue}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/13334 철로 {boj} {priorityqueue}/","title":"13334 철로 {boj} {priorityqueue}"}
 ---
 
 [문제풀이링크 {PR}](https://github.com/ChoiWheatley/swjungle-week-02/blob/e3a4687ea2758e85016c4b0d4342ac7653e54219/ghdud4653/26_21606(%EC%95%84%EC%B9%A8%EC%82%B0%EC%B1%85).py)

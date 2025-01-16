@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"DNS 레코드 중 CNAME Record를 통해 URL이 호스트 될 때 발생하는 일","created":"2024-09-02T11:23:36","updated":"2024-09-02T11:23:57","dg-publish":true,"permalink":"/docs/DNS 레코드 중 CNAME Record를 통해 URL이 호스트 될 때 발생하는 일/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/DNS 레코드 중 CNAME Record를 통해 URL이 호스트 될 때 발생하는 일/","title":"DNS 레코드 중 CNAME Record를 통해 URL이 호스트 될 때 발생하는 일"}
 ---
 
 

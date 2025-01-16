@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"stream, iterator, functional programming {C++}","created":"2024-01-11T17:03:32","updated":"2024-01-11T17:04:39","dg-publish":true,"permalink":"/docs/stream, iterator, functional programming {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/stream, iterator, functional programming {C++}/","title":"stream, iterator, functional programming {C++}"}
 ---
 
 - [[docs/C++\|C++]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"structures in C","created":"2023-09-02T10:28:30","updated":"2023-09-02T10:36:40","dg-publish":true,"permalink":"/docs/structures in C/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/structures in C/","title":"structures in C"}
 ---
 
 

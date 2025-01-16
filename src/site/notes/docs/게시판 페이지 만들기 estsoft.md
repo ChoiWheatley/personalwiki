@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-28T21:15:58","updated":"2023-07-15T21:33:03","title":"게시판 페이지 만들기 estsoft","dg-publish":true,"permalink":"/docs/게시판 페이지 만들기 estsoft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/게시판 페이지 만들기 estsoft/","title":"게시판 페이지 만들기 estsoft"}
 ---
 
 - 결과물

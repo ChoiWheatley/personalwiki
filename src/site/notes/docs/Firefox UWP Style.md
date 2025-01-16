@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["util"],"date created":"Sunday, February 12th 2023, 12:31:26 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-12T12:31:26","updated":"2023-07-15T21:33:04","title":"Firefox UWP Style","dg-publish":true,"permalink":"/docs/Firefox UWP Style/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Firefox UWP Style/","title":"Firefox UWP Style","tags":["util"]}
 ---
 
 

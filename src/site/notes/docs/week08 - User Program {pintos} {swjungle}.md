@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week08 - User Program {pintos} {swjungle}","created":"2023-10-15T04:42:56","updated":"2023-10-15T04:43216:59","dg-publish":true,"permalink":"/docs/week08 - User Program {pintos} {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week08 - User Program {pintos} {swjungle}/","title":"week08 - User Program {pintos} {swjungle}"}
 ---
 
 

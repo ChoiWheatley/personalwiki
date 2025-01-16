@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"array와 list의 차이점을 설명해주세요 자바의관점으로","created":"2024-01-10T10:28:03","updated":"2024-01-10T10:55:39","dg-publish":true,"permalink":"/docs/array와 list의 차이점을 설명해주세요 자바의관점으로/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/array와 list의 차이점을 설명해주세요 자바의관점으로/","title":"array와 list의 차이점을 설명해주세요 자바의관점으로"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

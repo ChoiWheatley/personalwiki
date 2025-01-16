@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-03T13:04:29","updated":"2023-07-15T21:30:22","title":"20230503 estsoft - python function, list","dg-publish":true,"permalink":"/docs/20230503 estsoft - python function, list/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230503 estsoft - python function, list/","title":"20230503 estsoft - python function, list"}
 ---
 
 - 5월 20일부터 책 집필을 할 수 있는 기회가 있을 예정. 팀이던 뭐던. 장고는 아직 진도를 안 나갔으니까

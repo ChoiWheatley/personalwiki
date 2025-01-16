@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"dataclass ValueError mutable default class list is not allowed, use default_factory {python}","created":"2023-08-20T14:27:22","updated":"2023-08-20T14:29:10","dg-publish":true,"permalink":"/docs/dataclass ValueError mutable default class list is not allowed, use default_factory {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/dataclass ValueError mutable default class list is not allowed, use default_factory {python}/","title":"dataclass ValueError mutable default class list is not allowed, use default_factory {python}"}
 ---
 
 원인 코드

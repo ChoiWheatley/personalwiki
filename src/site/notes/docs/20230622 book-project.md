@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"20230622 book-project","created":"2023-06-22T22:00:30","updated":"2023-07-15T21:30:21","dg-publish":true,"permalink":"/docs/20230622 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230622 book-project/","title":"20230622 book-project"}
 ---
 
 - [[docs/oauth {django}\|oauth {django}]]

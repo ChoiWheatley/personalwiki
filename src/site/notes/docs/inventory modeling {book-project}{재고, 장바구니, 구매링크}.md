@@ -1,5 +1,5 @@
 ---
-{"aliases":"장바구니, 재고","tags":null,"description":null,"created":"2023-06-20T14:49:30","updated":"2023-07-15T21:33:04","title":"inventory modeling {book-project}{재고, 장바구니, 구매링크}","dg-publish":true,"permalink":"/docs/inventory modeling {book-project}{재고, 장바구니, 구매링크}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/inventory modeling {book-project}{재고, 장바구니, 구매링크}/","title":"inventory modeling {book-project}{재고, 장바구니, 구매링크}"}
 ---
 
 

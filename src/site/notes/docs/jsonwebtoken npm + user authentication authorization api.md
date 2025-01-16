@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"jsonwebtoken npm + user authentication authorization api","created":"2023-11-03T19:29:19","updated":"2023-11-06T20:45:37","dg-publish":true,"permalink":"/docs/jsonwebtoken npm + user authentication authorization api/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/jsonwebtoken npm + user authentication authorization api/","title":"jsonwebtoken npm + user authentication authorization api"}
 ---
 
 - <https://www.npmjs.com/package/jsonwebtoken>

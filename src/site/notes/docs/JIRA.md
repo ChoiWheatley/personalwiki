@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"JIRA","created":"2024-07-04T17:23:42","updated":"2024-07-04T17:23:44","dg-publish":true,"permalink":"/docs/JIRA/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JIRA/","title":"JIRA"}
 ---
 
 

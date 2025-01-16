@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-22T22:01:05","updated":"2023-07-15T21:30:21","title":"clear cache in javascript","dg-publish":true,"permalink":"/docs/clear cache in javascript/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/clear cache in javascript/","title":"clear cache in javascript"}
 ---
 
 - parent: [[docs/index/0018 Javascript ☕️\|0018 Javascript ☕️]]

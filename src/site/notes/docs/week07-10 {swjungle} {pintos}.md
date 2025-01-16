@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"threads","title":"week07-10 {swjungle} {pintos}","created":"2023-09-21T16:20:48","updated":"2024-01-05T00:09:09","dg-publish":true,"permalink":"/docs/week07-10 {swjungle} {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week07-10 {swjungle} {pintos}/","title":"week07-10 {swjungle} {pintos}"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]

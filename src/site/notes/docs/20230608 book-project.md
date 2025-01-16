@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-08T09:11:23","updated":"2023-07-15T21:30:22","title":"20230608 book-project","dg-publish":true,"permalink":"/docs/20230608 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230608 book-project/","title":"20230608 book-project"}
 ---
 
 - [[docs/pylint-django {pip} {vscode}\|pylint-django {pip} {vscode}]]

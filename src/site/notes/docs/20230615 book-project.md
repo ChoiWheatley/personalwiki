@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-15T09:35:53","updated":"2023-07-15T21:30:21","title":"20230615 book-project","dg-publish":true,"permalink":"/docs/20230615 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230615 book-project/","title":"20230615 book-project"}
 ---
 
 - [[docs/django reverse\|django reverse]] 문제를 해결하는 방법 모색중.

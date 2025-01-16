@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:04:46","updated":"2023-07-15T21:30:21","title":"chmod 400과 동일한 파워셸 powershell 커맨드","dg-publish":true,"permalink":"/docs/chmod 400과 동일한 파워셸 powershell 커맨드/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/chmod 400과 동일한 파워셸 powershell 커맨드/","title":"chmod 400과 동일한 파워셸 powershell 커맨드"}
 ---
 
 https://www.youtube.com/watch?v=P1erVo5X3Bs

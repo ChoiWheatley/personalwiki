@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-21T11:49:24","updated":"2023-07-15T21:33:04","title":"File storage {django}","dg-publish":true,"permalink":"/docs/File storage {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/File storage {django}/","title":"File storage {django}"}
 ---
 
 - https://docs.djangoproject.com/en/4.2/topics/files/#file-storage

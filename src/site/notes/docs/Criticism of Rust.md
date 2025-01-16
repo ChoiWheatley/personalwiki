@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-26T21:18:18","updated":"2023-07-15T21:30:21","title":"Criticism of Rust","dg-publish":true,"permalink":"/docs/Criticism of Rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Criticism of Rust/","title":"Criticism of Rust"}
 ---
 
 - https://blog.logrocket.com/interacting-databases-rust-diesel-vs-sqlx/

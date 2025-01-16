@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-19T13:26:59","updated":"2023-07-15T21:30:22","title":"20230613 ~ 20230701 Loadmap {book-project}","dg-publish":true,"permalink":"/docs/20230613 ~ 20230701 Loadmap {book-project}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230613 ~ 20230701 Loadmap {book-project}/","title":"20230613 ~ 20230701 Loadmap {book-project}"}
 ---
 
 

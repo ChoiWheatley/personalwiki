@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-27T09:59:37","updated":"2023-07-15T21:30:21","title":"20230627 book-project","dg-publish":true,"permalink":"/docs/20230627 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230627 book-project/","title":"20230627 book-project"}
 ---
 
 - 급한불부터 끄기

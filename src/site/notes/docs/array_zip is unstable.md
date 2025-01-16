@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T01:40:25","updated":"2023-07-15T21:30:21","title":"array_zip is unstable","dg-publish":true,"permalink":"/docs/array_zip is unstable/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/array_zip is unstable/","title":"array_zip is unstable"}
 ---
 
 - https://github.com/rust-lang/rust/issues/80094

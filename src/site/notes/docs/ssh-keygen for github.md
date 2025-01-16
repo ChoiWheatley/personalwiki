@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ssh-keygen for github","created":"2023-11-18T22:49:07","updated":"2023-11-18T23:00:09","dg-publish":true,"permalink":"/docs/ssh-keygen for github/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ssh-keygen for github/","title":"ssh-keygen for github"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|programming]]

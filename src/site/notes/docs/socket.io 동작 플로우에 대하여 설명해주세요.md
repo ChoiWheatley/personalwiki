@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"socket.io 동작 플로우에 대하여 설명해주세요","created":"2024-01-22T14:53:07","updated":"2024-01-22T15:32:10","dg-publish":true,"permalink":"/docs/socket.io 동작 플로우에 대하여 설명해주세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/socket.io 동작 플로우에 대하여 설명해주세요/","title":"socket.io 동작 플로우에 대하여 설명해주세요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

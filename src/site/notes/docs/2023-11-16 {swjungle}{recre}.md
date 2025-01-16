@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2023-11-16 {swjungle}{recre}","created":"2023-11-16T08:36:51","updated":"2023-11-16T08:44:49","dg-publish":true,"permalink":"/docs/2023-11-16 {swjungle}{recre}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2023-11-16 {swjungle}{recre}/","title":"2023-11-16 {swjungle}{recre}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

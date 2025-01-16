@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Arrange, Act, Assert","created":"2024-12-20T22:10:04","updated":"2024-12-20T22:11:34","dg-publish":true,"permalink":"/docs/Arrange, Act, Assert/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Arrange, Act, Assert/","title":"Arrange, Act, Assert"}
 ---
 
 - ref: <https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices#arranging-your-tests>

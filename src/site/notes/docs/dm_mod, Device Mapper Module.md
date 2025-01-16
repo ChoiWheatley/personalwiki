@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"dm_mod, Device Mapper Module","created":"2024-09-16T21:06:58","updated":"2024-09-16T21:14:51","dg-publish":true,"permalink":"/docs/dm_mod, Device Mapper Module/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/dm_mod, Device Mapper Module/","title":"dm_mod, Device Mapper Module"}
 ---
 
 

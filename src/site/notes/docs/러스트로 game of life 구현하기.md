@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-16T17:02:38","updated":"2023-07-15T21:33:03","title":"러스트로 game of life 구현하기","dg-publish":true,"permalink":"/docs/러스트로 game of life 구현하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/러스트로 game of life 구현하기/","title":"러스트로 game of life 구현하기"}
 ---
 
 - https://yceffort.kr/2022/04/rust-wasm-project-tutorial-2 [[docs/index/0080 Scraps 📚\|0080 Scraps 📚]]

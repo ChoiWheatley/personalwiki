@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"extend_schema {drf_spectacular}","created":"2024-11-12T23:51:33","updated":"2024-11-13T00:07:04","dg-publish":true,"permalink":"/docs/extend_schema {drf_spectacular}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/extend_schema {drf_spectacular}/","title":"extend_schema {drf_spectacular}"}
 ---
 
 - ref: 

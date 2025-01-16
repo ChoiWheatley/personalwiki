@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Socket Programming C API","created":"2023-09-16T16:57:23","updated":"2023-09-21T00:57:32","dg-publish":true,"permalink":"/docs/Socket Programming C API/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Socket Programming C API/","title":"Socket Programming C API"}
 ---
 
 - [[docs/index/0017 C 🍎\|0017 C 🍎]]

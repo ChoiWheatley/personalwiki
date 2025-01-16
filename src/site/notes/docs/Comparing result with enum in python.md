@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-13T21:18:06","updated":"2023-07-15T21:30:21","title":"Comparing result with enum in python","dg-publish":true,"permalink":"/docs/Comparing result with enum in python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Comparing result with enum in python/","title":"Comparing result with enum in python"}
 ---
 
 

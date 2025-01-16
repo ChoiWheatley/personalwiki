@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"API testing with APITestCase {drf}","created":"2024-12-05T00:39:23","updated":"2024-12-05T01:18:32","dg-publish":true,"permalink":"/docs/API testing with APITestCase {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/API testing with APITestCase {drf}/","title":"API testing with APITestCase {drf}"}
 ---
 
 - ref: <https://www.django-rest-framework.org/api-guide/testing>

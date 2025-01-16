@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-28T09:01:39","updated":"2023-07-15T21:30:22","title":"20230428 estsoft - flex, float, 게시판 글작성, 글조회, 전체적인 레이아웃 실습","dg-publish":true,"permalink":"/docs/20230428 estsoft - flex, float, 게시판 글작성, 글조회, 전체적인 레이아웃 실습/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230428 estsoft - flex, float, 게시판 글작성, 글조회, 전체적인 레이아웃 실습/","title":"20230428 estsoft - flex, float, 게시판 글작성, 글조회, 전체적인 레이아웃 실습"}
 ---
 
 - [[docs/20230427 estsoft - html table, css basics\|20230427 estsoft - html table, css basics]]

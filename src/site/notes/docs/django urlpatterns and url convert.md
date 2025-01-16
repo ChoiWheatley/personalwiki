@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-29T16:24:09","updated":"2023-07-15T21:33:05","title":"django urlpatterns and url convert","dg-publish":true,"permalink":"/docs/django urlpatterns and url convert/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django urlpatterns and url convert/","title":"django urlpatterns and url convert"}
 ---
 
 - [url pattern DJANGODOC -- path converters](https://docs.djangoproject.com/en/3.0/topics/http/urls/#path-converters)

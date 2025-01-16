@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Decorator - {nestjs}","created":"2023-12-01T02:17:57","updated":"2023-12-01T12:52:28","dg-publish":true,"permalink":"/docs/Decorator - {nestjs}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Decorator - {nestjs}/","title":"Decorator - {nestjs}"}
 ---
 
 - [[docs/index/0018.1 Nest.js 🐱\|0018.1 Nest.js 🐱]]

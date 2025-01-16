@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":null,"status":null,"title":"sys.stdin.readline {python}","created":"2024-12-30T20:34:49","updated":"2024-12-30T20:36:31","dg-publish":true,"permalink":"/docs/sys.stdin.readline {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/sys.stdin.readline {python}/","title":"sys.stdin.readline {python}"}
 ---
 
 백준에서 문제를 풀때 `input()`으로 입력값을 받아 풀때 간혹 타임아웃이 나는 경우가 있다. 이 경우 `sys.stdin.readline`을 활용해보면 해결이 될 수도 있다.

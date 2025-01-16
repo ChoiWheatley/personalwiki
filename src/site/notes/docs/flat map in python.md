@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-09T15:05:51","updated":"2023-11-02T12:26:46","title":"flat map in python","dg-publish":true,"permalink":"/docs/flat map in python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/flat map in python/","title":"flat map in python"}
 ---
 
 - <https://dev.to/turbaszek/flat-map-in-python-3g98>

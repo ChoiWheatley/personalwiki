@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-07T09:17:14","updated":"2023-07-23T22:19:14","title":"20230707 estsoft architecture 계성혁","dg-publish":true,"permalink":"/docs/20230707 estsoft architecture 계성혁/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230707 estsoft architecture 계성혁/","title":"20230707 estsoft architecture 계성혁"}
 ---
 
 - [[docs/assets/Special_Lecture_-_Architecturing_.pdf]]

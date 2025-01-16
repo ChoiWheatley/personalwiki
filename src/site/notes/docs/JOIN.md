@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"JOIN","created":"2024-03-14T11:30:07","updated":"2024-03-14T11:43:36","dg-publish":true,"permalink":"/docs/JOIN/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JOIN/","title":"JOIN"}
 ---
 
 주문과 고객 정보 조합: 각 주문에 대한 주문 번호(orders-orderNumber)와 주문한 고객(customers-customerName)의 이름을 조회하세요.

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Team-def.recre-backend.README.md {swjungle}","created":"2023-12-12T15:26:15","updated":"2023-12-12T20:08:39","dg-publish":true,"permalink":"/docs/Team-def.recre-backend.README.md {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Team-def.recre-backend.README.md {swjungle}/","title":"Team-def.recre-backend.README.md {swjungle}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

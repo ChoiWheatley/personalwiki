@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"vim Increasing or decreasing numbers","created":"2024-10-18T20:00:33","updated":"2024-10-18T20:07:15","dg-publish":true,"permalink":"/docs/vim Increasing or decreasing numbers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/vim Increasing or decreasing numbers/","title":"vim Increasing or decreasing numbers"}
 ---
 
 - [vim.fandom.com](https://vim.fandom.com/wiki/Increasing_or_decreasing_numbers)

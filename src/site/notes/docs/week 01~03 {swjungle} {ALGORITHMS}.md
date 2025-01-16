@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week 01~03 {swjungle} {ALGORITHMS}","created":"2023-08-10T16:27:48","updated":"2023-08-30T10:18:28","dg-publish":true,"permalink":"/docs/week 01~03 {swjungle} {ALGORITHMS}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week 01~03 {swjungle} {ALGORITHMS}/","title":"week 01~03 {swjungle} {ALGORITHMS}"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-06T09:10:31","updated":"2023-07-15T21:33:04","title":"form errors{ django }","dg-publish":true,"permalink":"/docs/form errors{ django }/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/form errors{ django }/","title":"form errors{ django }"}
 ---
 
 

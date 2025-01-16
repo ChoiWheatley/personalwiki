@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["시간남으면"],"description":null,"title":"win32yank.exe 가 nvim 복사속도가 느려지게 만드는 원인","created":"2023-12-17T21:47:45","updated":"2023-12-17T21:49:45","dg-publish":true,"permalink":"/docs/win32yank.exe 가 nvim 복사속도가 느려지게 만드는 원인/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/win32yank.exe 가 nvim 복사속도가 느려지게 만드는 원인/","title":"win32yank.exe 가 nvim 복사속도가 느려지게 만드는 원인","tags":["시간남으면"]}
 ---
 
 - [https://github.com/equalsraf/win32yank](https://github.com/equalsraf/win32yank)

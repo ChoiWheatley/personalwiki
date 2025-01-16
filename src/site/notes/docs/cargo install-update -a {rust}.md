@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"cargo-update, auto updator {rust}","created":"2023-10-16T16:05:17","updated":"2023-10-16T16:06:01","dg-publish":true,"permalink":"/docs/cargo install-update -a {rust}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/cargo install-update -a {rust}/","title":"cargo-update, auto updator {rust}"}
 ---
 
 - [[docs/0013.2 Crates 🦀\|0013.2 Crates 🦀]]

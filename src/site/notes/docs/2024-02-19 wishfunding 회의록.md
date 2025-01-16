@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":"선물을 원하는 사람의 링크를 통해 펀딩을 모아 선물을 자동으로 구매해주는 웹앱 플랫폼을 4주 안에 MVP 출시를 목표로 개발하며, 핵심 기능으로는 펀딩 생성/관리, 위시리스트 관리, 자동 구매 시스템(향후 구현) 등을 포함하며, NestJS(백엔드)와 ReactJS + TypeScript(프론트엔드) 프레임워크를 사용하며, 매주 월, 수, 금 오후 1시에 회의를 하며, 노션, 리포지토리, Jira 등을 활용하여 협업한다.","title":"2024-02-19 wishfunding티끌모아펀딩 회의록","created":"2024-02-27T19:07:11","updated":"2024-03-21T10:-23723T149:08:51","dg-publish":true,"permalink":"/docs/2024-02-19 wishfunding 회의록/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-02-19 wishfunding 회의록/","title":"2024-02-19 wishfunding티끌모아펀딩 회의록"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"collections.Counter, most_common 아이템 개수 계산 {python}","created":"2023-12-23T14:27:41","updated":"2023-12-29T22:45:21","dg-publish":true,"permalink":"/docs/collections.Counter, most_common 아이템 개수 계산 {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/collections.Counter, most_common 아이템 개수 계산 {python}/","title":"collections.Counter, most_common 아이템 개수 계산 {python}"}
 ---
 
 - [[docs/index/0014 Python 🐍\|0014 Python 🐍]]

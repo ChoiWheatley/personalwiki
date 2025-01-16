@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"swap partition","created":"2024-09-19T00:55:02","updated":"2024-09-19T00:55:03","dg-publish":true,"permalink":"/docs/swap partition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/swap partition/","title":"swap partition"}
 ---
 
 스왑 파티션을 생성하여 스왑 공간을 할당하는 방법은 다음 단계로 이루어집니다. 이 과정은 일반적으로 새 디스크나 기존 파티션을 이용해 스왑 파티션을 설정하는 방법입니다. 주요 단계는 다음과 같습니다.

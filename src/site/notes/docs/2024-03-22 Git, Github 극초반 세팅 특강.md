@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2024-03-22 Git, Github 극초반 세팅 특강","created":"2024-03-22T14:35:56","updated":"2024-03-22T15:37:18","dg-publish":true,"permalink":"/docs/2024-03-22 Git, Github 극초반 세팅 특강/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-03-22 Git, Github 극초반 세팅 특강/","title":"2024-03-22 Git, Github 극초반 세팅 특강"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2629 양팔저울 {boj} {dp, DFS}","created":"2023-08-28T11:05:59","updated":"2023-08-28T11:24:33","dg-publish":true,"permalink":"/docs/2629 양팔저울 {boj} {dp, DFS}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2629 양팔저울 {boj} {dp, DFS}/","title":"2629 양팔저울 {boj} {dp, DFS}"}
 ---
 
 2차원 DP를 사용하여 풀 거라고는 생각조차 하지 못해 너무 어려운 문제였다. 우리 [[docs/9084 동전 {boj}\|9084 동전 {boj}]] 풀 때에도 비슷하게 추를 *0부터 index까지* 사용했을때의 결과를 배열에 저장하는 것이었다.

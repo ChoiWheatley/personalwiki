@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-27T09:07:39","updated":"2023-07-15T21:30:22","title":"20230427 estsoft - html table, css basics","dg-publish":true,"permalink":"/docs/20230427 estsoft - html table, css basics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230427 estsoft - html table, css basics/","title":"20230427 estsoft - html table, css basics"}
 ---
 
 - [[docs/20230425 estsoft - Network, VSCode settings, emmet syntax, meta\|20230425 estsoft - Network, VSCode settings, emmet syntax, meta]]

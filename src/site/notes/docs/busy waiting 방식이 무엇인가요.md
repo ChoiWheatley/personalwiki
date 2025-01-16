@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"busy waiting 방식이 무엇인가요","created":"2024-01-08T20:37:57","updated":"2024-01-08T21:00:03","dg-publish":true,"permalink":"/docs/busy waiting 방식이 무엇인가요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/busy waiting 방식이 무엇인가요/","title":"busy waiting 방식이 무엇인가요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

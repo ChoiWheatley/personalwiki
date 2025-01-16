@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"created":"2023-02-12T12:31:25","tags":[],"source":"https://forum.obsidian.md/t/a-guide-on-links-vs-tags-in-obsidian/28231","author":null,"date created":"Sunday, February 12th 2023, 12:31:25 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:30:21","title":"A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum","dg-publish":true,"permalink":"/docs/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum/","title":"A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum"}
 ---
 
 

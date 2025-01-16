@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-09T21:28:26","updated":"2023-07-15T21:30:22","title":"20230609 book-project","dg-publish":true,"permalink":"/docs/20230609 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230609 book-project/","title":"20230609 book-project"}
 ---
 
 - [[docs/django with ajax\|django with ajax]]부터 이어서 진행한다. ajax로 뭘 할 지 몰라서 아예 [이슈](https://github.com/ESTsoft-Book-Project/bookstore/issues/17)를 만들어 관리하기로 했다.

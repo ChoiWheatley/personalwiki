@@ -1,5 +1,5 @@
 ---
-{"links":["http://boj.kr/23567"],"status":null,"description":null,"aliases":null,"tags":["two_pointers"],"created":"2023-04-15T13:37:12","updated":"2024-12-23T18:43:17","title":"Double Rainbow boj 23567","dg-publish":true,"permalink":"/docs/algorithms/Double Rainbow boj 23567/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/algorithms/Double Rainbow boj 23567/","title":"Double Rainbow boj 23567","tags":["two_pointers"]}
 ---
 
 - <http://boj.kr/23567>

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-10T17:40:57","updated":"2023-07-15T21:30:21","title":"custom iterator with __iter__ in python","dg-publish":true,"permalink":"/docs/custom iterator with __iter__ in python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/custom iterator with __iter__ in python/","title":"custom iterator with __iter__ in python"}
 ---
 
 - https://stackoverflow.com/a/20214464

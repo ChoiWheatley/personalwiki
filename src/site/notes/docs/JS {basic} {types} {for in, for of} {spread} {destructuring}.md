@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-30T09:06:46","updated":"2023-11-01T16:21:518:40","title":"20230530 JS {basic} {types} {for in, for of} {spread} {destructuring}","dg-publish":true,"permalink":"/docs/JS {basic} {types} {for in, for of} {spread} {destructuring}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JS {basic} {types} {for in, for of} {spread} {destructuring}/","title":"20230530 JS {basic} {types} {for in, for of} {spread} {destructuring}"}
 ---
 
 [JS DeepDive 4000줄이나 되는 복습용 총체](https://github.com/weniv/BackendOrmi/blob/main/JavaScript/%EB%B3%B5%EC%8A%B5.md)

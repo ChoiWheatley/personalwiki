@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-10T15:01:58","updated":"2023-07-15T21:30:21","title":"coherent","dg-publish":true,"permalink":"/docs/coherent/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/coherent/","title":"coherent"}
 ---
 
 - 일관된

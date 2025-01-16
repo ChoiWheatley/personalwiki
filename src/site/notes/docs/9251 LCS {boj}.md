@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/docs/9251 LCS {boj}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/9251 LCS {boj}/"}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"socket.io","created":"2023-11-16T08:35:45","updated":"2023-11-16T20:27:13","dg-publish":true,"permalink":"/docs/socket.io/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/socket.io/","title":"socket.io"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

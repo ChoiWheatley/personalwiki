@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week09 - Virtual Memory {pintos} {swjungle}","created":"2023-10-15T04:47:57","updated":"2023-10-20T14:53:26","dg-publish":true,"permalink":"/docs/week09 - Virtual Memory {pintos} {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week09 - Virtual Memory {pintos} {swjungle}/","title":"week09 - Virtual Memory {pintos} {swjungle}"}
 ---
 
 

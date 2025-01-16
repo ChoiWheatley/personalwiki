@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Daily Notes","created":"2023-08-15T09:31:26","updated":"2023-10-09T19:23:49","dg-publish":true,"permalink":"/docs/Daily Notes/Daily Notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Daily Notes/Daily Notes/","title":"Daily Notes"}
 ---
 
 
@@ -242,5 +242,7 @@
 - [[docs/Daily Notes/2025-01-11\|2025-01-11]]
 - [[docs/Daily Notes/2025-01-13\|2025-01-13]]
 - [[docs/Daily Notes/2025-01-14\|2025-01-14]]
+- [[docs/Daily Notes/2025-01-15\|2025-01-15]]
+- [[docs/Daily Notes/2025-01-16\|2025-01-16]]
 
 

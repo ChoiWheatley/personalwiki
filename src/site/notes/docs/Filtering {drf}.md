@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Filtering {drf}","created":"2024-11-22T22:41:35","updated":"2024-11-22T22:56:35","dg-publish":true,"permalink":"/docs/Filtering {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Filtering {drf}/","title":"Filtering {drf}"}
 ---
 
 - ref: <https://www.django-rest-framework.org/api-guide/filtering>

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-09T20:02:02","updated":"2023-07-15T21:33:04","title":"invidious","dg-publish":true,"permalink":"/docs/invidious/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/invidious/","title":"invidious"}
 ---
 
 

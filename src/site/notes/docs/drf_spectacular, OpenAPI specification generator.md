@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"drf_spectacular, OpenAPI specification generator","created":"2024-11-12T23:48:45","updated":"2024-11-13T00:09:44","dg-publish":true,"permalink":"/docs/drf_spectacular, OpenAPI specification generator/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/drf_spectacular, OpenAPI specification generator/","title":"drf_spectacular, OpenAPI specification generator"}
 ---
 
 - ref

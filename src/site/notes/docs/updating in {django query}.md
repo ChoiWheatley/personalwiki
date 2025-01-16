@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-06T10:02:19","updated":"2023-07-15T21:33:03","title":"updating in {django query}","dg-publish":true,"permalink":"/docs/updating in {django query}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/updating in {django query}/","title":"updating in {django query}"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":"mark, anchor, heading, markdown","tags":null,"created":"2023-06-13T09:47:30","updated":"2023-07-15T21:30:21","title":"code marker {vscode-extension}","dg-publish":true,"permalink":"/docs/code marker {vscode-extension}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/code marker {vscode-extension}/","title":"code marker {vscode-extension}"}
 ---
 
 - reference

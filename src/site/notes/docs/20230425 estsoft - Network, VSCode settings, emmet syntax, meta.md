@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-25T09:26:49","updated":"2023-07-15T21:30:22","title":"20230425 estsoft - Network, VSCode settings, emmet syntax, meta","dg-publish":true,"permalink":"/docs/20230425 estsoft - Network, VSCode settings, emmet syntax, meta/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230425 estsoft - Network, VSCode settings, emmet syntax, meta/","title":"20230425 estsoft - Network, VSCode settings, emmet syntax, meta"}
 ---
 
 

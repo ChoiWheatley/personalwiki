@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"JoinColumn options {typeorm}","created":"2024-03-26T22:43:11","updated":"2024-04-14T23:02:39","dg-publish":true,"permalink":"/docs/JoinColumn options {typeorm}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JoinColumn options {typeorm}/","title":"JoinColumn options {typeorm}"}
 ---
 
 - [typeorm.io / JoinColumn Options](https://typeorm.io/relations#joincolumn-options)

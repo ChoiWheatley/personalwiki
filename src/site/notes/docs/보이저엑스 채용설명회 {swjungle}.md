@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"보이저엑스 채용설명회 {swjungle}","created":"2023-11-29T08:20:31","updated":"2023-11-29T08:28:30","dg-publish":true,"permalink":"/docs/보이저엑스 채용설명회 {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/보이저엑스 채용설명회 {swjungle}/","title":"보이저엑스 채용설명회 {swjungle}"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]

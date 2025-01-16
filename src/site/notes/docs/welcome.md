@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"title":"welcome","categories":["readme"],"tags":["readme","index","readme","index","gardenEntry"],"updated":"2025-01-14T19:13:54","dg-home":true,"dg-publish":true,"created":"2024-11-08T21:42:42","permalink":"/docs/welcome/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/welcome/","title":"welcome","tags":["readme","index","readme","index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -11,6 +11,10 @@ I'm highly interested in knowledge making process. I have a pipeline from castin
 
 ## Recent Documents
 
+- [[docs/Daily Notes/2025-01-16\|2025-01-16]]
+- [[docs/Troubleshooting Digital Garden\|Troubleshooting Digital Garden]]
+- [[docs/이벤트 스토밍\|이벤트 스토밍]]
+- [[docs/Daily Notes/2025-01-15\|2025-01-15]]
 - [[docs/Obsidian Digital Garden\|Obsidian Digital Garden]]
 - [[docs/algorithms/10000. 원 영역\|10000. 원 영역]]
 - [[docs/Daily Notes/2025-01-14\|2025-01-14]]
@@ -37,10 +41,6 @@ I'm highly interested in knowledge making process. I have a pipeline from castin
 - [[docs/algorithms/2798. 블랙잭\|2798. 블랙잭]]
 - [[docs/algorithms/2309. 일곱 난쟁이\|2309. 일곱 난쟁이]]
 - [[docs/Daily Notes/2025-01-01\|2025-01-01]]
-- [[docs/Symbol 자료형\|Symbol 자료형]]
-- [[docs/Object Methods\|Object Methods]]
-- [[docs/계산된 프로퍼티 {js}\|계산된 프로퍼티 {js}]]
-- [[docs/Promise.all\|Promise.all]]
 
 { .block-language-dataview}
 
@@ -80,13 +80,9 @@ I'm highly interested in knowledge making process. I have a pipeline from castin
 
 ## Skills
 
-| Tech      | Icon                                                                                                    | Programming Language                                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| NestJS    |                                                               | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" style="height:100px;"> |
-| socket.io | <img src="https://socket.io/images/logo.svg" style="height: 100px; width: 100px;">                      | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" style="height:100px;">                                               |
-| TypeORM   | <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" style="height: 100px;"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" style="height:100px;">                                               |
-| Django    | <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" style="height:100px;">   | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="height:100px;">           |
-| DRF       | <img src="https://www.django-rest-framework.org/img/logo.png" style="height:100px">                     | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="height:100px;">           |
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> |  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> |  
+|---|---|---|---|  
+|<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> | <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"> | <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" style="height:40px;"> |<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> | 
 
 ## External Links
 

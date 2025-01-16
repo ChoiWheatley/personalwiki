@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T17:39:04","updated":"2023-07-15T21:30:20","title":"decorator - python","dg-publish":true,"permalink":"/docs/decorator - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/decorator - python/","title":"decorator - python"}
 ---
 
 

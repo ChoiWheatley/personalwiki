@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T02:03:31","updated":"2023-07-15T21:33:03","title":"slice patterns and destructure and refutability","dg-publish":true,"permalink":"/docs/slice patterns and destructure and refutability/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/slice patterns and destructure and refutability/","title":"slice patterns and destructure and refutability"}
 ---
 
 - https://blog.rust-lang.org/inside-rust/2020/03/04/recent-future-pattern-matching-improvements.html#subslice-patterns-head-tail--

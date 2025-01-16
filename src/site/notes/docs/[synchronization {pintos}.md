@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/docs/[synchronization {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/[synchronization {pintos}/"}
 ---
 

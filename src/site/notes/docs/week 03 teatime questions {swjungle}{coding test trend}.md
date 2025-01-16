@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week 03 teatime questions {swjungle}{coding test trend}","created":"2023-09-13T21:27:14","updated":"2023-09-13T21:27:52","dg-publish":true,"permalink":"/docs/week 03 teatime questions {swjungle}{coding test trend}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week 03 teatime questions {swjungle}{coding test trend}/","title":"week 03 teatime questions {swjungle}{coding test trend}"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]  

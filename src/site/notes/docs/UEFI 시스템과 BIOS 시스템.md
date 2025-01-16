@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"UEFI 시스템과 BIOS 시스템","created":"2024-09-17T19:32:29","updated":"2024-09-17T19:34:54","dg-publish":true,"permalink":"/docs/UEFI 시스템과 BIOS 시스템/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/UEFI 시스템과 BIOS 시스템/","title":"UEFI 시스템과 BIOS 시스템"}
 ---
 
 

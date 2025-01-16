@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"getnameinfo(3)","created":"2023-09-18T14:33:17","updated":"2023-09-19T19:05:43","dg-publish":true,"permalink":"/docs/getnameinfo(3)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/getnameinfo(3)/","title":"getnameinfo(3)"}
 ---
 
 - <https://www.man7.org/linux/man-pages/man3/getnameinfo.3.html>

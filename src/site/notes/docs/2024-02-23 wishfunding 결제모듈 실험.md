@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2024-02-23 wishfunding티끌모아펀딩 결제모듈 실험","created":"2024-02-27T19:05:07","updated":"2024-03210-238T4201:26:48","dg-publish":true,"permalink":"/docs/2024-02-23 wishfunding 결제모듈 실험/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-02-23 wishfunding 결제모듈 실험/","title":"2024-02-23 wishfunding티끌모아펀딩 결제모듈 실험"}
 ---
 
 

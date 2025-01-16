@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-29T17:37:49","updated":"2023-07-25T16:16:17","title":"CCBV, Classy Class Based View -- django","dg-publish":true,"permalink":"/docs/CCBV, Classy Class Based View -- django/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/CCBV, Classy Class Based View -- django/","title":"CCBV, Classy Class Based View -- django"}
 ---
 
 - <https://ccbv.co.uk/> 

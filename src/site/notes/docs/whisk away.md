@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-22T23:50:44","updated":"2023-07-15T21:33:03","title":"whisk away","dg-publish":true,"permalink":"/docs/whisk away/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/whisk away/","title":"whisk away"}
 ---
 
 휙 채가다

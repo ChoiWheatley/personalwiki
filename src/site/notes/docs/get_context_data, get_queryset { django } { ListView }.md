@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-29T17:16:09","updated":"2023-07-19T15:36:05","title":"get_context_data, get_queryset { django } { ListView }","dg-publish":true,"permalink":"/docs/get_context_data, get_queryset { django } { ListView }/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/get_context_data, get_queryset { django } { ListView }/","title":"get_context_data, get_queryset { django } { ListView }"}
 ---
 
 - [docs](https://docs.djangoproject.com/en/4.1/ref/models/options/)

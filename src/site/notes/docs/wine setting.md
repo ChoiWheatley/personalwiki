@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"wine setting","created":"2024-02-15T18:28:56","updated":"2024-02-15T23:07:16","dg-publish":true,"permalink":"/docs/wine setting/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/wine setting/","title":"wine setting"}
 ---
 
 - [[docs/index/001B linux 🐧\|001B linux 🐧]]

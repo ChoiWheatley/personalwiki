@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Copy On Write {pintos}{swjungle}","created":"2023-10-22T05:50:32","updated":"2023-10-22T19:12:32","dg-publish":true,"permalink":"/docs/Copy On Write {pintos}{swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Copy On Write {pintos}{swjungle}/","title":"Copy On Write {pintos}{swjungle}"}
 ---
 
 - [[docs/week09 - Virtual Memory {pintos} {swjungle}\|week09 - Virtual Memory {pintos} {swjungle}]]

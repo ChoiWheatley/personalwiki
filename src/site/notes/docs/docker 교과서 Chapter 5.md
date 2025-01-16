@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"docker 교과서 Chapter 5","created":"2024-10-18T20:16:01","updated":"2024-10-21T17:12:00","dg-publish":true,"permalink":"/docs/docker 교과서 Chapter 5/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/docker 교과서 Chapter 5/","title":"docker 교과서 Chapter 5"}
 ---
 
 

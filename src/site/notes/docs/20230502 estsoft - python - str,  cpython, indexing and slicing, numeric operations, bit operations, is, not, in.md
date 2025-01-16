@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-02T09:08:31","updated":"2023-07-15T21:30:22","title":"20230502 estsoft - python - str,  cpython, indexing and slicing, numeric operations, bit operations, is, not, in","dg-publish":true,"permalink":"/docs/20230502 estsoft - python - str,  cpython, indexing and slicing, numeric operations, bit operations, is, not, in/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230502 estsoft - python - str,  cpython, indexing and slicing, numeric operations, bit operations, is, not, in/","title":"20230502 estsoft - python - str,  cpython, indexing and slicing, numeric operations, bit operations, is, not, in"}
 ---
 
 - [멘토님의 실시간 노트북](https://colab.research.google.com/drive/1IRa8nYwM2HtkzlNJGBlavWK96kffytm_?usp=sharing#scrollTo=E1nDm4EOyOxg)

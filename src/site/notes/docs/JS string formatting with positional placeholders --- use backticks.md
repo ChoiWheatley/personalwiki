@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-23T18:20:17","updated":"2023-07-15T21:33:04","title":"JS string formatting with positional placeholders","dg-publish":true,"permalink":"/docs/JS string formatting with positional placeholders --- use backticks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/JS string formatting with positional placeholders --- use backticks/","title":"JS string formatting with positional placeholders"}
 ---
  use backticks
 ---

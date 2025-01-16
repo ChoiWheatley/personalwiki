@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"DNS 호스팅 업체에 도메인 네임 등록 사례","created":"2024-09-02T11:24:25","updated":"2024-09-02T11:24:57","dg-publish":true,"permalink":"/docs/DNS 호스팅 업체에 도메인 네임 등록 사례/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/DNS 호스팅 업체에 도메인 네임 등록 사례/","title":"DNS 호스팅 업체에 도메인 네임 등록 사례"}
 ---
 
 

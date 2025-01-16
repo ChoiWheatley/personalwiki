@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-22T13:56:15","updated":"2023-09-16T15:46:02","title":"Obsidian Basic Formatting Syntax","dg-publish":true,"permalink":"/docs/Obsidian Basic Formatting Syntax/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Obsidian Basic Formatting Syntax/","title":"Obsidian Basic Formatting Syntax"}
 ---
 
 - <https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax>

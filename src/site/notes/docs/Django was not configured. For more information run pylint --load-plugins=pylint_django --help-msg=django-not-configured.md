@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-23T10:01:40","updated":"2023-07-15T21:33:05","title":"Django was not configured. For more information run pylint --load-plugins=pylint_django --help-msg=django-not-configured","dg-publish":true,"permalink":"/docs/Django was not configured. For more information run pylint --load-plugins=pylint_django --help-msg=django-not-configured/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Django was not configured. For more information run pylint --load-plugins=pylint_django --help-msg=django-not-configured/","title":"Django was not configured. For more information run pylint --load-plugins=pylint_django --help-msg=django-not-configured"}
 ---
 
 - [해결법 {SOF}](https://stackoverflow.com/questions/65761250/pylint-django-raising-error-about-django-not-being-configured-when-thats-not-th)

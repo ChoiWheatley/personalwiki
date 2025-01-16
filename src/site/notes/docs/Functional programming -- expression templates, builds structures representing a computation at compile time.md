@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:10:18","updated":"2023-07-15T21:33:04","title":"Functional programming -- expression templates, builds structures representing a computation at compile time","dg-publish":true,"permalink":"/docs/Functional programming -- expression templates, builds structures representing a computation at compile time/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Functional programming -- expression templates, builds structures representing a computation at compile time/","title":"Functional programming -- expression templates, builds structures representing a computation at compile time"}
 ---
 
 - https://en.wikipedia.org/wiki/Expression_templates

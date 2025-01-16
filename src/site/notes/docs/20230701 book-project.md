@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-01T23:40:02","updated":"2023-07-15T21:30:21","title":"20230701 book-project","dg-publish":true,"permalink":"/docs/20230701 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230701 book-project/","title":"20230701 book-project"}
 ---
 
 - [[docs/EC2 Postgresql을 장고 기본 데이터베이스로 활용하기\|EC2 Postgresql을 장고 기본 데이터베이스로 활용하기]] 해결

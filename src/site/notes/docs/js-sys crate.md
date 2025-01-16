@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-23T22:53:45","updated":"2023-07-15T21:33:04","title":"js-sys crate","dg-publish":true,"permalink":"/docs/js-sys crate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/js-sys crate/","title":"js-sys crate"}
 ---
 
 - https://crates.io/crates/js-sys

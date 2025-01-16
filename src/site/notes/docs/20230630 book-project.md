@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-29T23:05:09","updated":"2023-07-15T21:30:21","title":"20230630 book-project","dg-publish":true,"permalink":"/docs/20230630 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230630 book-project/","title":"20230630 book-project"}
 ---
 
 - [도커 관련 PR](https://github.com/ESTsoft-Book-Project/bookstore/pull/124)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"2024-02-23 wishfunding티끌모아펀딩 유스케이스 시나리오","created":"2024-02-27T19:05:57","updated":"2024-03210-2T:21378T3:5619:06:02","dg-publish":true,"permalink":"/docs/2024-02-23 wishfunding 유스케이스 시나리오/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-02-23 wishfunding 유스케이스 시나리오/","title":"2024-02-23 wishfunding티끌모아펀딩 유스케이스 시나리오"}
 ---
 
 

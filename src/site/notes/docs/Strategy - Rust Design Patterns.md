@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-07T14:56:25","updated":"2023-07-15T21:33:03","title":"Strategy - Rust Design Patterns","dg-publish":true,"permalink":"/docs/Strategy - Rust Design Patterns/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Strategy - Rust Design Patterns/","title":"Strategy - Rust Design Patterns"}
 ---
 
 - https://rust-unofficial.github.io/patterns/patterns/behavioural/strategy.html

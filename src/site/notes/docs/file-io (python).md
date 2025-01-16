@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T00:19:29","updated":"2023-07-15T21:33:04","title":"file-io (python)","dg-publish":true,"permalink":"/docs/file-io (python)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/file-io (python)/","title":"file-io (python)"}
 ---
 
 

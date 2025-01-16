@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"stride of an array {C}","created":"2023-09-01T15:17:43","updated":"2023-09-01T15:20:28","dg-publish":true,"permalink":"/docs/stride of an array {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/stride of an array {C}/","title":"stride of an array {C}"}
 ---
 
 - [[docs/index/0017 C 🍎\|0017 C 🍎]]

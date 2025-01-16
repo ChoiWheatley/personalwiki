@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"strtok, strtok_r(3)","created":"2023-10-05T08:09:03","updated":"2023-10-05T20:25:54","dg-publish":true,"permalink":"/docs/strtok, strtok_r(3)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/strtok, strtok_r(3)/","title":"strtok, strtok_r(3)"}
 ---
 
 - [[docs/index/0017 C 🍎\|0017 C 🍎]]

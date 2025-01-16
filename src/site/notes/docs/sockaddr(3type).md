@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"sockaddr(3type)","created":"2023-09-19T17:15:42","updated":"2023-09-19T17:30:41","dg-publish":true,"permalink":"/docs/sockaddr(3type)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/sockaddr(3type)/","title":"sockaddr(3type)"}
 ---
 
 - <https://www.man7.org/linux/man-pages/man3/sockaddr.3type.html>

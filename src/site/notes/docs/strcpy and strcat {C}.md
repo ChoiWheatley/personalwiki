@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"strcpy and strcat {C}","created":"2023-09-02T13:49:18","updated":"2023-09-02T13:51:48","dg-publish":true,"permalink":"/docs/strcpy and strcat {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/strcpy and strcat {C}/","title":"strcpy and strcat {C}"}
 ---
 
 <https://man7.org/linux/man-pages/man3/strcpy.3.html>

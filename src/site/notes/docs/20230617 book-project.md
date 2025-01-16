@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-17T09:32:43","updated":"2023-07-15T21:30:21","title":"20230617 book-project","dg-publish":true,"permalink":"/docs/20230617 book-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/20230617 book-project/","title":"20230617 book-project"}
 ---
 
 오늘 목표

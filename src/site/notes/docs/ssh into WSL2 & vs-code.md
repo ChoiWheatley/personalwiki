@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ssh into WSL2 & vs-code","created":"2023-08-19T10:06:20","updated":"2024-01-03T21:37:49","dg-publish":true,"permalink":"/docs/ssh into WSL2 & vs-code/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ssh into WSL2 & vs-code/","title":"ssh into WSL2 & vs-code"}
 ---
 
 [[docs/index/0010 Programming 👩‍💻\|programming]]

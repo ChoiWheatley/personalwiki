@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"week 04 {swjungle} {Red Black Tree}","created":"2023-08-31T13:54:10","updated":"2024-01-05T20:48:15","dg-publish":true,"permalink":"/docs/week 04 {swjungle} {Red Black Tree}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/week 04 {swjungle} {Red Black Tree}/","title":"week 04 {swjungle} {Red Black Tree}"}
 ---
 
 

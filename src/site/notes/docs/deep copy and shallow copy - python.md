@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T23:48:13","updated":"2023-07-15T21:30:20","title":"deep copy and shallow copy - python","dg-publish":true,"permalink":"/docs/deep copy and shallow copy - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/deep copy and shallow copy - python/","title":"deep copy and shallow copy - python"}
 ---
 
 

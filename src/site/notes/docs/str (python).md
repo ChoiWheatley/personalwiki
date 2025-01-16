@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"str (python)","created":"2024-03-25T23:14:56","updated":"2024-03-26T11:58:27","dg-publish":true,"permalink":"/docs/str (python)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/str (python)/","title":"str (python)"}
 ---
 
 
