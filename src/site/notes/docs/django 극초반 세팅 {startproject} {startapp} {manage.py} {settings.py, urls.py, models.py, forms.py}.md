@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-06T13:44:57","updated":"2023-07-30T20:55:41","title":"django 극초반 세팅 {startproject} {startapp} {manage.py} {settings.py, urls.py, models.py, forms.py}","dg-publish":true,"permalink":"/docs/django 극초반 세팅 {startproject} {startapp} {manage.py} {settings.py, urls.py, models.py, forms.py}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django 극초반 세팅 {startproject} {startapp} {manage.py} {settings.py, urls.py, models.py, forms.py}/","title":"django 극초반 세팅 {startproject} {startapp} {manage.py} {settings.py, urls.py, models.py, forms.py}"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"title":"remotely-save가 만능은 아니다","created":"2023-02-26T20:14:44","categories":[null],"tags":[" obsidian  ","obsidian"],"date created":"Sunday, February 26th 2023, 8:14:44 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:33:03","dg-publish":true,"permalink":"/docs/remotely-save가 만능은 아니다/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/remotely-save가 만능은 아니다/","title":"remotely-save가 만능은 아니다","tags":[" obsidian  ","obsidian"]}
 ---
 
 parent link: [[docs/index/0070 Obsidian 💎\|obsidian]]

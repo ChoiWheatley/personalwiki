@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all"],"status":null,"title":"Promise.all","created":"2024-12-31T23:04:49","updated":"2024-12-31T23:05:03","dg-publish":true,"permalink":"/docs/Promise.all/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Promise.all/","title":"Promise.all"}
 ---
 
 

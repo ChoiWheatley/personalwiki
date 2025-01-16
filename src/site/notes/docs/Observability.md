@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Observability","created":"2023-11-01T19:57:46","updated":"2023-11-01T19:58:16","dg-publish":true,"permalink":"/docs/Observability/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Observability/","title":"Observability"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]

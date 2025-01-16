@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-14T00:19:29","updated":"2023-07-15T21:33:03","title":"PartialEq","dg-publish":true,"permalink":"/docs/PartialEq/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/PartialEq/","title":"PartialEq"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"헤더와 스위트(suite) {python}","created":"2023-08-11T19:40:30","updated":"2023-08-11T19:40:33","dg-publish":true,"permalink":"/docs/헤더와 스위트(suite) {python}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/헤더와 스위트(suite) {python}/","title":"헤더와 스위트(suite) {python}"}
 ---
 
 

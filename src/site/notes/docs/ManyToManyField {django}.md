@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-20T09:37:03","updated":"2024-11-30T17:44:18","title":"ManyToManyField {django}","dg-publish":true,"permalink":"/docs/ManyToManyField {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ManyToManyField {django}/","title":"ManyToManyField {django}"}
 ---
 
 - ref: 

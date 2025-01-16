@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"before onboarding {ozcodingschool}","created":"2024-03-11T14:33:44","updated":"2024-03-11T14:34:06","dg-publish":true,"permalink":"/docs/before onboarding {ozcodingschool}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/before onboarding {ozcodingschool}/","title":"before onboarding {ozcodingschool}"}
 ---
 
 

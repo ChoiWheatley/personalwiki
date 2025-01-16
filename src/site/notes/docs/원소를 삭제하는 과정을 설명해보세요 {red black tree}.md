@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"원소를 삭제하는 과정을 설명해보세요 {red black tree}","created":"2024-01-10T23:44:49","updated":"2024-01-10T23:52:01","dg-publish":true,"permalink":"/docs/원소를 삭제하는 과정을 설명해보세요 {red black tree}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/원소를 삭제하는 과정을 설명해보세요 {red black tree}/","title":"원소를 삭제하는 과정을 설명해보세요 {red black tree}"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

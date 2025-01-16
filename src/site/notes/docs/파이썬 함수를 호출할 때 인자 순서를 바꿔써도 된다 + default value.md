@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-08T17:03:16","updated":"2023-07-15T21:33:02","title":"파이썬 함수를 호출할 때 인자 순서를 바꿔써도 된다 + default value","dg-publish":true,"permalink":"/docs/파이썬 함수를 호출할 때 인자 순서를 바꿔써도 된다 + default value/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/파이썬 함수를 호출할 때 인자 순서를 바꿔써도 된다 + default value/","title":"파이썬 함수를 호출할 때 인자 순서를 바꿔써도 된다 + default value"}
 ---
 
 

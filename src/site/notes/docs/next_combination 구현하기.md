@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-25T21:33:42","updated":"2023-07-15T21:33:04","title":"next_combination 구현하기","dg-publish":true,"permalink":"/docs/next_combination 구현하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/next_combination 구현하기/","title":"next_combination 구현하기"}
 ---
 
 - https://rosettacode.org/wiki/Combinations#C.2B.2B

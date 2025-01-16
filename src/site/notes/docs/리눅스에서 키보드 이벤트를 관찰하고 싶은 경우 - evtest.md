@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"리눅스에서 키보드 이벤트를 관찰하고 싶은 경우 - evtest","created":"2024-10-08T19:50:20","updated":"2024-10-08T19:54:02","dg-publish":true,"permalink":"/docs/리눅스에서 키보드 이벤트를 관찰하고 싶은 경우 - evtest/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/리눅스에서 키보드 이벤트를 관찰하고 싶은 경우 - evtest/","title":"리눅스에서 키보드 이벤트를 관찰하고 싶은 경우 - evtest"}
 ---
 
 맥에서는 [Karabiner Event Viewer](https://karabiner-elements.pqrs.org/docs/manual/operation/eventviewer/)가 있다. 리눅스에는 [evtest](https://man.archlinux.org/man/evtest.1)가 있습니다.

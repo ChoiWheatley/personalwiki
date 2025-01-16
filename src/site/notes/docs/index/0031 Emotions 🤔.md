@@ -1,5 +1,5 @@
 ---
-{"description":null,"title":"0031 Emotions 🤔","created":"2023-02-26T20:14:43","categories":["archieve","emotion","감정"],"aliases":["emotion","감정"],"tags":[" 감정저널 ","감정저널"],"date created":"Sunday, February 26th 2023, 8:14:43 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:32:55","dg-publish":true,"permalink":"/docs/index/0031 Emotions 🤔/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/0031 Emotions 🤔/","title":"0031 Emotions 🤔","tags":[" 감정저널 ","감정저널"]}
 ---
 
 parent link: [[docs/index/waypoint\|waypoint]]

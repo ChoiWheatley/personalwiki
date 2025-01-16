@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-26T21:48:44","updated":"2023-07-15T21:30:21","title":"axum","dg-publish":true,"permalink":"/docs/axum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/axum/","title":"axum"}
 ---
 
 

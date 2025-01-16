@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"네트워크 불안정으로 재연결 로직 {swjungle}{socketio}","created":"2023-12-09T16:27:36","updated":"2023-12-09T16:29:12","dg-publish":true,"permalink":"/docs/네트워크 불안정으로 재연결 로직 {swjungle}{socketio}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/네트워크 불안정으로 재연결 로직 {swjungle}{socketio}/","title":"네트워크 불안정으로 재연결 로직 {swjungle}{socketio}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

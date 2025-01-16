@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-01T13:06:53","updated":"2023-07-15T21:33:02","title":"연산자 - python","dg-publish":true,"permalink":"/docs/연산자 - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/연산자 - python/","title":"연산자 - python"}
 ---
 
 - 대입(할당)

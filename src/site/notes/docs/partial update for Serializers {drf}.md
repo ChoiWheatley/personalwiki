@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"partial update for Serializers {drf}","created":"2024-12-03T21:28:13","updated":"2024-12-03T22:49:17","dg-publish":true,"permalink":"/docs/partial update for Serializers {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/partial update for Serializers {drf}/","title":"partial update for Serializers {drf}"}
 ---
 
 - ref: <https://www.django-rest-framework.org/api-guide/serializers/#partial-updates>

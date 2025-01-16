@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"The Book -- Rust","created":"2023-04-17T10:30:58","updated":"2023-07-15T21:33:03","dg-publish":true,"permalink":"/docs/The Book -- Rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/The Book -- Rust/","title":"The Book -- Rust"}
 ---
 
 - https://rust-book.cs.brown.edu

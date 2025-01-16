@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-07-03T18:00:14","updated":"2024-09-02T18:07:43","title":"nginx","dg-publish":true,"permalink":"/docs/nginx/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/nginx/","title":"nginx"}
 ---
 
 일단 nginx는 전형적인 웹 서버이다. 웹 서버는 정적 웹을 호스팅하는 서버로, URL 형식을 바꾸거나 내부적으로 리디렉션을 처리하거나 여러대의 서버를 매핑하는 등의 일을 수행한다.

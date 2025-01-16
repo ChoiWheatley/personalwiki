@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-01T13:06:30","updated":"2023-07-15T21:33:02","title":"함수 - python","dg-publish":true,"permalink":"/docs/함수 - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/함수 - python/","title":"함수 - python"}
 ---
 
 - 함수

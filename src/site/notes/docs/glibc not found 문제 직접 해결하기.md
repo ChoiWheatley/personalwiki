@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-18T18:56:11","updated":"2023-07-15T21:33:04","title":"glibc not found 문제 직접 해결하기","dg-publish":true,"permalink":"/docs/glibc not found 문제 직접 해결하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/glibc not found 문제 직접 해결하기/","title":"glibc not found 문제 직접 해결하기"}
 ---
 
 - https://sosal.kr/1065

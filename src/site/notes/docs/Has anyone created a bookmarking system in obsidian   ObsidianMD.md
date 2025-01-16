@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"created":"2023-02-12T12:31:25","tags":[],"source":"https://www.reddit.com/r/ObsidianMD/comments/we4b06/has_anyone_created_a_bookmarking_system_in/","author":null,"date created":"Sunday, February 12th 2023, 12:31:25 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:33:04","title":"Has anyone created a bookmarking system in obsidian   ObsidianMD","dg-publish":true,"permalink":"/docs/Has anyone created a bookmarking system in obsidian   ObsidianMD/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Has anyone created a bookmarking system in obsidian   ObsidianMD/","title":"Has anyone created a bookmarking system in obsidian   ObsidianMD"}
 ---
 
 

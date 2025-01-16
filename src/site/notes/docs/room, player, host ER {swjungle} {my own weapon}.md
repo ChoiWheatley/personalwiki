@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"room, player, host ER {swjungle} {my own weapon}","created":"2023-11-30T15:14:41","updated":"2023-11-30T17:13:49","dg-publish":true,"permalink":"/docs/room, player, host ER {swjungle} {my own weapon}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/room, player, host ER {swjungle} {my own weapon}/","title":"room, player, host ER {swjungle} {my own weapon}"}
 ---
 
 - [[docs/week14-18 {swjungle}{my own weapon}{nestjs, socketio}\|week14-18 {swjungle}{my own weapon}{nestjs, socketio}]]

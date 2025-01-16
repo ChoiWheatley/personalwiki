@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-28T12:50:50","updated":"2023-07-15T21:33:03","title":"quickcheck","dg-publish":true,"permalink":"/docs/quickcheck/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/quickcheck/","title":"quickcheck"}
 ---
 
 - https://crates.io/crates/quickcheck

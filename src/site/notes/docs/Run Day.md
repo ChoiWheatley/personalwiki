@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-23T00:41:41","updated":"2023-07-15T21:33:03","title":"Run Day","dg-publish":true,"permalink":"/docs/Run Day/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Run Day/","title":"Run Day"}
 ---
 
 - [인천대공원](https://m.blog.naver.com/PostView.naver?blogId=cactusrom&logNo=222914808815&proxyReferer=)

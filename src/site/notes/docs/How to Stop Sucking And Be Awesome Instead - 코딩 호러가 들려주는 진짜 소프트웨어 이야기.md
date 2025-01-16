@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"How to Stop Sucking And Be Awesome Instead - 코딩 호러가 들려주는 진짜 소프트웨어 이야기","created":"2023-10-31T19:04:14","updated":"2023-10-31T19:56:07","dg-publish":true,"permalink":"/docs/How to Stop Sucking And Be Awesome Instead - 코딩 호러가 들려주는 진짜 소프트웨어 이야기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/How to Stop Sucking And Be Awesome Instead - 코딩 호러가 들려주는 진짜 소프트웨어 이야기/","title":"How to Stop Sucking And Be Awesome Instead - 코딩 호러가 들려주는 진짜 소프트웨어 이야기"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]

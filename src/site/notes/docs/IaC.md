@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"IaC","created":"2023-11-01T19:58:43","updated":"2023-11-01T20:01:13","dg-publish":true,"permalink":"/docs/IaC/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/IaC/","title":"IaC","tags":["scrap"]}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]

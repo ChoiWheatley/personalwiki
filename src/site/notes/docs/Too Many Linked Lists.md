@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-01T23:51:50","updated":"2023-07-15T21:33:03","title":"Too Many Linked Lists","dg-publish":true,"permalink":"/docs/Too Many Linked Lists/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Too Many Linked Lists/","title":"Too Many Linked Lists"}
 ---
 
 - links

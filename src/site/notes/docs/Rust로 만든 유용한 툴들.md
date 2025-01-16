@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-10T21:53:08","updated":"2023-07-15T21:33:03","title":"Rust로 만든 유용한 툴들","dg-publish":true,"permalink":"/docs/Rust로 만든 유용한 툴들/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Rust로 만든 유용한 툴들/","title":"Rust로 만든 유용한 툴들"}
 ---
 
 - https://youtu.be/dFkGNe4oaKk

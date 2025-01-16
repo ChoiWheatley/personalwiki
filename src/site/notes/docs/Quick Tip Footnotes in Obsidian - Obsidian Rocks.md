@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"created":"2023-02-12T12:31:25","tags":[],"source":"https://obsidian.rocks/footnotes-in-obsidian/","author":"Timothy Miller","date created":"Sunday, February 12th 2023, 12:31:25 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:33:03","title":"Quick Tip Footnotes in Obsidian - Obsidian Rocks","dg-publish":true,"permalink":"/docs/Quick Tip Footnotes in Obsidian - Obsidian Rocks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Quick Tip Footnotes in Obsidian - Obsidian Rocks/","title":"Quick Tip Footnotes in Obsidian - Obsidian Rocks"}
 ---
 
 

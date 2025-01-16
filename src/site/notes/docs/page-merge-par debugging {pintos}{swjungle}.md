@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"page-merge-par debugging {pintos}{swjungle}","created":"2023-10-20T15:56:25","updated":"2023-10-20T23:06:36","dg-publish":true,"permalink":"/docs/page-merge-par debugging {pintos}{swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/page-merge-par debugging {pintos}{swjungle}/","title":"page-merge-par debugging {pintos}{swjungle}"}
 ---
 
 - [[docs/week09 - Virtual Memory {pintos} {swjungle}\|week09 - Virtual Memory {pintos} {swjungle}]]

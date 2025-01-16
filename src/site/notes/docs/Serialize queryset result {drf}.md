@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Serialize queryset result {drf}","created":"2024-11-30T14:12:23","updated":"2024-11-30T14:27:10","dg-publish":true,"permalink":"/docs/Serialize queryset result {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Serialize queryset result {drf}/","title":"Serialize queryset result {drf}"}
 ---
 
 - ref: 

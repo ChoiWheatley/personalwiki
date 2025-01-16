@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-25T15:10:01","updated":"2023-07-15T21:33:03","title":"priority queue - python","dg-publish":true,"permalink":"/docs/priority queue - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/priority queue - python/","title":"priority queue - python"}
 ---
 
 - [heapq](https://docs.python.org/3/library/heapq.html#module-heapq)

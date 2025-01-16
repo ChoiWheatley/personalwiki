@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"links":["https://stackoverflow.com/questions/679005/how-are-value-objects-stored-in-the-database#681106","https://thepaulrayner.com/persisting-value-objects/"],"status":null,"title":"How are value objects stored in the database","created":"2024-12-31T14:46:08","updated":"2024-12-31T16:08:47","dg-publish":true,"permalink":"/docs/How are value objects stored in the database/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/How are value objects stored in the database/","title":"How are value objects stored in the database"}
 ---
 
 

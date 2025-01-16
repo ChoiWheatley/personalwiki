@@ -1,5 +1,5 @@
 ---
-{"aliases":"에러, 장고, Error","tags":null,"description":null,"created":"2023-06-22T10:08:33","updated":"2023-07-15T21:33:03","title":"Unexpected token DOCTYPE... is not valid JSON SyntaxError {django}","dg-publish":true,"permalink":"/docs/Unexpected token DOCTYPE... is not valid JSON SyntaxError {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Unexpected token DOCTYPE... is not valid JSON SyntaxError {django}/","title":"Unexpected token DOCTYPE... is not valid JSON SyntaxError {django}"}
 ---
 
 

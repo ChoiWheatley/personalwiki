@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Operating Systems Three Easy Pieces","created":"2023-10-03T14:46:36","updated":"2023-10-03T14:49:05","dg-publish":true,"permalink":"/docs/Operating Systems Three Easy Pieces/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Operating Systems Three Easy Pieces/","title":"Operating Systems Three Easy Pieces"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

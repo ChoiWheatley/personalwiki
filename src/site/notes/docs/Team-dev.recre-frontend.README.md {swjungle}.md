@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Team-dev.recre-frontend.README.md {swjungle}","created":"2023-12-12T20:07:13","updated":"2023-12-12T20:53:09","dg-publish":true,"permalink":"/docs/Team-dev.recre-frontend.README.md {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Team-dev.recre-frontend.README.md {swjungle}/","title":"Team-dev.recre-frontend.README.md {swjungle}"}
 ---
 
 - [[docs/Team-dev.recre-frontend.README.md {swjungle}\|Team-dev.recre-frontend.README.md {swjungle}]]

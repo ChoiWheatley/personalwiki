@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"date created":"Monday, February 13th 2023, 6:16:26 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","created":"2023-02-13T06:16:26","updated":"2024-01-11T11:39:31","title":"tree 기초","dg-publish":true,"permalink":"/docs/tree 기초/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/tree 기초/","title":"tree 기초"}
 ---
 
 

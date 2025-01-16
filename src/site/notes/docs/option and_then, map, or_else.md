@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-02T15:57:46","updated":"2023-07-15T21:33:03","title":"option and_then, map, or_else","dg-publish":true,"permalink":"/docs/option and_then, map, or_else/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/option and_then, map, or_else/","title":"option and_then, map, or_else"}
 ---
 
 - https://riptutorial.com/rust/example/9668/using-option-with-map-and-and-then

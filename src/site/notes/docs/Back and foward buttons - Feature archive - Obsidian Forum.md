@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"created":"2023-02-12T12:31:25","tags":[],"source":"https://forum.obsidian.md/t/back-and-foward-buttons/1049","author":null,"date created":"Sunday, February 12th 2023, 12:31:25 pm","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2023-07-15T21:30:21","title":"Back and foward buttons - Feature archive - Obsidian Forum","dg-publish":true,"permalink":"/docs/Back and foward buttons - Feature archive - Obsidian Forum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Back and foward buttons - Feature archive - Obsidian Forum/","title":"Back and foward buttons - Feature archive - Obsidian Forum"}
 ---
 
 

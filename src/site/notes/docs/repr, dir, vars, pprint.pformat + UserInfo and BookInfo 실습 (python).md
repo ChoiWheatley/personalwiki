@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-18T00:09:15","updated":"2024-04-25T14:40:18","title":"repr, dir, vars, pprint.pformat + UserInfo and BookInfo 실습 (python)","dg-publish":true,"permalink":"/docs/repr, dir, vars, pprint.pformat + UserInfo and BookInfo 실습 (python)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/repr, dir, vars, pprint.pformat + UserInfo and BookInfo 실습 (python)/","title":"repr, dir, vars, pprint.pformat + UserInfo and BookInfo 실습 (python)"}
 ---
 
 

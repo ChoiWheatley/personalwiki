@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"trash-cli, 위험천만한 rm 명령어를 대체해줍니다","created":"2023-09-07T21:01:01","updated":"2023-09-07T21:02:40","dg-publish":true,"permalink":"/docs/trash-cli, 위험천만한 rm 명령어를 대체해줍니다/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/trash-cli, 위험천만한 rm 명령어를 대체해줍니다/","title":"trash-cli, 위험천만한 rm 명령어를 대체해줍니다"}
 ---
 
 <https://github.com/andreafrancia/trash-cli>

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"SLO, SLI, SLA란","created":"2023-11-01T19:50:28","updated":"2023-11-01T19:56:27","dg-publish":true,"permalink":"/docs/SLO, SLI, SLA란/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/SLO, SLI, SLA란/","title":"SLO, SLI, SLA란"}
 ---
 
 - [[docs/index/0010 Programming 👩‍💻\|0010 Programming 👩‍💻]]

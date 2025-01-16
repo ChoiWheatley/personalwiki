@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"homebrew","created":"2024-03-11T18:32:34","updated":"2024-03-11T18:38:55","dg-publish":true,"permalink":"/docs/homebrew/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/homebrew/","title":"homebrew"}
 ---
 
 - <https://brew.sh>

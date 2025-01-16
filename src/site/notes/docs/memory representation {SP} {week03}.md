@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"memory representation {SP} {week03}","created":"2023-08-30T16:56:00","updated":"2023-08-30T17:13:26","dg-publish":true,"permalink":"/docs/memory representation {SP} {week03}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/memory representation {SP} {week03}/","title":"memory representation {SP} {week03}"}
 ---
 
 - parent: [[docs/index/0015.2 Systems Programming {ssu2021-1st} 🐼\|0015.2 Systems Programming {ssu2021-1st} 🐼]]

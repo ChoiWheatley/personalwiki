@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"LVM의 기본 구성 요소","created":"2024-09-16T17:26:52","updated":"2024-09-16T17:28:58","dg-publish":true,"permalink":"/docs/LVM의 기본 구성 요소/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/LVM의 기본 구성 요소/","title":"LVM의 기본 구성 요소"}
 ---
 
 볼륨 그룹(LVM의 "Volume Group")은 **논리 볼륨 관리(LVM, Logical Volume Manager)** 에서 사용하는 중요한 개념입니다. LVM은 여러 물리 디스크나 파티션을 논리적으로 관리할 수 있도록 해주는 기능입니다. 이 시스템을 이용하면 디스크의 크기를 유연하게 관리하고 확장할 수 있습니다.

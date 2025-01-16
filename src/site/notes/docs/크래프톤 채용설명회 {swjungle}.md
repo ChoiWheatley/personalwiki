@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"크래프톤 채용설명회 {swjungle}","created":"2023-11-01T14:32:20","updated":"2023-11-02T20:45:04","dg-publish":true,"permalink":"/docs/크래프톤 채용설명회 {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/크래프톤 채용설명회 {swjungle}/","title":"크래프톤 채용설명회 {swjungle}"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]

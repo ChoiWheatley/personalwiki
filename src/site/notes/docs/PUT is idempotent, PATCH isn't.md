@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":"멱등 REST","tags":["SOF"],"created":"2023-06-08T16:23:59","updated":"2023-07-15T21:33:03","title":"PUT is idempotent, PATCH isn't","dg-publish":true,"permalink":"/docs/PUT is idempotent, PATCH isn't/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/PUT is idempotent, PATCH isn't/","title":"PUT is idempotent, PATCH isn't","tags":["SOF"]}
 ---
 
 - [[docs/PATCH {HTTP}\|PATCH {HTTP}]]

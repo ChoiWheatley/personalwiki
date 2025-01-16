@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Django testing","created":"2024-11-23T21:00:09","updated":"2024-12-05T00:36:50","dg-publish":true,"permalink":"/docs/Django testing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Django testing/","title":"Django testing"}
 ---
 
 - ref: <https://docs.djangoproject.com/en/5.1/topics/testing/>

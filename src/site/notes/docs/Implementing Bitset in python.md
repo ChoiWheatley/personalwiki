@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-13T20:45:42","updated":"2023-07-15T21:33:04","title":"Implementing Bitset in python","dg-publish":true,"permalink":"/docs/Implementing Bitset in python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Implementing Bitset in python/","title":"Implementing Bitset in python"}
 ---
 
 - [비트셋 사용한 파이썬 코드 - 백준 27447 주문은 토기입니까?](https://github.com/OrmiCodeRanger/ChoiSeunghyeon/commit/b95f48beb847fb2a962932d6f90eacdefc70aeb3)

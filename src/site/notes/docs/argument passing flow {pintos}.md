@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"argument passing flow {pintos}","created":"2023-10-06T13:27:48","updated":"2023-10-06T18:50:49","dg-publish":true,"permalink":"/docs/argument passing flow {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/argument passing flow {pintos}/","title":"argument passing flow {pintos}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

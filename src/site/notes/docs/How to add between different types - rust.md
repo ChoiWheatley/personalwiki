@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-04T15:03:38","updated":"2023-07-15T21:33:04","title":"How to add between different types - rust","dg-publish":true,"permalink":"/docs/How to add between different types - rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/How to add between different types - rust/","title":"How to add between different types - rust"}
 ---
 
 - https://users.rust-lang.org/t/how-to-add-different-types/79178

@@ -1,5 +1,5 @@
 ---
-{"description":null,"created":"2023-02-26T20:14:46","categories":["협동게임","2인 협동"],"aliases":null,"tags":["game/co_op"],"updated":"2023-07-15T21:33:03","title":"Unravel Two","dg-publish":true,"permalink":"/docs/Unravel Two/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Unravel Two/","title":"Unravel Two","tags":["game/co_op"]}
 ---
 
 parent link: 

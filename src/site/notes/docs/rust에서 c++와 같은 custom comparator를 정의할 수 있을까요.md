@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-29T21:00:56","updated":"2023-07-15T21:33:03","title":"rust에서 c++와 같은 custom comparator를 정의할 수 있을까요","dg-publish":true,"permalink":"/docs/rust에서 c++와 같은 custom comparator를 정의할 수 있을까요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/rust에서 c++와 같은 custom comparator를 정의할 수 있을까요/","title":"rust에서 c++와 같은 custom comparator를 정의할 수 있을까요"}
 ---
 
 - https://stackoverflow.com/questions/34028324/how-do-i-use-a-custom-comparator-function-with-btreeset#34037318

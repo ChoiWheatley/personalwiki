@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-15T15:07:44","updated":"2023-07-15T21:30:21","title":"AppConfig {django}","dg-publish":true,"permalink":"/docs/AppConfig {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/AppConfig {django}/","title":"AppConfig {django}"}
 ---
 
 [docs.com](https://docs.djangoproject.com/en/4.1/ref/applications/#django.apps.AppConfig)

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-22T23:58:35","updated":"2023-07-15T21:33:04","title":"in the wake of","dg-publish":true,"permalink":"/docs/in the wake of/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/in the wake of/","title":"in the wake of"}
 ---
 
 ~의 뒤를 좇아, ~에 뒤이어

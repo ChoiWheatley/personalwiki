@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-12T13:12:18","updated":"2024-06-20T12:53:01","title":"mac 필수앱 🍎","dg-publish":true,"permalink":"/docs/mac 필수앱 🍎/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/mac 필수앱 🍎/","title":"mac 필수앱 🍎"}
 ---
 
 - 키보드 입맛대로 [karabiner-elements](https://karabiner-elements.pqrs.org/)

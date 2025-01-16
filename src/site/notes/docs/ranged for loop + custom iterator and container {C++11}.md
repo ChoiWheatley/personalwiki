@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ranged for loop + custom iterator and container {C++11}","created":"2024-01-16T19:30:59","updated":"2024-01-186T2207:12:24","dg-publish":true,"permalink":"/docs/ranged for loop + custom iterator and container {C++11}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ranged for loop + custom iterator and container {C++11}/","title":"ranged for loop + custom iterator and container {C++11}"}
 ---
 
 - [[docs/C++\|C++]]

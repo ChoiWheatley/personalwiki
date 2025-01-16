@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-15T20:21:56","updated":"2023-07-15T21:33:03","title":"python 필수 의존성만 추려내는 방법","dg-publish":true,"permalink":"/docs/python 필수 의존성만 추려내는 방법/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python 필수 의존성만 추려내는 방법/","title":"python 필수 의존성만 추려내는 방법"}
 ---
 
 - [bookstore/issues/29](https://github.com/ESTsoft-Book-Project/bookstore/issues/29)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Project2 User Program {wil}","created":"2023-10-10T13:29:26","updated":"2023-10-10T13:30:49","dg-publish":true,"permalink":"/docs/Project2 User Program {wil}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Project2 User Program {wil}/","title":"Project2 User Program {wil}"}
 ---
 
 

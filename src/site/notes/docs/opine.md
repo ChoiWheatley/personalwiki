@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["english"],"created":"2023-03-09T18:40:26","updated":"2023-07-15T21:33:03","title":"opine","dg-publish":true,"permalink":"/docs/opine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/opine/","title":"opine","tags":["english"]}
 ---
 
 의견을 밝히다

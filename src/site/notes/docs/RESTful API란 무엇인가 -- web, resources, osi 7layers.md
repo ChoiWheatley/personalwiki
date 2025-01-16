@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-22T21:41:50","updated":"2023-07-15T21:33:03","title":"RESTful API란 무엇인가 -- web, resources, osi 7layers","dg-publish":true,"permalink":"/docs/RESTful API란 무엇인가 -- web, resources, osi 7layers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/RESTful API란 무엇인가 -- web, resources, osi 7layers/","title":"RESTful API란 무엇인가 -- web, resources, osi 7layers"}
 ---
 
 

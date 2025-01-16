@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"bcypt npm","created":"2023-11-06T20:07:43","updated":"2023-11-06T20:14:19","dg-publish":true,"permalink":"/docs/bcypt npm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/bcypt npm/","title":"bcypt npm"}
 ---
 
 - <https://www.npmjs.com/package/bcrypt>

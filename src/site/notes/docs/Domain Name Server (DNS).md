@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Domain Name Server (DNS)","created":"2024-09-02T10:48:43","updated":"2024-09-02T11:10:16","dg-publish":true,"permalink":"/docs/Domain Name Server (DNS)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Domain Name Server (DNS)/","title":"Domain Name Server (DNS)"}
 ---
 
 <https://medium.com/it-security-in-plain-english/dns-records-explained-a-beginners-guide-to-internet-routing-5cb15fa16593>

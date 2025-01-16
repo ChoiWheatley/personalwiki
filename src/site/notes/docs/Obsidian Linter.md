@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Obsidian Linter","created":"2023-09-15T22:35:34","updated":"2023-09-15T22:48:50","dg-publish":true,"permalink":"/docs/Obsidian Linter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Obsidian Linter/","title":"Obsidian Linter"}
 ---
 
 [Obsidian Linter](https://github.com/platers/obsidian-linter)

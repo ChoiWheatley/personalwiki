@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"GPU driver 설치","created":"2024-09-17T22:30:44","updated":"2024-09-17T22:30:54","dg-publish":true,"permalink":"/docs/GPU driver 설치/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/GPU driver 설치/","title":"GPU driver 설치"}
 ---
 
 

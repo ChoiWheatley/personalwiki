@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"merge sort","created":"2024-01-07T22:54:58","updated":"2024-01-07T22:58:25","dg-publish":true,"permalink":"/docs/merge sort/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/merge sort/","title":"merge sort"}
 ---
 
 - [[docs/20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort\|20230518 estsoft - python - tree -- LIS -- selection sort -- insertion sort -- merge sort -- quick sort]]

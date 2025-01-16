@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["programming/rust"],"created":"2023-03-11T19:15:24","updated":"2023-07-15T21:30:20","title":"derive attribute","dg-publish":true,"permalink":"/docs/derive attribute/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/derive attribute/","title":"derive attribute","tags":["programming/rust"]}
 ---
 
 <iframe src="https://rust-book.cs.brown.edu/ch05-02-example-structs.html#adding-useful-functionality-with-derived-traits" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>

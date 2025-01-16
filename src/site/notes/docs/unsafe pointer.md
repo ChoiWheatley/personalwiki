@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-23T21:27:06","updated":"2023-07-15T21:33:03","title":"unsafe pointer","dg-publish":true,"permalink":"/docs/unsafe pointer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/unsafe pointer/","title":"unsafe pointer"}
 ---
 
 - https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html#dereferencing-a-raw-pointer

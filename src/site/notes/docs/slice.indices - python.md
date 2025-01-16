@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T16:09:52","updated":"2023-07-15T21:33:03","title":"slice.indices - python","dg-publish":true,"permalink":"/docs/slice.indices - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/slice.indices - python/","title":"slice.indices - python"}
 ---
 
 - https://stackoverflow.com/questions/22151335/implementing-getitem

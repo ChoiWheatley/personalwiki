@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"api 설계 {swjungle00}","created":"2023-08-10T10:50:35","updated":"2023-08-10T11:01:31","dg-publish":true,"permalink":"/docs/api 설계 {swjungle00}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/api 설계 {swjungle00}/","title":"api 설계 {swjungle00}"}
 ---
 
 - GET `/main/<string:user_id>`: html 렌더

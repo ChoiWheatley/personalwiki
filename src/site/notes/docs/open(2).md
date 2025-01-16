@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"open(2)","created":"2023-09-20T11:17:10","updated":"2023-09-20T11:26:01","dg-publish":true,"permalink":"/docs/open(2)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/open(2)/","title":"open(2)"}
 ---
 
 - <https://www.man7.org/linux/man-pages/man2/open.2.html>

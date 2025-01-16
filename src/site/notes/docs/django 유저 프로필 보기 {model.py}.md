@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-02T13:46:57","updated":"2023-07-19T13:57:05","title":"django 유저 프로필 보기 {model.py}","dg-publish":true,"permalink":"/docs/django 유저 프로필 보기 {model.py}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django 유저 프로필 보기 {model.py}/","title":"django 유저 프로필 보기 {model.py}"}
 ---
 
 [[docs/django Creating custom user model using AbstractUser in django-RestFramework\|django Creating custom user model using AbstractUser in django-RestFramework]]

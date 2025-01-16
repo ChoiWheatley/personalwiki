@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-21T11:35:55","updated":"2023-07-15T21:33:03","title":"python os.path.join","dg-publish":true,"permalink":"/docs/python os.path.join/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python os.path.join/","title":"python os.path.join"}
 ---
 
 [실 사용 예시 {bookstore}](https://github.com/ESTsoft-Book-Project/bookstore/pull/44/files#diff-4392745abac424baa573e9c60413308af753eb912be194dfc224f1e71e81ef98R133)  

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"GNU 개발유틸 {C}{C++}{UNIX}{LINUX}","created":"2023-09-10T14:27:34","updated":"2023-09-10T14:27:39","dg-publish":true,"permalink":"/docs/GNU 개발유틸 {C}{C++}{UNIX}{LINUX}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/GNU 개발유틸 {C}{C++}{UNIX}{LINUX}/","title":"GNU 개발유틸 {C}{C++}{UNIX}{LINUX}"}
 ---
 
 [개발유틸]  

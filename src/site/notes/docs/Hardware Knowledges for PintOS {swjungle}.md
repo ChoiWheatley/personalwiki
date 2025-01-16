@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Hardware Knowledges for PintOS {swjungle}","created":"2023-10-03T14:27:58","updated":"2023-10-03T14:32:06","dg-publish":true,"permalink":"/docs/Hardware Knowledges for PintOS {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Hardware Knowledges for PintOS {swjungle}/","title":"Hardware Knowledges for PintOS {swjungle}"}
 ---
 
 - [[docs/week07-10 {swjungle} {pintos}\|week07-10 {swjungle} {pintos}]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"sliding window {python} {itertools.islice} {collections.deque}","created":"2023-08-13T16:14:51","updated":"2023-08-13T16:18:56","dg-publish":true,"permalink":"/docs/sliding window {python} {itertools.islice} {collections.deque}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/sliding window {python} {itertools.islice} {collections.deque}/","title":"sliding window {python} {itertools.islice} {collections.deque}"}
 ---
 
 [doc {itertools-recipe}](https://docs.python.org/3/library/itertools.html#itertools-recipes)  

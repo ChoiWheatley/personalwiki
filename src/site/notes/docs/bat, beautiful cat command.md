@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"bat, beautiful cat command","created":"2023-09-07T20:52:46","updated":"2023-09-07T20:53:47","dg-publish":true,"permalink":"/docs/bat, beautiful cat command/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/bat, beautiful cat command/","title":"bat, beautiful cat command"}
 ---
 
 <https://github.com/sharkdp/bat>

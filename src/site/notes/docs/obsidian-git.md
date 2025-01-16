@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"obsidian-git","created":"2023-07-23T15:58:09","updated":"2023-08-20T02:38:17","dg-publish":true,"permalink":"/docs/obsidian-git/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/obsidian-git/","title":"obsidian-git"}
 ---
 
 - [obsidian-git](https://github.com/denolehov/obsidian-git)

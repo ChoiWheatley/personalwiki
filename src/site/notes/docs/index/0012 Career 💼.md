@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"title":"0012 Career 💼","created":"2023-02-09T11:01:40","categories":["직업","커리어"],"aliases":["커리어","직업"],"tags":["index"],"date created":"Thursday, February 9th 2023, 11:01:40 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2025-01-14T18:58:41","dg-publish":true,"permalink":"/docs/index/0012 Career 💼/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/0012 Career 💼/","title":"0012 Career 💼","tags":["index"]}
 ---
 
 

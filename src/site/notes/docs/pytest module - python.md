@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-02T13:24:49","updated":"2023-07-15T21:33:03","title":"pytest module - python","dg-publish":true,"permalink":"/docs/pytest module - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/pytest module - python/","title":"pytest module - python"}
 ---
 
 

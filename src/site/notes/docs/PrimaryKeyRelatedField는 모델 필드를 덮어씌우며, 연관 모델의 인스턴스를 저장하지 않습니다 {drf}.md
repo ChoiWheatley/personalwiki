@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"PrimaryKeyRelatedField는 모델 필드를 덮어씌우며, 연관 모델의 인스턴스를 저장하지 않습니다 {drf}","created":"2024-12-06T23:31:34","updated":"2024-12-06T23:35:26","dg-publish":true,"permalink":"/docs/PrimaryKeyRelatedField는 모델 필드를 덮어씌우며, 연관 모델의 인스턴스를 저장하지 않습니다 {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/PrimaryKeyRelatedField는 모델 필드를 덮어씌우며, 연관 모델의 인스턴스를 저장하지 않습니다 {drf}/","title":"PrimaryKeyRelatedField는 모델 필드를 덮어씌우며, 연관 모델의 인스턴스를 저장하지 않습니다 {drf}"}
 ---
 
 [https://github.com/NohSungwoo/Plana/pull/25/files#diff-f96949d693834953aca5d343f59b82cb607f979dd16891020a6225a084b2b9e8R13](https://github.com/NohSungwoo/Plana/pull/25/files#diff-f96949d693834953aca5d343f59b82cb607f979dd16891020a6225a084b2b9e8R13) 해당 PR의 `memos/serializers.py` 파일에서 의문이 생겼습니다.

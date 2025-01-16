@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":"Quick Sort","created":"2023-02-27T16:43:12","updated":"2023-08-13T23:01:08","tags":["notion","algo/sort"],"title":"퀵정렬 {quick sort}","dg-publish":true,"permalink":"/docs/퀵정렬 {quick sort}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/퀵정렬 {quick sort}/","title":"퀵정렬 {quick sort}","tags":["notion","algo/sort"]}
 ---
 
 <https://choiwheatley.notion.site/quick-sort-8720f36d603840f1b37fa73465c76eb0>

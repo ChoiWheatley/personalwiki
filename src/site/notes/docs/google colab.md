@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-30T20:45:32","updated":"2023-07-15T21:33:04","title":"google colab","dg-publish":true,"permalink":"/docs/google colab/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/google colab/","title":"google colab"}
 ---
 
 - https://colab.research.google.com/ 에 들어가 당장 구글드라이브 기반 주피터 노트북 프로젝트를 생성하라!

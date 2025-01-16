@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["scrap"],"description":null,"title":"glibc Malloc Internals","created":"2024-01-20T19:01:37","updated":"2024-01-20T19:02:43","dg-publish":true,"permalink":"/docs/glibc Malloc Internals/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/glibc Malloc Internals/","title":"glibc Malloc Internals","tags":["scrap"]}
 ---
 
 - [glibc wiki](https://sourceware.org/glibc/wiki/MallocInternals)

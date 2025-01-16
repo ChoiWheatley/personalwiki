@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"react","created":"2023-08-03T17:49:22","updated":"2023-08-03T17:59:04","dg-publish":true,"permalink":"/docs/react/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/react/","title":"react"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-18T17:59:47","updated":"2023-07-15T21:30:21","title":"axum service","dg-publish":true,"permalink":"/docs/axum service/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/axum service/","title":"axum service"}
 ---
 
 - [into_make_service](https://docs.rs/axum/latest/axum/routing/struct.Router.html#method.into_make_service)

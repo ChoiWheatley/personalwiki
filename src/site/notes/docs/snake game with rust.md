@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-13T22:46:36","updated":"2023-07-15T21:33:03","title":"snake game with rust","dg-publish":true,"permalink":"/docs/snake game with rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/snake game with rust/","title":"snake game with rust"}
 ---
 
 

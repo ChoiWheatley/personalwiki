@@ -1,5 +1,5 @@
 ---
-{"links":null,"status":null,"description":null,"aliases":null,"tags":null,"created":"2023-05-22T21:37:49","updated":"2024-12-31T23:27:05","title":"0018 Javascript ☕️","dg-publish":true,"permalink":"/docs/index/0018 Javascript ☕️/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/0018 Javascript ☕️/","title":"0018 Javascript ☕️"}
 ---
 
 

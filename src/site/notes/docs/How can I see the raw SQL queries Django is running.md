@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"How can I see the raw SQL queries Django is running","created":"2024-11-30T00:15:34","updated":"2024-11-30T00:18:03","dg-publish":true,"permalink":"/docs/How can I see the raw SQL queries Django is running/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/How can I see the raw SQL queries Django is running/","title":"How can I see the raw SQL queries Django is running"}
 ---
 
 - ref: <https://docs.djangoproject.com/en/5.1/faq/models/#faq-see-raw-sql-queries>

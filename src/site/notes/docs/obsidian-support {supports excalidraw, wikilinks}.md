@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"obsidian-support {supports excalidraw, wikilinks}","created":"2023-07-16T00:59:21","updated":"2023-07-16T17:42:17","source":"https://github.com/ndy2/mkdocs-obsidian-support-plugin","dg-publish":true,"permalink":"/docs/obsidian-support {supports excalidraw, wikilinks}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/obsidian-support {supports excalidraw, wikilinks}/","title":"obsidian-support {supports excalidraw, wikilinks}"}
 ---
 
 

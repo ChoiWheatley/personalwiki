@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-31T20:32:51","updated":"2023-07-15T21:33:03","title":"option take","dg-publish":true,"permalink":"/docs/option take/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/option take/","title":"option take"}
 ---
 
 - https://doc.rust-lang.org/std/option/enum.Option.html#method.take

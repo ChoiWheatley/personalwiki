@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-01T13:12:30","updated":"2023-07-15T21:33:04","title":"google colab - shortcuts","dg-publish":true,"permalink":"/docs/google colab - shortcuts/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/google colab - shortcuts/","title":"google colab - shortcuts"}
 ---
 
 

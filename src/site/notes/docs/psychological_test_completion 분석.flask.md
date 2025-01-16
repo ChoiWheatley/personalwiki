@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"psychological_test_completion 분석.flask","created":"2024-05-05T19:44:09","updated":"2024-05-07T11:24:59","dg-publish":true,"permalink":"/docs/psychological_test_completion 분석.flask/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/psychological_test_completion 분석.flask/","title":"psychological_test_completion 분석.flask"}
 ---
 
 [github.com / ChoiWheatley / psychological_test_completion](https://github.com/ChoiWheatley/psychological_test_completion)

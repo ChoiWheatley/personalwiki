@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T17:01:50","updated":"2023-07-15T21:33:03","title":"typing.cast은 타입체커에게 정보를 제공한다 - python","dg-publish":true,"permalink":"/docs/typing.cast은 타입체커에게 정보를 제공한다 - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/typing.cast은 타입체커에게 정보를 제공한다 - python/","title":"typing.cast은 타입체커에게 정보를 제공한다 - python"}
 ---
 
 [[docs/type hint cheatsheet\|type hint cheatsheet]]

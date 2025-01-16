@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"원소를 삽입하는 과정을 간략하게 설명해보세요 {red black tree}","created":"2024-01-10T23:38:57","updated":"2024-01-10T23:46:00","dg-publish":true,"permalink":"/docs/원소를 삽입하는 과정을 간략하게 설명해보세요 {red black tree}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/원소를 삽입하는 과정을 간략하게 설명해보세요 {red black tree}/","title":"원소를 삽입하는 과정을 간략하게 설명해보세요 {red black tree}"}
 ---
 
 

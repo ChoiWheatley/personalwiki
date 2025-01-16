@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"암시적 리스트와 명시적 리스트에 관해 설명해주세요 {{malloc-lab}}","created":"2024-01-08T17:15:21","updated":"2024-01-08T17:37:34","dg-publish":true,"permalink":"/docs/암시적 리스트와 명시적 리스트에 관해 설명해주세요 {{malloc-lab}}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/암시적 리스트와 명시적 리스트에 관해 설명해주세요 {{malloc-lab}}/","title":"암시적 리스트와 명시적 리스트에 관해 설명해주세요 {{malloc-lab}}"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

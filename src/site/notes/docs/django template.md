@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-31T11:40:54","updated":"2023-07-19T16:06:39","title":"django template","dg-publish":true,"permalink":"/docs/django template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django template/","title":"django template"}
 ---
 
 - <https://docs.djangoproject.com/en/4.2/ref/templates/language/>

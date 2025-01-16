@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-13T17:09:16","updated":"2023-07-15T21:33:03","title":"products, purchases app {django}","dg-publish":true,"permalink":"/docs/products, purchases app {django}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/products, purchases app {django}/","title":"products, purchases app {django}"}
 ---
 
 - products app

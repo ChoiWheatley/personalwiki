@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"영준이의 진짜 BFS {swea}","created":"2024-12-23T17:06:32","updated":"2024-12-23T17:08:37","dg-publish":true,"permalink":"/docs/영준이의 진짜 BFS {swea}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/영준이의 진짜 BFS {swea}/","title":"영준이의 진짜 BFS {swea}"}
 ---
 
 상태: 풀이완료  

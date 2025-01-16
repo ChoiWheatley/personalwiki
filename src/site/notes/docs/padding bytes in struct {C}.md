@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"padding bytes in struct {C}","created":"2023-09-02T00:05:07","updated":"2023-09-02T00:08:15","dg-publish":true,"permalink":"/docs/padding bytes in struct {C}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/padding bytes in struct {C}/","title":"padding bytes in struct {C}"}
 ---
 
 

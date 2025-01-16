@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-10T17:04:05","updated":"2023-07-15T21:33:03","title":"python f-string에서 중괄호 표기하는 방법","dg-publish":true,"permalink":"/docs/python f-string에서 중괄호 표기하는 방법/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python f-string에서 중괄호 표기하는 방법/","title":"python f-string에서 중괄호 표기하는 방법"}
 ---
 
 

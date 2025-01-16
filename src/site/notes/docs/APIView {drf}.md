@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"APIView {drf}","created":"2023-07-28T10:03:39","updated":"2023-07-28T10:48:10","dg-publish":true,"permalink":"/docs/APIView {drf}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/APIView {drf}/","title":"APIView {drf}"}
 ---
 
 - link

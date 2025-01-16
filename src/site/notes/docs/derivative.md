@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-03-29T23:10:52","updated":"2023-07-15T21:30:20","title":"derivative","dg-publish":true,"permalink":"/docs/derivative/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/derivative/","title":"derivative"}
 ---
 
 - https://crates.io/crates/derivative

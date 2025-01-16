@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"LVM을 사용한 swap 공간 할당 방법","created":"2024-09-19T00:51:54","updated":"2024-09-19T00:57:08","dg-publish":true,"permalink":"/docs/LVM을 사용한 swap 공간 할당 방법/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/LVM을 사용한 swap 공간 할당 방법/","title":"LVM을 사용한 swap 공간 할당 방법"}
 ---
 
 [chargpt / LVM 스왑공간](https://chatgpt.com/share/66eaf723-63dc-8012-a406-2aec1da78c36) 대화를 참고하세요

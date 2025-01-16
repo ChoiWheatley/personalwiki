@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"prim algorithm과 kruskal algorithm {Minimum Spanning Tree}","created":"2023-08-20T22:13:53","updated":"2023-08-20T22:29:57","dg-publish":true,"permalink":"/docs/prim algorithm과 kruskal algorithm {Minimum Spanning Tree}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/prim algorithm과 kruskal algorithm {Minimum Spanning Tree}/","title":"prim algorithm과 kruskal algorithm {Minimum Spanning Tree}"}
 ---
 
 - [[docs/graph 기초#최소신장트리 (minimum spanning tree)\|graph 기초#최소신장트리 (minimum spanning tree)]]

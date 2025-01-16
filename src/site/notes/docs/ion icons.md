@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-29T17:48:56","updated":"2023-07-15T21:33:04","title":"ion icons","dg-publish":true,"permalink":"/docs/ion icons/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ion icons/","title":"ion icons"}
 ---
 
 - [ionic.io](https://ionic.io/ionicons)

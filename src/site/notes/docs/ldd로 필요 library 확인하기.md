@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-18T18:49:48","updated":"2023-07-15T21:33:04","title":"ldd로 필요 library 확인하기","dg-publish":true,"permalink":"/docs/ldd로 필요 library 확인하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ldd로 필요 library 확인하기/","title":"ldd로 필요 library 확인하기"}
 ---
 
 - https://www.lesstif.com/lpt/linux-error-while-loading-shared-libraries-95880436.html

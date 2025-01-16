@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-06T15:23:27","updated":"2023-07-15T21:33:03","title":"rustube 유튜브 다운로더","dg-publish":true,"permalink":"/docs/rustube 유튜브 다운로더/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/rustube 유튜브 다운로더/","title":"rustube 유튜브 다운로더"}
 ---
 
 - https://github.com/DzenanJupic/rustube

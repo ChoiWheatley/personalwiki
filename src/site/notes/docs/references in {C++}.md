@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"references in {C++}","created":"2024-01-12T13:35:24","updated":"2024-01-12T14:46:22","dg-publish":true,"permalink":"/docs/references in {C++}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/references in {C++}/","title":"references in {C++}"}
 ---
 
 - [[docs/C++\|C++]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"python은 분기예측을 하는가 {sof}","created":"2023-08-14T16:43:16","updated":"2023-08-14T16:45:09","dg-publish":true,"permalink":"/docs/python은 분기예측을 하는가 {sof}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python은 분기예측을 하는가 {sof}/","title":"python은 분기예측을 하는가 {sof}"}
 ---
 
 - [sof link](https://stackoverflow.com/questions/53005367/has-python-got-branch-prediction)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["algo/heap"],"description":null,"title":"leet trapping rain water II {MinHeap}","created":"2024-02-12T16:37:54","updated":"2024-02-12T16:46:12","dg-publish":true,"permalink":"/docs/leet trapping rain water II {MinHeap}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/leet trapping rain water II {MinHeap}/","title":"leet trapping rain water II {MinHeap}","tags":["algo/heap"]}
 ---
 
 - <https://leetcode.com/problems/trapping-rain-water-ii>

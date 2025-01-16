@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-11T21:26:42","updated":"2023-07-15T21:33:04","title":"graft","dg-publish":true,"permalink":"/docs/graft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/graft/","title":"graft"}
 ---
 
 - A piece of living tissue that is transplanted surgically *(noun)*

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Cookie","created":"2024-08-01T19:47:03","updated":"2024-08-01T19:47:06","dg-publish":true,"permalink":"/docs/Cookie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Cookie/","title":"Cookie"}
 ---
 
 

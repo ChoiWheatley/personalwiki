@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-15T14:07:54","updated":"2023-12-29T22:15:32","title":"regex","dg-publish":true,"permalink":"/docs/regex/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/regex/","title":"regex"}
 ---
 
 - [실습 링크](https://regexr.com/5nvc2)

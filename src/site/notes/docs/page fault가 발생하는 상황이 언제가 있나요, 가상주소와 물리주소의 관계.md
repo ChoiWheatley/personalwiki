@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"page fault가 발생하는 상황이 언제가 있나요, 가상주소와 물리주소의 관계","created":"2024-01-09T13:25:45","updated":"2024-01-09T14:23:12","dg-publish":true,"permalink":"/docs/page fault가 발생하는 상황이 언제가 있나요, 가상주소와 물리주소의 관계/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/page fault가 발생하는 상황이 언제가 있나요, 가상주소와 물리주소의 관계/","title":"page fault가 발생하는 상황이 언제가 있나요, 가상주소와 물리주소의 관계"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

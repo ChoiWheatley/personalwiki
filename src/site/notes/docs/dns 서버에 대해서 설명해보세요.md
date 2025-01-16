@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"dns 서버에 대해서 설명해보세요","created":"2024-01-10T10:14:13","updated":"2024-01-10T10:26:05","dg-publish":true,"permalink":"/docs/dns 서버에 대해서 설명해보세요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/dns 서버에 대해서 설명해보세요/","title":"dns 서버에 대해서 설명해보세요"}
 ---
 
 - [[docs/index/0012 Career 💼\|0012 Career 💼]]

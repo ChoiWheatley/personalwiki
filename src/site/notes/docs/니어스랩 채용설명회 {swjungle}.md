@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"니어스랩 채용설명회 {swjungle}","created":"2023-11-09T16:26:42","updated":"2023-11-10T14:50:42","dg-publish":true,"permalink":"/docs/니어스랩 채용설명회 {swjungle}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/니어스랩 채용설명회 {swjungle}/","title":"니어스랩 채용설명회 {swjungle}"}
 ---
 
 - [[docs/swjungle 🤖\|swjungle 🤖]]

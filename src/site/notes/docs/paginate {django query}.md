@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"paginate {django query}","created":"2024-12-19T21:55:22","updated":"2024-12-19T22:47:33","dg-publish":true,"permalink":"/docs/paginate {django query}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/paginate {django query}/","title":"paginate {django query}"}
 ---
 
 - ref: 

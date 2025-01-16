@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-18T17:52:04","updated":"2023-07-15T21:30:21","title":"axum routing Router","dg-publish":true,"permalink":"/docs/axum routing Router/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/axum routing Router/","title":"axum routing Router"}
 ---
 
 - [`axum::routing::Router` ](https://docs.rs/axum/latest/axum/struct.Router.html)

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Arch Linux 설치하기","created":"2024-09-16T15:05:05","updated":"2024-09-19T03:12:24","dg-publish":true,"permalink":"/docs/Arch Linux 설치하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Arch Linux 설치하기/","title":"Arch Linux 설치하기"}
 ---
 
 

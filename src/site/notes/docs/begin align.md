@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-07T18:53:37","updated":"2023-07-15T21:30:21","title":"begin align","dg-publish":true,"permalink":"/docs/begin align/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/begin align/","title":"begin align"}
 ---
 
 - https://tex.stackexchange.com/questions/546655/how-does-align-work#546699

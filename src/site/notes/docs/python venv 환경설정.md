@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-05T10:31:27","updated":"2023-07-15T21:33:03","title":"python venv 환경설정","dg-publish":true,"permalink":"/docs/python venv 환경설정/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/python venv 환경설정/","title":"python venv 환경설정"}
 ---
 
 

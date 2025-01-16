@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"learnyaml","created":"2024-11-20T00:04:30","updated":"2024-11-20T00:05:13","dg-publish":true,"permalink":"/docs/learnyaml/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/learnyaml/","title":"learnyaml"}
 ---
 
 - ref: <https://learnxinyminutes.com/docs/yaml/>

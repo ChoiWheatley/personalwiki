@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Serializer 안에 Serializer가 들어가도 되나요?","created":"2024-11-13T00:19:32","updated":"2024-11-13T00:20:02","dg-publish":true,"permalink":"/docs/Serializer 안에 Serializer가 들어가도 되나요?/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Serializer 안에 Serializer가 들어가도 되나요?/","title":"Serializer 안에 Serializer가 들어가도 되나요?"}
 ---
 
 - ref

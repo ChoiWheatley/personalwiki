@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"redis로 access token blacklist 관리하기 {nodejs} {todo}","created":"2023-11-07T08:40:41","updated":"2023-11-07T08:410:359","dg-publish":true,"permalink":"/docs/redis로 access token blacklist 관리하기 {nodejs} {todo}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/redis로 access token blacklist 관리하기 {nodejs} {todo}/","title":"redis로 access token blacklist 관리하기 {nodejs} {todo}"}
 ---
 
 - [[docs/express.js 과제 {swjungle}\|express.js 과제 {swjungle}]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"Nginx가 multipart-form-data 요청을 제대로 전달하지 못하는 문제","created":"2024-09-02T18:07:54","updated":"2024-09-02T18:24:48","dg-publish":true,"permalink":"/docs/Nginx가 multipart-form-data 요청을 제대로 전달하지 못하는 문제/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/Nginx가 multipart-form-data 요청을 제대로 전달하지 못하는 문제/","title":"Nginx가 multipart-form-data 요청을 제대로 전달하지 못하는 문제"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-17T23:51:50","updated":"2023-07-15T21:33:02","title":"에러를 빠르게 만드는 편인가요, 아니면 None, inf와 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요","dg-publish":true,"permalink":"/docs/에러를 빠르게 만드는 편인가요, 아니면 None, inf와 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/에러를 빠르게 만드는 편인가요, 아니면 None, inf와 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요/","title":"에러를 빠르게 만드는 편인가요, 아니면 None, inf와 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요"}
 ---
 
 - [?] 선생님은 코드 짤때 에러를 빠르게 발생시킬 수 있게 만드는 편인가요, 아니면 `None`, `float('inf')`과 같이 클라이언트 알아서 판단할 수 있게 만드는 편인가요? 물론 컨벤션/문서에 맞추는 것이 우선이긴 하지만 선생님 개인적인 선호도가 궁금합니다. 

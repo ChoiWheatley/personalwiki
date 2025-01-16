@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"description":null,"created":"2023-07-14T23:59:47","tags":null,"source":"https://www.wanted.co.kr/community/post/926","author":"김코딩","title":"개발자가 꼭 알아야할 GitHub 리포지토리 모음","updated":"2023-07-15T21:30:21","dg-publish":true,"permalink":"/docs/assets/개발자가 꼭 알아야할 GitHub 리포지토리 모음/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/assets/개발자가 꼭 알아야할 GitHub 리포지토리 모음/","title":"개발자가 꼭 알아야할 GitHub 리포지토리 모음"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"GROUP BY","created":"2024-03-14T11:47:22","updated":"2024-03-14T14:08:01","dg-publish":true,"permalink":"/docs/GROUP BY/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/GROUP BY/","title":"GROUP BY"}
 ---
 
 제품 라인별 제품 수: 각 제품 라인에 속한 제품의 수를 조회하세요.

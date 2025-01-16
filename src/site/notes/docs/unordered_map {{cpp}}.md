@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"unordered_map {{cpp}}","created":"2024-01-03T16:44:57","updated":"2024-01-03T18:06:18","dg-publish":true,"permalink":"/docs/unordered_map {{cpp}}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/unordered_map {{cpp}}/","title":"unordered_map {{cpp}}"}
 ---
 
 - [[docs/C++\|cpp]]

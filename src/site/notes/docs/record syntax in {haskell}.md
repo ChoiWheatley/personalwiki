@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"record syntax in {haskell}","created":"2024-10-24T12:22:16","updated":"2024-10-24T12:35:26","dg-publish":true,"permalink":"/docs/record syntax in {haskell}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/record syntax in {haskell}/","title":"record syntax in {haskell}"}
 ---
 
 ref: <https://learnyouahaskell.com/making-our-own-types-and-typeclasses/#record-syntax>

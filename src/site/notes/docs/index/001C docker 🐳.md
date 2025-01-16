@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"001C docker 🐳","created":"2024-08-31T21:52:27","updated":"2024-11-21T00:12:24","dg-publish":true,"permalink":"/docs/index/001C docker 🐳/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/001C docker 🐳/","title":"001C docker 🐳"}
 ---
 
 ![Docker_Logo.jpg|100](/img/user/docs/assets/Docker_Logo.jpg)

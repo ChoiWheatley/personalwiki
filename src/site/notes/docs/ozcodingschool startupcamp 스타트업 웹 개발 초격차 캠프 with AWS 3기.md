@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"ozcodingschool startupcamp 스타트업 웹 개발 초격차 캠프 with AWS 3기","created":"2024-03-03T21:00:13","updated":"2024-11-22T22:32:30","dg-publish":true,"permalink":"/docs/ozcodingschool startupcamp 스타트업 웹 개발 초격차 캠프 with AWS 3기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/ozcodingschool startupcamp 스타트업 웹 개발 초격차 캠프 with AWS 3기/","title":"ozcodingschool startupcamp 스타트업 웹 개발 초격차 캠프 with AWS 3기"}
 ---
 
 - [초격차 캠프 with AWS 3기](https://ozcodingschool.com/ozcoding/startupcamp)

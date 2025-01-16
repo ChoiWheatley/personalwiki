@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"created":"2023-06-29T08:03:09","updated":"2023-07-15T21:33:03","title":"REST error message in HTTP Header or Response Body {sof}","dg-publish":true,"permalink":"/docs/REST error message in HTTP Header or Response Body {sof}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/REST error message in HTTP Header or Response Body {sof}/","title":"REST error message in HTTP Header or Response Body {sof}"}
 ---
 
 - [sof](https://stackoverflow.com/questions/13963932/rest-error-message-in-http-header-or-response-body)

@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-12T22:48:18","updated":"2023-09-02T22:39:05","title":"CMake","dg-publish":true,"permalink":"/docs/CMake/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/CMake/","title":"CMake"}
 ---
 
 - [CMake Packages](https://cmake.org/cmake/help/latest/manual/cmake-packages.7.html#creating-relocatable-packages)

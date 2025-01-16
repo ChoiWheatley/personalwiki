@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-06-01T15:21:01","updated":"2023-07-19T01:05:57","title":"django.urls.include(module, namespace)","dg-publish":true,"permalink":"/docs/django.urls.include(module, namespace)/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/django.urls.include(module, namespace)/","title":"django.urls.include(module, namespace)"}
 ---
 
 

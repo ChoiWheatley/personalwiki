@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-05-01T13:05:45","updated":"2023-07-15T21:33:02","title":"클래스 - python","dg-publish":true,"permalink":"/docs/클래스 - python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/클래스 - python/","title":"클래스 - python"}
 ---
 
 - `class MyClass(object):` 로 시작한다. 저 괄호 안에 들어가는 건 뭐지? => `object` 타입을 상속한다는 의미임.

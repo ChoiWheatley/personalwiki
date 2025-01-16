@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"여러가지 DBMS들","created":"2024-03-11T17:33:34","updated":"2024-03-11T18:18:18","dg-publish":true,"permalink":"/docs/여러가지 DBMS들/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/여러가지 DBMS들/","title":"여러가지 DBMS들"}
 ---
 
 - **Redis**

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"typeorm 연관 컬럼을 객체가 아니라 id number로 불러오기","created":"2024-03-28T21:44:53","updated":"2024-03-28T21:50:10","dg-publish":true,"permalink":"/docs/typeorm 연관 컬럼을 객체가 아니라 id number로 불러오기/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/typeorm 연관 컬럼을 객체가 아니라 id number로 불러오기/","title":"typeorm 연관 컬럼을 객체가 아니라 id number로 불러오기"}
 ---
 
 - [stackoverflow / Only Ids instead of whole instances](https://stackoverflow.com/questions/59831159/typeorm-relationship-only-ids-instead-of-whole-instances)

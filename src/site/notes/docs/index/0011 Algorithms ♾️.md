@@ -1,5 +1,5 @@
 ---
-{"links":"[[welcome|welcome]]","status":null,"description":null,"title":"0011 Algorithms ♾️","created":"2023-02-09T11:01:38","categories":["index"],"aliases":["algorithms","알고리즘"],"tags":["index","algo"],"date created":"Thursday, February 9th 2023, 11:01:38 am","date modified":"Monday, February 27th 2023, 6:20:45 pm","updated":"2024-12-25T14:35:30","dg-publish":true,"permalink":"/docs/index/0011 Algorithms ♾️/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/index/0011 Algorithms ♾️/","title":"0011 Algorithms ♾️","tags":["index","algo"]}
 ---
 
 

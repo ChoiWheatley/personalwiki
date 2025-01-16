@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-11T00:29:11","updated":"2023-07-15T21:33:04","title":"mingle","dg-publish":true,"permalink":"/docs/mingle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/mingle/","title":"mingle"}
 ---
 
 - mix

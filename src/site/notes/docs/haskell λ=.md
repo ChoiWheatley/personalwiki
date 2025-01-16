@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"haskell λ=","created":"2024-10-24T11:59:40","updated":"2024-10-24T12:06:02","dg-publish":true,"permalink":"/docs/haskell λ=/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/haskell λ=/","title":"haskell λ="}
 ---
 
 학습자료: <https://learnyouahaskell.com/chapters>

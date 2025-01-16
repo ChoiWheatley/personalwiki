@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":null,"created":"2023-04-26T21:06:35","updated":"2023-07-15T21:33:04","title":"html table","dg-publish":true,"permalink":"/docs/html table/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/html table/","title":"html table"}
 ---
 
 - [notion src](https://paullabworkspace.notion.site/table-298bb9380b9541cb852779393bbec940)

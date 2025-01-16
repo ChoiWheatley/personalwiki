@@ -1,5 +1,5 @@
 ---
-{"description":null,"aliases":null,"tags":["english"],"created":"2023-03-09T18:57:53","updated":"2023-07-15T21:33:04","title":"impasse","dg-publish":true,"permalink":"/docs/impasse/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/impasse/","title":"impasse","tags":["english"]}
 ---
 
 교착상태 (=deadlock)

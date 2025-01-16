@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"description":null,"title":"priority-donate-nest, chain {swjungle} {pintos}","created":"2023-09-29T21:17:33","updated":"2023-10-02T20:22:13","dg-publish":true,"permalink":"/docs/priority-donate-nest, chain {swjungle} {pintos}/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/priority-donate-nest, chain {swjungle} {pintos}/","title":"priority-donate-nest, chain {swjungle} {pintos}"}
 ---
 
 - <https://github.com/ChoiWheatley/swjungle-week07-09/pull/23>
