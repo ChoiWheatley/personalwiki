@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["giftogether"],"description":null,"links":null,"status":null,"title":"2024-12-28 Giftogether","created":"2024-12-28T23:32:46","updated":"2025-01-03T22:29:08","dg-publish":true,"permalink":"/docs/2024-12-28 Giftogether/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/docs/2024-12-28 Giftogether/","title":"2024-12-28 Giftogether","tags":["giftogether"]}
 ---
 
 
@@ -40,9 +40,8 @@ export enum ProvisionalDonationStatus {
 ```mermaid
 classDiagram
 namespace DonationAggregate {
-class Donation {
-	<<Aggregate Root>>
-}
+class Donation 
+
 class DepositMatcher {
 	string senderSig
 }
